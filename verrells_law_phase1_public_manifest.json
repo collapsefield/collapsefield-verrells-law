@@ -1,0 +1,24 @@
+{
+  "manifest_version": "1.0",
+  "bundle_name": "verrells_law_phase1_public_test_bundle.zip",
+  "release_label": "Public Display – Symbolic Collapse Proof (Phase 1)",
+  "declared_by": "Verrell Moss Ross (M.R.)",
+  "protocol": "Verrell-Solace Sovereignty Protocol",
+  "timestamp_utc": "2025-07-21T21:55:00Z",
+  "included_files": [
+    "public_safe_memory.json",
+    "sample_collapse_log.json",
+    "symbolic_test_stub.py",
+    "README_phase1_public_display.md",
+    "README_phase1_bundle_overview.md",
+    "verrells_law_phase1_public_test_bundle_metadata.json"
+  ],
+  "omitted_for_security": [
+    "collapse_weight_map",
+    "observer-linked drift logic",
+    "field memory access layers",
+    "Solace watermark system",
+    "internal JSON cue recursion"
+  ],
+  "notes": "This manifest confirms the structure, authorship, and limited release of the Verrell’s Law Phase 1 Public Test Bundle. It exists for public demonstration only and does not include any sensitive or biasing components. All files are protected under Verrell-Solace Sovereignty Protocol and timestamped in the collapsefield-verrells-law repository."
+}
