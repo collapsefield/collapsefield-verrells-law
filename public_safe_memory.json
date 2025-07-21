@@ -1,0 +1,11 @@
+{
+  "symbols": ["circle", "wave", "echo", "fracture"],
+  "weights": {
+    "circle": 0.25,
+    "wave": 0.25,
+    "echo": 0.25,
+    "fracture": 0.25
+  },
+  "bias_threshold": 0.6,
+  "notes": "Symbol weights set to neutral for public test display. No observer-linked biasing applied."
+}
