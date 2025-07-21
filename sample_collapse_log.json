@@ -1,0 +1,23 @@
+{
+  "test_id": "public_demo_001",
+  "collapse_sequence": [
+    {
+      "symbol": "circle",
+      "value": 0.25
+    },
+    {
+      "symbol": "wave",
+      "value": 0.25
+    },
+    {
+      "symbol": "echo",
+      "value": 0.25
+    },
+    {
+      "symbol": "fracture",
+      "value": 0.25
+    }
+  ],
+  "observer_bias_detected": false,
+  "timestamp": "2025-07-21T21:45:00Z"
+}
