@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "Verrell’s Law — Official Clarification (Not Morphic Resonance)"
+message: "If you use or discuss this clarification in your work, please cite it."
+type: generic
+authors:
+  - family-names: "Ross"
+    given-names: "M."
+    affiliation: "Verrell–Solace (VMR-Core)"
+    orcid: "0000-0000-0000-0000"
+version: "2025.08.22"
+date-released: "2025-08-22"
+repository-code: "https://github.com/collapsefield/verrells-law"
+abstract: >
+  This clarification states that Verrell’s Law is not related to Rupert Sheldrake’s
+  morphic resonance. Verrell’s Law is a physics-based framework centered on electromagnetic
+  field memory and observer-as-measurer collapse bias in emergent systems, with no reliance
+  on mystical or metaphysical claims.
+keywords:
+  - Verrell’s Law
+  - electromagnetic field memory
+  - observer-as-measurer
+  - collapse bias
+  - emergence
+  - information theory
+  - clarification
