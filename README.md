@@ -1,3 +1,5 @@
+If you’re new, start here. For live experiments and reproducible tests, see CollapseAware-Experiments
+
 # Verrell’s Law – GitHub Archive  
 
 **A radical scientific theory redefining memory, time, and consciousness as electromagnetic emergence loops.**  
