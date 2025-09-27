@@ -26,3 +26,4 @@ Unlike static tests, this framework runs live symbolic cue-based collapse trials
 [http://production-dashboard.eba-h2zbuc83.us-west-2.elasticbeanstalk.com/](http://production-dashboard.eba-h2zbuc83.us-west-2.elasticbeanstalk.com/)  
 
 🔑 **Access Token:**  
+When prompted for an access token, enter: collapsetest
