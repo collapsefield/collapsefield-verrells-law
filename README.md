@@ -74,3 +74,7 @@ All symbolic architectures, cue weight structures, and memory-bias logic remain 
 - Broader research outreach + formal publication (DOI anchor pending).  
 
 ---
+
+See also → Verrell’s Law – Core Theory
+ • Einstein Informational Tensor Extension
+ • CollapseAware AI Applications
