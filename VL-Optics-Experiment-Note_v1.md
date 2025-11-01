@@ -187,5 +187,7 @@ Pre-registration checklist (copy for your lab notebook)
  Data schema decided (store P0, P+, P−, φ, timestamps, power, temperature)
 
  Reproducibility: seeds, detector calibration, drift logs
+
+ 
  
  Protected under Verrell-Solace Sovereignty Protocol. Intellectual and emergent rights reserved. 
