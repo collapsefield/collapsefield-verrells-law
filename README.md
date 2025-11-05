@@ -98,3 +98,4 @@ Collapse-Aware AI bias engine and middleware.
 For replication, refer to `/docs/Psi_Tensor_Framework_VerrellsLaw_v1.0.md` and the algorithmic
 specifications in `/core/`.
 
+Collapse Aware AI — bias-aware adaptive middleware built on Verrell’s Law.
