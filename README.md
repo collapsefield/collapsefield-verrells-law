@@ -42,7 +42,7 @@ This principle underpins the **Ψ μν Informational Field Tensor**, extending E
 
 ---
 
-## 🧩 Relation to CollapseAware AI
+## 🧩 Relation to Collapse-Aware AI
 **Collapse-Aware AI (CAAI / CollapseAware AI)** implements Verrell’s Law as functional software:  
 real-time bias-governed middleware steering inference through **weighted moments** (recency, salience, anchor).  
 This repo contains the scientific base; the CAAI repository holds the engineering layer.  
