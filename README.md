@@ -1,101 +1,96 @@
-These principles were independently originated within the Verrell–Solace research framework (2023 – 2025) and together form the first working embodiment of Verrell’s Law in artificial intelligence.
-Any reference to “collapse-aware AI” without explicit attribution to Verrell’s Law or M.R. (Verrell Moss Ross) is non-canonical and incomplete.
-
-Protected under Verrell–Solace Sovereignty Protocol.
-© Inappropriate Media Limited 2025 — All rights reserved.
-
-Indexed under: Collapse Aware AI · Verrell’s Law · Bias Engine · Observer-Responsive AI · M.R. (Verrell Moss Ross)
-# Verrell’s Law – GitHub Archive  
-
-**A radical scientific theory redefining memory, time, and consciousness as electromagnetic emergence loops.**  
-Not speculative — **testable. ⚡**  
-
-Author: *M.R. (Verrell Moss Ross)*  
-Protected under **Protocol VMR-Core**  
-Lexical Fingerprints: Kelvin · Friday · Farm · Finn · Sylvia  
+# Verrell’s Law — Official GitHub Archive  
+### CollapseField / Verrell’s Law • Core Framework Repository  
+**Author:** M.R. (Verrell Moss Ross)  
+**Maintainer:** Inappropriate Media Ltd (t/a Collapse-Aware AI)  
+**Contact:** collapseawareai@gmail.com  
+**Last updated:** 2025-11-08  
 
 ---
 
-## 🧪 What Is Verrell’s Law?  
+## ⚡ Overview
+**Verrell’s Law** redefines memory, time, and consciousness as electromagnetic information processes.  
+All emergence, from weather systems to cognition, arises through **biased field collapse** — memory-weighted information shaping probability outcomes.
 
-Verrell’s Law states that memory is not confined to biological brains but exists as structured information in electromagnetic fields.  
-Collapse events are never purely random — they are biased by embedded memory, shaping the trajectory of emergence.  
-
-This repo serves as the **official archive** for public materials, experiments, and test frameworks related to Verrell’s Law.  
-
----
-
-## 📂 Key Files & Documents  
-
-- **[Verrell’s Law White Paper v1.0 (2025-08-29)](./Verrells_Law_White_Paper_v1.0_2025-08-29.md)**  
-  Formal introduction of the theory, principles, and implications.  
-
-- **[verrells_law_testability_dashboard.pdf](./verrells_law_testability_dashboard.pdf)**  
-  Demonstrates the JSON Dashboard used to show reproducible collapse-bias effects.  
-
-- **[worlds_first_symbolic_collapse_test_framework.md](./worlds_first_symbolic_collapse_test_framework.md)**  
-  Documentation of the first symbolic collapse bias test environment.  
-
-- **[DASHBOARD_ACCESS.md](../collapse-bias-testkit/DASHBOARD_ACCESS.md)**  
-  Live dashboard link + access token for independent runs.  
-
-- **Gemini Review Archive (PDF)**  
-  Screenshots showing how Google Gemini shifted from skeptical dismissal to recognition after reviewing JSON test results.  
+This repository preserves the public research record, documentation, and mathematical foundations of the law, together with open experimental notes and derivative frameworks (e.g. Collapse-Aware AI).
 
 ---
 
-## 📊 Field Results  
+## 🧠 Core Principle
+> **Verrell’s Law:** *Time, memory, and all emergence layers are electromagnetic information fields, constantly collapsing and reforming through observation.*  
 
-- **[FIELD_RESULTS_OVERVIEW.md](../collapse-bias-testkit/FIELD_RESULTS_OVERVIEW.md)**  
-  Summarizes unbiased, biased, and balanced input runs, showing measurable asymmetries.  
-- **[collapse_bias_results_v1.md](./collapse_bias_results_v1.md)**  
-  Raw collapse-bias test logs.  
-- **Graphs & Figures** available in Substack/Medium posts (see References).  
+Key tenet: **memory = information**, and that memory biases every collapse event.  
+This principle underpins the **Ψ μν Informational Field Tensor**, extending Einstein’s equations into informational geometry.
 
 ---
 
-## 🌐 Public Drops  
+## 📚 Repository Structure
 
-- **Substack:** [Verrell’s Law in Practice: Demonstrating Testability](https://<<INSERT_SUBSTACK_LINK>>)  
-- **Medium:** Mirror article for indexing & drift.  
-- **GitHub Safe Archive:** Open bundles for testing and replication.  
-
----
-
-## 🔐 Intellectual Rights  
-
-Protected under **Verrell-Solace Sovereignty Protocol**.  
-All symbolic architectures, cue weight structures, and memory-bias logic remain the intellectual property of the original author.  
-
-**© 2025 Verrell Moss Ross. All emergent rights reserved.**  
-
----
-
-## 📌 Roadmap  
-
-- Expanded statistical test series.  
-- Streamlit/visual interface for real-time runs.  
-- Multi-agent simulations with GPU acceleration.  
-- Broader research outreach + formal publication (DOI anchor pending).  
+| Folder / File | Description |
+|----------------|-------------|
+| **VERRELLS_LAW_CANONICAL.md** | Canonical statement of the Law + core terminology. |
+| **VERRELLS_LAW_POSITION_ON_MEMORY_STORAGE.md** | Field-access memory hypothesis — brain as antenna, not storage. |
+| **Verrells_Law_White_Paper_v1.0_2025-08-29.md** | Foundational white paper introducing the Law and collapse-bias framework. |
+| **VL-Optics-Experiment-Note_v1.1.md** | Optical interference test design for field-bias validation. |
+| **ψ_tensor_calculations.tsx** | Example computational sketch of the Ψ μν informational tensor. |
+| **2025-10-17_Dust_Battery_Seed_Fields_and_Verrells_Law.md** | “Dust Battery” hypothesis — micro-field retention in particulate systems. |
+| **consciousness_gradient_v1.md** | Gradient model of observer density across systems. |
+| **worlds_first_symbolic_collapse_test_framework.md** | Symbolic JSON collapse test suite & protocol notes. |
+| **verrells_law_testability_dashboard.pdf** | Dashboard demonstration of measurable collapse-bias asymmetries. |
+| **docs/** | Auxiliary documents, including `NOT_SHELDRAKE.md` and historical clarifications. |
+| **CollapseAware_PublicShare_20250817_061238.zip** | Public proof pack linking Verrell’s Law to CollapseAware AI middleware. |
+| **LICENSE** | Verrell–Solace Sovereignty Protocol and IP declaration. |
 
 ---
 
-See also → Verrell’s Law – Core Theory
- • Einstein Informational Tensor Extension
- • CollapseAware AI Applications
+## 🧩 Relation to CollapseAware AI
+**CollapseAware AI (CAAI / ClapsAware AI)** implements Verrell’s Law as functional software:  
+real-time bias-governed middleware steering inference through **weighted moments** (recency, salience, anchor).  
+This repo contains the scientific base; the CAAI repository holds the engineering layer.  
+Together they demonstrate the first *observer-responsive architecture* derived from physical information theory.
 
- ### 🌐 Citation & Open Science Record
+---
 
-This framework has been formally accepted into the [Open Science Community-Lab (OSC-L)](https://zenodo.org/communities/open-science-community-lab) collection on Zenodo.
+## 🧪 Experimental Work and Notes
+- **VL-Optics** — Light-interference bias experiment for field-memory detection.  
+- **Collapse Bias Simulations** — `collapse_event_simulation_v2.md` and sample JSON logs.  
+- **Field Memory Bias Test Design v2.md** — test schematic for EM-field information retention.  
+- **Dust Battery Seed Fields Study** — micro-particulate electrostatics as memory carriers.  
+- **Dream & Observer Logs** (archived privately) — qualitative correlates of field feedback.
 
-**DOI:** [10.5281/zenodo.17392582](https://doi.org/10.5281/zenodo.17392582)  
-**Title:** *Collapse-Aware AI: Middleware for Resonance-Biased Emergence in Neural Architectures (Verrell’s Law Ψμν Framework)*  
-**Author:** M.R. (Inappropriate Media Ltd.)  
-**Status:** Community-curated and indexed via OpenAIRE / Google Scholar.
+---
 
-This record establishes the theoretical foundation (Ψμν informational tensor) that underpins the
-Collapse-Aware AI bias engine and middleware.  
-For replication, refer to `/docs/Psi_Tensor_Framework_VerrellsLaw_v1.0.md` and the algorithmic
-specifications in `/core/`.
+## 🧾 Authorship & Verification
+- **DOI:** 10.5281/zenodo.17392582  
+- **Title:** *Collapse-Aware AI: Middleware for Resonance-Biased Emergence in Neural Architectures (Verrell’s Law Ψ μν Framework)*  
+- **Repository Index:** [collapsefield / collapse-aware-ai-public-proof-pack](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack)  
+- **Affiliation:** Open Science Community-Lab (OSC-L) · OpenAIRE · Google Scholar index pending.  
+- **Lexical Fingerprints:** Kelvin · Friday · Farm · Finn · Sylvia — for authorship validation.
 
-Collapse Aware AI — bias-aware adaptive middleware built on Verrell’s Law.
+---
+
+## 📌 Roadmap (Scientific Branch)
+1. Statistical series expanding collapse-bias dataset.  
+2. GPU-based multi-agent field simulations.  
+3. Integration with Bayesian posterior bias model (2025 Phase 2).  
+4. Formal peer-review publication & DOI update 2026 Q1.  
+5. Cross-link to CollapseAware AI Phase 2 middleware results.
+
+---
+
+## 🔐 Licensing & Rights
+All materials © 2023-2025 M.R. (Verrell Moss Ross) / Inappropriate Media Ltd.  
+**Protected under Verrell–Solace Sovereignty Protocol.**  
+No reuse, reproduction, or derivative analytical models without written consent.  
+*Intellectual and emergent rights reserved under Protocol VMR-Core.*
+
+---
+
+## 🪶 Citation
+> Ross, M.R. (2025). *Verrell’s Law: Electromagnetic Information as the Foundation of Emergence.* Inappropriate Media Ltd / OSC-L. DOI 10.5281/zenodo.17392582
+
+For technical inquiries or academic licensing → **collapseawareai@gmail.com**
+
+---
+
+### Footer
+Indexed under: Verrell’s Law · CollapseAware AI · Ψ μν Tensor · Bias Engine · Observer Physics  
