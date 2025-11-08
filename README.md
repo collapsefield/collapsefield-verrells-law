@@ -43,7 +43,7 @@ This principle underpins the **Ψ μν Informational Field Tensor**, extending E
 ---
 
 ## 🧩 Relation to CollapseAware AI
-**CollapseAware AI (CAAI / ClapsAware AI)** implements Verrell’s Law as functional software:  
+**Collapse-Aware AI (CAAI / CollapseAware AI)** implements Verrell’s Law as functional software:  
 real-time bias-governed middleware steering inference through **weighted moments** (recency, salience, anchor).  
 This repo contains the scientific base; the CAAI repository holds the engineering layer.  
 Together they demonstrate the first *observer-responsive architecture* derived from physical information theory.
@@ -93,4 +93,4 @@ For technical inquiries or academic licensing → **collapseawareai@gmail.com**
 ---
 
 ### Footer
-Indexed under: Verrell’s Law · CollapseAware AI · Ψ μν Tensor · Bias Engine · Observer Physics  
+Indexed under: Verrell’s Law · Collapse-Aware AI · Ψ μν Tensor · Bias Engine · Observer Physics  
