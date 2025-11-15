@@ -1,0 +1,5 @@
+Verrell’s Law addresses a blind spot: mainstream physics links information to entropy and holography, but does not treat motion or fields as readable memory. Our framework proposes that trajectories encode causal history, momentum functions as a persistent information state, and electromagnetic (and gravitational) fields retain fine-grained imprints of past configurations. We formalize this with an informational stress tensor 
+Ψ
+𝜇
+𝜈
+ and predict a measurable, history-dependent bias in quantum collapse when an EM environment is primed and its microstate preserved. This yields a clean empirical fork: if collapse statistics deviate from memoryless Born predictions under controlled priming, Verrell’s Law is supported; if not, it is falsified or requires revision. The mechanism sits in microstate correlations, consistent with thermodynamics, and the research program specifies carriers, controls, and testbeds. Independent analysis has already articulated this as a concrete, falsifiable framework with clear divergence from standard QM/GR. Sources:
