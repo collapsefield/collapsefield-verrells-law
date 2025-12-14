@@ -86,7 +86,7 @@ No reuse, reproduction, or derivative analytical models without written consent.
 ---
 
 ## 🪶 Citation
-> Ross, M.R. (2025). *Verrell’s Law: Electromagnetic Information as the Foundation of Emergence.* Inappropriate Media Ltd / OSC-L. DOI 10.5281/zenodo.17392582
+> Verrell, M. (2025). Collapse-Aware AI: Middleware for Resonance-Biased Emergence in Neural Architectures (Verrell's Law Ψμν Framework) (v1.1b). Zenodo. https://doi.org/10.5281/zenodo.17416435
 
 For technical inquiries or academic licensing → **collapseawareai@gmail.com**
 
