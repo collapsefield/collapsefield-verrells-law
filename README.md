@@ -73,7 +73,7 @@ Together they demonstrate the first *observer-responsive architecture* derived f
 2. GPU-based multi-agent field simulations.  
 3. Integration with Bayesian posterior bias model (2025 Phase 2).  
 4. Formal peer-review publication & DOI update 2026 Q1.  
-5. Cross-link to CollapseAware AI Phase 2 middleware results.
+5. Cross-link to Collapse-Aware AI Phase 2 middleware results.
 
 ---
 
