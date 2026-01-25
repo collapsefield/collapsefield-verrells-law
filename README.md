@@ -55,7 +55,7 @@ Together they demonstrate the first *observer-responsive architecture* derived f
 - **Collapse Bias Simulations** — `collapse_event_simulation_v2.md` and sample JSON logs.  
 - **Field Memory Bias Test Design v2.md** — test schematic for EM-field information retention.  
 - **Dust Battery Seed Fields Study** — micro-particulate electrostatics as memory carriers.  
-- **Dream & Observer Logs** (archived privately) — qualitative correlates of field feedback.
+- **Observer Logs** (archived privately) — qualitative correlates of field feedback.
 
 ---
 
