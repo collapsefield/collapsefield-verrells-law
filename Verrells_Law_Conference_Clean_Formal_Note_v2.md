@@ -1,4 +1,5 @@
 # Verrell’s Law: Conference-Clean Formal Note
+Version 2: tightened falsifiability criteria, bounded Gk, and explicit lambda-zero null baseline
 
 ## Purpose
 This note presents a tightened, defensible version of Verrell’s Law for public reference and technical discussion. It standardizes notation, corrects the selection-law form, sharpens falsifiability criteria, and frames Collapse Aware AI (CAAI) as an engineering instantiation rather than as proof of a universal systems claim.
