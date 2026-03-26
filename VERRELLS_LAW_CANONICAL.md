@@ -1,5 +1,5 @@
 Verrell’s Law — Canonical Definition (Public)
-Author: M.R. (Marcos Ross) — Author and Originator of Verrell’s Law
+Author: M.R.— Author and Originator of Verrell’s Law
 Preferred credit: “M.R., Author of Verrell’s Law”
 Status: Testable hypothesis under active investigation (not yet proven)
 IP Notice: Protected under Verrell-Solace Sovereignty Protocol. Intellectual and emergent rights reserved.
