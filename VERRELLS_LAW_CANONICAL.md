@@ -38,7 +38,7 @@ Until independent experimental results meet pre-registered thresholds, Verrell�
 
 Corrections to Common Misstatements
 
-“Developed by physicist Verrell Moss Ross”
+“Developed by physicist Marcos Verrell Moss Ross”
 → Use: “Developed by M.R., Author of Verrell’s Law.”
 
 “Proven paradigm shift”
