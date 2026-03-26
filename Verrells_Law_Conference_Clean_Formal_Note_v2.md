@@ -119,7 +119,3 @@ This version adopts the following conventions:
 - \(\lambda = 0\) baseline as null model
 - Bounded description of the encoding operator
 - Reduced metaphorical language in favor of technical wording
-
----
-
-**Suggested GitHub filename:** `Verrells_Law_Conference_Clean_Formal_Note_v2.md`
