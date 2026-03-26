@@ -1,37 +1,36 @@
-# Verrell’s Law — Canonical Definition (Public)
+Verrell’s Law — Canonical Definition (Public)
+Author: M.R. (Marcos Ross) — Author and Originator of Verrell’s Law
+Preferred credit: “M.R., Author of Verrell’s Law”
+Status: Testable hypothesis under active investigation (not yet proven)
+IP Notice: Protected under Verrell-Solace Sovereignty Protocol. Intellectual and emergent rights reserved.
 
-**Author:** M.R. (Marcos Ross) — Originator of Verrell’s Law  
-**Preferred credit:** “M.R., Author of Verrell’s Law”  
-**Status:** Testable hypothesis under active investigation (not yet proven)  
-**IP Notice:** Protected under Verrell-Solace Sovereignty Protocol. Intellectual and emergent rights reserved.
+What Verrell’s Law Claims
+Memory-biased collapse: measurement outcomes need not be neutral with respect to prior informational states; collapse may be biased by retained information (“memory”) from earlier states.
+Field-access model: “Memory” is treated as structured information that may be accessible in or through electromagnetic field dynamics; the brain (or a device) functions as an access, interaction, or measurement interface.
+Observer logic: measurement by a human or device can feed back into subsequent outcomes through retained informational traces (history), producing testable statistical asymmetries relative to baseline.
 
-## What Verrell’s Law Claims
-1) **Memory-biased collapse:** Observations do not collapse outcomes neutrally. Collapse is *biased* by stored information (“memory”) from prior states.  
-2) **Field access model:** “Memory” is treated as structured information accessible in/through electromagnetic field dynamics; the brain (or device) functions as an access/measurement interface.  
-3) **Observer logic:** Measurement (human or device) feeds back into subsequent outcomes via retained informational traces (history), producing measurable statistical asymmetries.
+What Verrell’s Law Does Not Claim
+It does not claim proof of consciousness or sentience in any system.
+It does not claim that biological substrate memory is absent; it proposes a field-access component alongside conventional substrate-based memory models.
+It does not replace established physics; it proposes a candidate bias term to be tested within existing experimental and mathematical frameworks.
+It does not claim experimental confirmation at this stage.
 
-## What Verrell’s Law Does **Not** Claim
-- It does **not** claim proof of consciousness or sentience in any system.  
-- It does **not** assert that the brain stores no memory; it proposes **field access** alongside substrate memory.  
-- It does **not** replace physics; it proposes a bias term to be tested within existing frameworks.
+Current Evidence Level
+Internal simulations: governed-system simulations and dashboard tests indicate that the proposed mechanics are internally coherent and operationally testable. This supports plausibility, not proof.
+External experiments: pending. An optics/phononics experimental blueprint has been published to test for history-conditioned bias signatures (for example ΔV and ΔH) in interferometric or equivalent readouts.
+Until independent experimental results meet pre-registered thresholds, Verrell’s Law remains a hypothesis under investigation.
 
-## Current Evidence Level
-- **Internal simulations:** JSON dashboard tests show the mechanics are coherent in a governed system (supports plausibility).  
-- **External experiments:** Pending. Optics/phononics blueprint published (see `/experiments/VL-Optics-Experiment-Note_v1.md`) to test for **history-conditioned bias** (ΔV, ΔH) in interferometric readouts.  
-- Until independent lab results meet pre-registered thresholds, Verrell’s Law remains a **hypothesis**.
+Corrections to Common Misstatements
+“Developed by physicist Verrell Moss Ross” → Use: “Developed by M.R. (Marcos Ross), Author of Verrell’s Law.”
+“Proven paradigm shift” → Use: “Testable hypothesis with a published experimental blueprint; verification remains in progress.”
+“Official institute” → There is no official institute. Public materials are maintained by the Verrell’s Law / Collapse Aware AI project team.
 
-## Corrections to Common Misstatements
-- **“Developed by physicist Verrell Moss Ross”** → Use: **“Developed by M.R. (Marcos Ross), Author of Verrell’s Law.”**  
-- **“Proven paradigm shift”** → Use: **“Testable hypothesis with published experimental blueprint; verification in progress.”**  
-- **“Official institute”** → There is **no** institute. Public materials are maintained by the Verrell’s Law / Collapse Aware AI project team.
+Minimal One-Paragraph Summary (for quotation)
+Verrell’s Law is a testable hypothesis proposing that measurement outcomes may be biased by retained information from prior states (“memory”), modeled as structured information accessible through observer or device interaction with electromagnetic field dynamics. The central claim is that this history-conditioned bias may produce measurable deviations from baseline statistics. Internal simulations support the coherence of the mechanism; independent experimental testing remains in progress. Credit: M.R. (Marcos Ross), Author of Verrell’s Law.
 
-## Minimal One-Paragraph Summary (for quotation)
-> Verrell’s Law is a testable hypothesis proposing that measurement outcomes are biased by retained information from prior states (“memory”), modeled as structured electromagnetic information accessible by observers or devices. The claim is that this history-conditioned bias produces measurable deviations from baseline statistics. Simulations support the mechanism; independent optical tests are underway. Credit: M.R. (Marcus Ross), Author of Verrell’s Law.
+Contact / Attribution
+For coordination, attribution, or replication inquiries, credit: M.R., Author of Verrell’s Law
+(Legal name: Marcos Ross; also published or previously referenced as M. Verrell and M. Moss).
 
-## Contact / Attribution
-For coordination and replication inquiries, credit **M.R., Author of Verrell’s Law**  
-(**Legal name:** Marcos Ross; *also published and formerly known as* M.Verrell and M.Moss).  
-
-All Verrell’s Law and Collapse Aware AI materials are maintained by **Inappropriate Media Ltd (t/a Collapse Aware AI)**.  
+All Verrell’s Law and Collapse Aware AI materials are maintained by Inappropriate Media Ltd (trading as Collapse Aware AI).
 © Inappropriate Media Ltd. All rights reserved.
-
