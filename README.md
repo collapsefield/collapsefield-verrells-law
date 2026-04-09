@@ -1,9 +1,8 @@
 # Verrell’s Law — Official GitHub Archive
 
 **Repository:** CollapseField / Verrell’s Law  
-**Author:** M.R. (Verrell Moss Ross)  
-**Maintainer:** Inappropriate Media Ltd (trading as Collapse Aware AI)  
-**Contact:** collapseawareai@gmail.com  
+**Author:** M.R. (Verrell Moss Ross)   
+**Contact:** inappropriatemedia@gmx.co.uk
 **Last updated:** 2026-03-26
 
 ## Overview
