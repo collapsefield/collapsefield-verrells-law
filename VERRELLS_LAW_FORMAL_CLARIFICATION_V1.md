@@ -93,7 +93,9 @@ Where:
 - \( G_k \): constrained encoding or update family for memory class \( k \)
 - \( y_t \): realized outcome at time \( t \)
 
-Within this framework, \( G_k \) may vary by domain, but must satisfy repeatability, ablation, and downstream-effect criteria.
+Within this framework, \( G_k \) may vary by domain, but must satisfy repeatability, ablation, downstream-effect, and boundedness criteria.
+
+In particular, the update family must not permit unbounded memory growth over time; retained state must remain structurally constrained, selectively updated, and evaluable under finite conditions.
 
 ---
 
