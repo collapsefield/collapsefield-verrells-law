@@ -1,7 +1,7 @@
 # Verrell’s Law — Official GitHub Archive
 
 **Repository:** CollapseField / Verrell’s Law  
-**Author:** M.R. (Verrell Moss Ross)   
+**Author:**  Marcos Verrell Moss Ross (M.R.)   
 **Contact:** inappropriatemedia@gmx.co.uk
 **Last updated:** 2026-03-26
 
