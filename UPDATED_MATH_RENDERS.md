@@ -13,4 +13,4 @@ Notes
 
 These renders are intended as the current public-facing visual versions of the corresponding mathematical materials.
 
-They improve presentation consistency across the published image set, particularly for website display and repository reference.
+They improve presentation consistency across the published image set, particularly for repository reference.
