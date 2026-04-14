@@ -3,7 +3,7 @@
 **Repository:** CollapseField / Verrell’s Law  
 **Author:**  Marcos Verrell Moss Ross (M.R.)   
 **Contact:** inappropriatemedia@gmx.co.uk
-**Last updated:** 2026-04-09
+**Last updated:** 2026-04-14
 
 ## Overview
 
