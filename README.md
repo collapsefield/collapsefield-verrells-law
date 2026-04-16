@@ -1,9 +1,8 @@
-# Verrell’s Law — Official GitHub Archive
-
-**Repository:** CollapseField / Verrell’s Law  
-**Author:**  Marcos Verrell Moss Ross (M.R.)   
-**Contact:** inappropriatemedia@gmx.co.uk
-**Last updated:** 2026-04-15
+Verrell’s Law — Official GitHub Archive  
+Repository: CollapseField / Verrell’s Law  
+Author: Marcos Verrell Moss Ross (M.R.)  
+Contact: inappropriatemedia@gmx.co.uk  
+Last updated: 2026-04-15
 
 ## Overview
 
@@ -23,7 +22,7 @@ The core working claim is:
 - retained information can bias later emergence or selection
 - systems with different histories may diverge even under matched present-state conditions
 
-In stronger theoretical formulations, this framework is extended into field-based and informational interpretations of memory, observation, and emergence. Those broader interpretations are part of the ongoing research programme and should be distinguished from the narrower formal systems claim.
+In stronger theoretical formulations, this framework is extended into field-based and informational interpretations of memory, observation, and emergence. Those broader interpretations are part of the ongoing research programme and should be distinguished from the narrower formal systems claim. They should not be read as claiming that all thoughts or memories are stored entirely outside the brain or outside local system structure.
 
 ## Repository Structure
 
@@ -53,8 +52,8 @@ Current Phase-1 emphasis is not grand claims about artificial consciousness. It 
 
 In that sense:
 
-- **Verrell’s Law** provides the formal and conceptual basis
-- **Collapse Aware AI** provides the implementation path in software
+- Verrell’s Law provides the formal and conceptual basis
+- Collapse Aware AI provides the implementation path in software
 
 The theory repository is therefore distinct from the software build, even where the two are closely linked.
 
@@ -76,9 +75,9 @@ Some associated logs, exploratory notes, and authorship records remain archived 
 
 This repository forms part of the public authorship and provenance record for Verrell’s Law.
 
-**DOI:** 10.5281/zenodo.17392582  
-**Related DOI:** 10.5281/zenodo.17416435  
-**Repository index:** `collapsefield / collapse-aware-ai-public-proof-pack`
+DOI: 10.5281/zenodo.17392582  
+Related DOI: 10.5281/zenodo.17416435  
+Repository index: `collapsefield / collapse-aware-ai-public-proof-pack`
 
 Associated authorship and provenance measures include:
 
@@ -111,18 +110,18 @@ Copyright © 2023–2026 Verrell Moss Ross (M.R.) / Inappropriate Media Ltd.
 
 No permission is granted to reproduce, modify, distribute, publish, sublicense, create derivative works from, or commercially exploit repository contents without prior written permission from the rights holder.
 
-See the `LICENSE` file for the repository’s current rights and restrictions.
+See the LICENSE file for the repository’s current rights and restrictions.
 
 ## Citation
 
 If citing the associated public framework record, use:
 
-**Verrell, M. (2025). _Collapse-Aware AI: Middleware for Resonance-Biased Emergence in Neural Architectures (Verrell’s Law Psi-mu-nu Framework)_ (v1.1b). Zenodo. https://doi.org/10.5281/zenodo.17416435**
+Verrell, M. (2025). *Collapse-Aware AI: Middleware for Resonance-Biased Emergence in Neural Architectures (Verrell’s Law Psi-mu-nu Framework) (v1.1b).* Zenodo. https://doi.org/10.5281/zenodo.17416435
 
 ## Contact
 
 For technical, academic, or licensing enquiries:  
-**collapseawareai@gmail.com**
+collapseawareai@gmail.com
 
 ## Index Terms
 
