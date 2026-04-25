@@ -112,7 +112,7 @@ This work should be understood as an evolving research and engineering programme
 
 All materials in this repository are proprietary unless stated otherwise.
 
-Copyright © 2023–2026 Verrell Moss Ross (M.R.) / Inappropriate Media Ltd.
+Copyright © 2023–2026 Marcos Verrell Moss Ross (M.R.) / Inappropriate Media Ltd.
 
 No permission is granted to reproduce, modify, distribute, publish, sublicense, create derivative works from, or commercially exploit repository contents without prior written permission from the rights holder.
 
