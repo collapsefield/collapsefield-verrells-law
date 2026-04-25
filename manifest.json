@@ -1,0 +1,34 @@
+{
+  "title": "Verrell’s Law — Official GitHub Archive",
+  "version": "v1.1",
+  "author": "Marcos Verrell Moss Ross (M.R.)",
+  "maintainer": "Inappropriate Media Limited (t/a Collapse Aware AI)",
+  "contact": "collapseawareai@gmail.com",
+  "last_updated": "2026-04-25",
+  "description": "Public theory archive, research index, and authorship/provenance record for Verrell’s Law, a testable framework proposing that retained information from prior states can bias future state selection.",
+  "repository_visibility": "public documentation and archive",
+  "status": "testable hypothesis under active investigation; not independently experimentally proven",
+  "canonical_files": {
+    "start_here": "PUBLIC_READER_START_HERE.md",
+    "readme": "README.md",
+    "canonical_definition": "VERRELLS_LAW_CANONICAL.md",
+    "memory_storage_position": "VERRELLS_LAW_POSITION_ON_MEMORY_STORAGE.md",
+    "memory_tuning": "MEMORY_TUNING_AND_DISTRIBUTED_RETRIEVAL.md",
+    "formal_note": "Verrells_Law_Conference_Clean_Formal_Note_v2.md",
+    "formal_clarification": "VERRELLS_LAW_FORMAL_CLARIFICATION_V1.md",
+    "white_paper": "Verrells_Law_White_Paper_v1.0_2025-08-29.md",
+    "optics_experiment": "VL-Optics-Experiment-Note_v1.1.md",
+    "symbolic_test_framework": "worlds_first_symbolic_collapse_test_framework.md",
+    "not_morphic_resonance": "NOT_MORPHIC_RESONANCE.md",
+    "license": "LICENSE"
+  },
+  "links": {
+    "primary_doi": "https://doi.org/10.5281/zenodo.17392582",
+    "related_doi": "https://doi.org/10.5281/zenodo.17416435",
+    "caai_public_proof_pack": "https://github.com/collapsefield/collapse-aware-ai-public-proof-pack",
+    "project_contact": "mailto:collapseawareai@gmail.com"
+  },
+  "public_claim_boundary": "This repository documents Verrell’s Law as a public theory archive and testable hypothesis. It does not claim completed experimental proof, does not deny biological memory, and does not disclose proprietary Collapse Aware AI Crown implementation materials.",
+  "rights_note": "All materials are proprietary unless explicitly stated otherwise. No permission is granted to reproduce, modify, distribute, publish, sublicense, create derivative works from, or commercially exploit repository contents without prior written permission from the rights holder.",
+  "copyright": "© 2023–2026 Marcos Verrell Moss Ross (M.R.) / Inappropriate Media Limited (t/a Collapse Aware AI). All rights reserved."
+}
