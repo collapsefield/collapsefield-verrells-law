@@ -12,6 +12,12 @@ This repository preserves the public research record, formal notes, mathematical
 
 This repository should be read as the theory and archive layer. The applied software and middleware work sit alongside it as engineering instantiations rather than proof of the theory as a universal law.
 
+## New Readers
+
+Start here first: [`PUBLIC_READER_START_HERE.md`](PUBLIC_READER_START_HERE.md)
+
+This short orientation note explains what Verrell’s Law claims, what it does not claim, how it relates to Collapse Aware AI, and the current evidence status.
+
 ## Core Principle
 
 At its most compact, Verrell’s Law proposes that retained information from prior states can influence future state selection even when present inputs are held constant.
