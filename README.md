@@ -116,7 +116,7 @@ Public-safe wording:
 
 > Verrell’s Law motivates the architecture. Collapse Aware AI implements the principle as software middleware.
 
-CAAI is therefore an engineering instantiation of memory-weighted selection, not proof that the full physical or theoretical form of Verrell’s Law has been experimentally confirmed.
+CAAI is therefore a practical engineering implementation of memory-weighted selection, not experimental proof that the full physical or theoretical form of Verrell’s Law has been confirmed.
 
 Related public proof-pack repository:
 
