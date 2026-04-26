@@ -35,7 +35,7 @@ It preserves:
 - links between Verrell’s Law and Collapse Aware AI
 - historical development records and authorship trail
 
-This repository should be read as the **theory and archive layer**. The applied middleware work sits alongside it as an engineering instantiation, not as proof that the full theoretical framework is scientifically confirmed.
+This repository should be read as the theory and archive layer. The applied middleware work sits alongside it as an engineering instantiation, not as proof that the full theoretical or physical form of Verrell’s Law has been scientifically confirmed yet.
 
 ---
 
