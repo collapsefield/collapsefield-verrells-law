@@ -2,7 +2,7 @@
 
 **Status:** GitHub reference note adapted from earlier public article material  
 **Author:** M.R. (Marcos Verrell Moss Ross), Author of Verrell's Law
-**Maintainer:** Inappropriate Media Limited (t/a Collapse Aware AI)
+**Maintainer:** Inappropriate Media Limited (t/a Collapse Aware AI) (CAAI)
 
 ---
 
