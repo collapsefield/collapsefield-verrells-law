@@ -20,6 +20,15 @@ This orientation note explains what Verrell’s Law claims, what it does not cla
 
 ---
 
+## Latest Public Research Additions
+
+| File | Why it matters | Status |
+|---|---|---|
+| [`Verrell_Law_Test_Protocols_Phase_1_v1.0.md`](Verrell_Law_Test_Protocols_Phase_1_v1.0.md) | Five falsifiable Phase 1 validation protocols covering memory-driven divergence, decay/reactivation, coherence under noise, symbolic salience, and continuity signature prediction. | Published Test Framework |
+| [`metadata_public_proof_pack_2026_04_27.json`](metadata_public_proof_pack_2026_04_27.json) | Public metadata record for the sanitized Collapse Aware AI proof-pack reference archive, including authorship, scope boundaries, omitted private components, and VMR-Core rights marker. | Public Reference Metadata |
+
+---
+
 ## What This Repository Is
 
 This repository is the public theory archive, research index, and authorship/provenance record for Verrell’s Law.
@@ -70,6 +79,36 @@ In stronger theoretical formulations, this framework is extended into field-base
 
 ---
 
+## Core Selection Model
+
+The current working mathematical form treats future selection as a probability distribution shaped by both present utility and retained memory bias:
+
+```math
+P(y_i \mid S_t, O_t, M_t) =
+\frac{
+\exp\left(U(y_i;\, S_t, O_t) + \lambda B(y_i;\, M_t)\right)
+}{
+\sum_j \exp\left(U(y_j;\, S_t, O_t) + \lambda B(y_j;\, M_t)\right)
+}
+```
+
+Where:
+
+| Symbol | Meaning |
+|---|---|
+| `S_t` | Present system state at time `t` |
+| `O_t` | Current observation or input |
+| `M_t` | Retained memory state |
+| `U(y_i; S_t, O_t)` | Present-state utility of candidate output `y_i` |
+| `B(y_i; M_t)` | Memory-weighted bias term |
+| `λ` | Memory coupling strength |
+
+If `λ = 0`, memory has no influence.
+
+If `λ > 0`, retained memory contributes to future selection.
+
+---
+
 ## Canonical Public Documents
 
 | File | Purpose |
@@ -92,6 +131,8 @@ In stronger theoretical formulations, this framework is extended into field-base
 
 | File / Folder | Purpose |
 |---|---|
+| [`Verrell_Law_Test_Protocols_Phase_1_v1.0.md`](Verrell_Law_Test_Protocols_Phase_1_v1.0.md) | Phase 1 Validation Suite: five empirical protocols for testing memory-weighted selection, behavioural divergence, temporal decay/reactivation, coherence under noise, symbolic salience, and continuity signatures. |
+| [`metadata_public_proof_pack_2026_04_27.json`](metadata_public_proof_pack_2026_04_27.json) | Public proof-pack metadata record documenting release scope, authorship, public-safe technical position, omitted private components, and VMR-Core rights marker. |
 | [`verrells-law-core-mathematical-scaffold.md`](verrells-law-core-mathematical-scaffold.md) | Core mathematical scaffold and symbol definitions. |
 | [`verrells-law-psi-field-framework.md`](verrells-law-psi-field-framework.md) | Ψ field framework documentation. |
 | [`UPDATED_MATH_RENDERS.md`](UPDATED_MATH_RENDERS.md) | Updated math render notes and visual assets index. |
@@ -103,6 +144,26 @@ In stronger theoretical formulations, this framework is extended into field-base
 | [`Verrells_Law/docs/`](Verrells_Law/docs/) | Additional nested documentation, including Ψ tensor framework materials. |
 
 PDF, image, DOCX, ZIP, JSON, and legacy files are retained for provenance and historical continuity. The Markdown files above should be treated as the current public navigation layer.
+
+---
+
+## Phase 1 Validation Suite
+
+The Phase 1 Validation Suite defines five empirical protocols for testing the central claim of Verrell’s Law:
+
+> Retained structured memory from prior states biases future selection outcomes in a measurable, statistically significant, and reproducible manner.
+
+The five protocols are:
+
+| Protocol | Focus | Primary Measurement |
+|---|---|---|
+| 1. Measurable Divergence Under Identical Present Conditions | Whether different memory histories produce different output distributions under identical present input. | KL / JS divergence |
+| 2. Memory Decay and Reactivation Curves | Whether memory influence decays structurally and can be reactivated. | Bias score and recovery curve |
+| 3. Field Coherence Under Noise and Perturbation | Whether memory-weighted systems resist noise-induced drift better than memoryless baselines. | Coherence degradation slope |
+| 4. Symbolic Salience Weighting and Emotional Bias | Whether high-salience prior information creates stronger future bias than neutral information. | Salience Bias Index |
+| 5. Continuity Signature Detection and Prediction | Whether prior memory state leaves an extractable predictive signature in current outputs. | Prediction gain over baseline |
+
+Together, these protocols create a falsifiable test framework for evaluating whether Verrell’s Law has measurable empirical support.
 
 ---
 
@@ -134,6 +195,8 @@ Current themes include:
 - particulate or electrostatic retention hypotheses
 - continuity and observer-dependent divergence models
 - memory tuning and reconstructive recall models
+- memory-weighted selection validation protocols
+- continuity signature extraction and prediction tests
 
 Some associated logs, exploratory notes, and authorship records remain archived privately and are not published in full here.
 
@@ -148,6 +211,7 @@ Current public evidence includes:
 - public timestamped GitHub records
 - Zenodo deposits
 - experimental blueprints
+- Phase 1 falsifiability and validation protocols
 - applied middleware documentation through Collapse Aware AI
 
 These support plausibility, structure, and authorship provenance.
@@ -183,6 +247,7 @@ Current and planned directions include:
 - Bayesian weighting and posterior-based bias modelling
 - structured memory update rules and class-specific dynamics
 - tighter linkage between theory notes and middleware results
+- external pilot testing of the Phase 1 Validation Suite
 - eventual formal publication or preprint consolidation
 
 This work should be understood as an evolving research and engineering programme, not a closed or completed scientific theory.
@@ -219,4 +284,4 @@ For technical, academic, or licensing enquiries:
 
 ## Index Terms
 
-Verrell’s Law · Collapse Aware AI · memory-weighted selection · path-dependent divergence · informational bias · behavioural middleware · field-memory hypothesis · collapse-bias framework · Marcos Verrell Moss Ross · Inappropriate Media Ltd
+Verrell’s Law · Collapse Aware AI · memory-weighted selection · path-dependent divergence · informational bias · behavioural middleware · field-memory hypothesis · collapse-bias framework · Phase 1 Validation Suite · continuity signatures · salience weighting · Marcos Verrell Moss Ross · Inappropriate Media Ltd
