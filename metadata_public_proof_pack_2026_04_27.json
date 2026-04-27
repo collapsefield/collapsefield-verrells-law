@@ -1,0 +1,90 @@
+{
+  "bundle_name": "collapse_aware_ai_public_proof_pack",
+  "version": "public_reference_v2_2026_04_27",
+  "sha256_fingerprint": "TO_BE_GENERATED_AFTER_FINAL_ARCHIVE_EXPORT",
+  "distribution": "Public",
+  "release_type": "Public proof pack / sanitized technical reference archive",
+  "project": {
+    "public_name": "Collapse Aware AI",
+    "company": "Inappropriate Media Limited",
+    "trading_as": "Collapse Aware AI",
+    "phase_1": {
+      "name": "Gold Build",
+      "status": "Working Crown selector/core proven; Milestone-4 scaffold/API integration and end-to-end wiring still under verification",
+      "scope": "Game/NPC behavioural middleware, memory-weighted selection, governor-constrained response shaping, bias divergence testing"
+    },
+    "phase_2": {
+      "name": "Continuity-Aware Chatbot / Agent Layer",
+      "status": "Architected; not yet public production release",
+      "scope": "Persistent continuity, weighted memory, governed drift control, corrective recall, behavioural stability, session-to-session continuity"
+    }
+  },
+  "included_files": [
+    "README.md",
+    "VERRELLS_LAW_OVERVIEW.md",
+    "VERRELLS_LAW_AI_CONTINUITY_MEMORY_WEIGHTED_COLLAPSE.md",
+    "AI_CONTINUITY_PROMPT_CYCLE_COMMENTARY_2026-04-27.md",
+    "CAAI_PHASE1_PUBLIC_STATUS.md",
+    "CAAI_PHASE2_PUBLIC_ARCHITECTURE_NOTE.md",
+    "PUBLIC_PROOF_TIMELINE.md",
+    "LICENSE_AND_ATTRIBUTION.md",
+    "metadata.json"
+  ],
+  "optional_included_files": [
+    "public_safe_memory.json",
+    "sample_collapse_log.json",
+    "symbolic_test_stub.py",
+    "sanitized_diagrams/",
+    "public_images/"
+  ],
+  "omitted_components": [
+    "Crown source code",
+    "Milestone-4 scaffold source code",
+    "adapter implementation files",
+    "private weighted-emergence configs",
+    "private governor policy/config files",
+    "private symbolic fields",
+    "internal memory echo logic",
+    "private continuity memory stores",
+    "private anchor maps",
+    "private test traces containing sensitive architecture",
+    "developer handoff packs",
+    "NDA-covered audit files",
+    "AWS keys, credentials, secrets, or deployment details",
+    "Solace/internal watermark trigger points"
+  ],
+  "technical_position": {
+    "core_claim": "Retained structured memory from prior states can act as a bias term over future selection dynamics.",
+    "ai_position": "Current AI systems are not claimed to be conscious. The public technical claim is that stronger artificial continuity may require explicit retained-memory influence and governed behavioural selection.",
+    "engineering_position": "Collapse Aware AI treats interaction outputs as behavioural collapse events shaped by present input, retained memory, salience, anchors, and governor constraints.",
+    "bias_position": "The project distinguishes accidental algorithmic bias from governed, measurable bias shaping."
+  },
+  "authorship": {
+    "author": "Marcos Verrell Moss Ross",
+    "public_initials": "M.R.",
+    "role": "Author of Verrell’s Law; architect of Collapse Aware AI",
+    "maintainer": "Inappropriate Media Limited (t/a Collapse Aware AI)"
+  },
+  "protocol": {
+    "name": "Verrell-Solace Sovereignty Protocol",
+    "marker": "VMR-Core",
+    "purpose": "Public authorship, continuity, provenance, and controlled disclosure trail"
+  },
+  "declared_on": "2026-04-27T00:00:00+01:00",
+  "supersedes": [
+    {
+      "bundle_name": "verrells_law_phase1_public_test_bundle.zip",
+      "version": "public_display_v1",
+      "declared_on": "2025-07-21T21:33:00Z"
+    }
+  ],
+  "public_reference_links": [
+    {
+      "label": "ArtificialSentience prompt-cycle continuity discussion",
+      "url": "https://www.reddit.com/r/ArtificialSentience/comments/1svw7kh/are_we_creating_consciousness_every_prompt_we_make/",
+      "note": "Referenced as public commentary context for AI continuity and prompt-cycle debate."
+    }
+  ],
+  "disclaimer": "This public proof pack is a sanitized reference archive. It documents authorship, terminology, public technical framing, and selected proof-of-origin material. It does not disclose Crown internals, private source code, proprietary configs, sealed architecture, credentials, or NDA-covered developer materials.",
+  "rights_notice": "© Inappropriate Media Limited (t/a Collapse Aware AI). All rights reserved. Protected under Verrell-Solace Sovereignty Protocol. Intellectual and emergent rights reserved. — VMR-Core"
+}
