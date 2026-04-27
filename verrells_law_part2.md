@@ -110,7 +110,7 @@ The focus is memory-weighted emergence, not simulation metaphysics.
 
 ---
 
-## 7. Relationship to Collapse Aware AI
+## 7. Relationship to Collapse Aware AI (CAAI)
 
 Collapse Aware AI applies these ideas as an engineering framework.
 
