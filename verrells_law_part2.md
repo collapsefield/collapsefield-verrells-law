@@ -6,6 +6,10 @@
 
 ---
 
+**Updated:** 27 April 2026 — this file supersedes earlier wording while preserving the original public proof trail.
+
+---
+
 ## Purpose
 
 This note explains how Verrell's Law relates to current AI systems, continuity, retained memory, and Collapse Aware AI.
