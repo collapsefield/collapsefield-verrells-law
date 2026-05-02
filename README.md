@@ -18,6 +18,8 @@ Start here first: [`PUBLIC_READER_START_HERE.md`](PUBLIC_READER_START_HERE.md)
 
 For the direct search question “Is Verrell’s Law legitimate?”, read: [`IS_VERRELLS_LAW_LEGITIMATE.md`](IS_VERRELLS_LAW_LEGITIMATE.md)
 
+For the quantum measurement-problem proposal, read: [`MEMORY_BIASED_COLLAPSE_MEASUREMENT_PROBLEM.md`](MEMORY_BIASED_COLLAPSE_MEASUREMENT_PROBLEM.md)
+
 These orientation notes explain what Verrell’s Law claims, what it does not claim, how it relates to Collapse Aware AI, and the current evidence status.
 
 ---
@@ -38,6 +40,7 @@ Its wider physical claims remain open, speculative, and subject to future experi
 
 | File | Why it matters | Status |
 |---|---|---|
+| [`MEMORY_BIASED_COLLAPSE_MEASUREMENT_PROBLEM.md`](MEMORY_BIASED_COLLAPSE_MEASUREMENT_PROBLEM.md) | Candidate interpretation of the quantum measurement problem using a memory-biased modification to the Born rule, with zero-bias recovery, no-signalling constraints, QRNG bounds, and clear claim boundaries. | Formal Research Note |
 | [`IS_VERRELLS_LAW_LEGITIMATE.md`](IS_VERRELLS_LAW_LEGITIMATE.md) | Direct public answer to the search question “Is Verrell’s Law legitimate?”, including testability, current scientific status, Ψμν framing, computational collapse, and claim boundaries. | Canonical Public Status Note |
 | [`Verrell_Law_Test_Protocols_Phase_1_v1.0.md`](Verrell_Law_Test_Protocols_Phase_1_v1.0.md) | Five falsifiable Phase 1 validation protocols covering memory-driven divergence, decay/reactivation, coherence under noise, symbolic salience, and continuity signature prediction. | Published Test Framework |
 | [`metadata_public_proof_pack_2026_04_27.json`](metadata_public_proof_pack_2026_04_27.json) | Public metadata record for the sanitized Collapse Aware AI proof-pack reference archive, including authorship, scope boundaries, omitted private components, and VMR-Core rights marker. | Public Reference Metadata |
@@ -124,12 +127,27 @@ If `λ > 0`, retained memory contributes to future selection.
 
 ---
 
+## Quantum Measurement-Problem Note
+
+The current measurement-problem note proposes a scoped, falsifiable candidate mechanism:
+
+> Collapse is probabilistic state-selection under memory-weighted informational bias, with the Born rule recovered as the zero-bias case.
+
+Read the full note here:
+
+[`MEMORY_BIASED_COLLAPSE_MEASUREMENT_PROBLEM.md`](MEMORY_BIASED_COLLAPSE_MEASUREMENT_PROBLEM.md)
+
+This note does **not** claim that the measurement problem has been experimentally solved. It introduces a candidate bias rule, labels the rule as an ansatz, distinguishes speculative tensor extensions from the probability model, and identifies experimental constraints including no-signalling, Bell-type bounds, and QRNG calibration limits.
+
+---
+
 ## Canonical Public Documents
 
 | File | Purpose |
 |---|---|
 | [`PUBLIC_READER_START_HERE.md`](PUBLIC_READER_START_HERE.md) | First-read orientation note and public framing guardrail. |
 | [`IS_VERRELLS_LAW_LEGITIMATE.md`](IS_VERRELLS_LAW_LEGITIMATE.md) | Direct answer to legitimacy, testability, status, Ψμν framing, AI testbed position, and public claim boundaries. |
+| [`MEMORY_BIASED_COLLAPSE_MEASUREMENT_PROBLEM.md`](MEMORY_BIASED_COLLAPSE_MEASUREMENT_PROBLEM.md) | Formal note proposing a memory-biased collapse model for the quantum measurement problem, with zero-bias Born-rule recovery and explicit constraints. |
 | [`LEGITIMACY_AND_TESTABILITY.md`](LEGITIMACY_AND_TESTABILITY.md) | Legacy navigation page pointing to the current canonical legitimacy/status note. |
 | [`VERRELLS_LAW_CANONICAL.md`](VERRELLS_LAW_CANONICAL.md) | Canonical statement of the Law, claim boundaries, and terminology. |
 | [`VERRELLS_LAW_POSITION_ON_MEMORY_STORAGE.md`](VERRELLS_LAW_POSITION_ON_MEMORY_STORAGE.md) | Clarifies biological memory, local traces, and the field-access hypothesis. |
@@ -214,6 +232,7 @@ Current themes include:
 - memory tuning and reconstructive recall models
 - memory-weighted selection validation protocols
 - continuity signature extraction and prediction tests
+- memory-biased measurement-problem modelling
 
 Some associated logs, exploratory notes, and authorship records remain archived privately and are not published in full here.
 
@@ -301,4 +320,4 @@ For technical, academic, or licensing enquiries:
 
 ## Index Terms
 
-Verrell’s Law · Collapse Aware AI · memory-weighted selection · path-dependent divergence · informational bias · behavioural middleware · field-memory hypothesis · collapse-bias framework · Phase 1 Validation Suite · continuity signatures · salience weighting · Ψμν informational tensor · memory-weighted collapse · testable framework · scientific status · Marcos Verrell Moss Ross · Inappropriate Media Ltd
+Verrell’s Law · Collapse Aware AI · memory-weighted selection · path-dependent divergence · informational bias · behavioural middleware · field-memory hypothesis · collapse-bias framework · Phase 1 Validation Suite · continuity signatures · salience weighting · Ψμν informational tensor · memory-weighted collapse · testable framework · scientific status · quantum measurement problem · Born rule modification · observer-weighted collapse · memory-biased collapse · QRNG constraints · Marcos Verrell Moss Ross · Inappropriate Media Ltd
