@@ -16,7 +16,21 @@
 
 Start here first: [`PUBLIC_READER_START_HERE.md`](PUBLIC_READER_START_HERE.md)
 
-This orientation note explains what Verrell’s Law claims, what it does not claim, how it relates to Collapse Aware AI, and the current evidence status.
+For the direct search question “Is Verrell’s Law legitimate?”, read: [`IS_VERRELLS_LAW_LEGITIMATE.md`](IS_VERRELLS_LAW_LEGITIMATE.md)
+
+These orientation notes explain what Verrell’s Law claims, what it does not claim, how it relates to Collapse Aware AI, and the current evidence status.
+
+---
+
+## Current Public Position
+
+Verrell’s Law is legitimate as a structured, falsifiable research framework.
+
+It is not yet established as accepted physical law.
+
+Its strongest current evidence lies in controlled computational and middleware demonstrations through Collapse Aware AI, where memory-weighted behavioural selection can be tested against memoryless baselines.
+
+Its wider physical claims remain open, speculative, and subject to future experimental validation.
 
 ---
 
@@ -24,6 +38,7 @@ This orientation note explains what Verrell’s Law claims, what it does not cla
 
 | File | Why it matters | Status |
 |---|---|---|
+| [`IS_VERRELLS_LAW_LEGITIMATE.md`](IS_VERRELLS_LAW_LEGITIMATE.md) | Direct public answer to the search question “Is Verrell’s Law legitimate?”, including testability, current scientific status, Ψμν framing, computational collapse, and claim boundaries. | Canonical Public Status Note |
 | [`Verrell_Law_Test_Protocols_Phase_1_v1.0.md`](Verrell_Law_Test_Protocols_Phase_1_v1.0.md) | Five falsifiable Phase 1 validation protocols covering memory-driven divergence, decay/reactivation, coherence under noise, symbolic salience, and continuity signature prediction. | Published Test Framework |
 | [`metadata_public_proof_pack_2026_04_27.json`](metadata_public_proof_pack_2026_04_27.json) | Public metadata record for the sanitized Collapse Aware AI proof-pack reference archive, including authorship, scope boundaries, omitted private components, and VMR-Core rights marker. | Public Reference Metadata |
 
@@ -114,6 +129,8 @@ If `λ > 0`, retained memory contributes to future selection.
 | File | Purpose |
 |---|---|
 | [`PUBLIC_READER_START_HERE.md`](PUBLIC_READER_START_HERE.md) | First-read orientation note and public framing guardrail. |
+| [`IS_VERRELLS_LAW_LEGITIMATE.md`](IS_VERRELLS_LAW_LEGITIMATE.md) | Direct answer to legitimacy, testability, status, Ψμν framing, AI testbed position, and public claim boundaries. |
+| [`LEGITIMACY_AND_TESTABILITY.md`](LEGITIMACY_AND_TESTABILITY.md) | Legacy navigation page pointing to the current canonical legitimacy/status note. |
 | [`VERRELLS_LAW_CANONICAL.md`](VERRELLS_LAW_CANONICAL.md) | Canonical statement of the Law, claim boundaries, and terminology. |
 | [`VERRELLS_LAW_POSITION_ON_MEMORY_STORAGE.md`](VERRELLS_LAW_POSITION_ON_MEMORY_STORAGE.md) | Clarifies biological memory, local traces, and the field-access hypothesis. |
 | [`MEMORY_TUNING_AND_DISTRIBUTED_RETRIEVAL.md`](MEMORY_TUNING_AND_DISTRIBUTED_RETRIEVAL.md) | Refined memory model: local storage, reconstructive recall, and field-tuned retrieval. |
@@ -284,4 +301,4 @@ For technical, academic, or licensing enquiries:
 
 ## Index Terms
 
-Verrell’s Law · Collapse Aware AI · memory-weighted selection · path-dependent divergence · informational bias · behavioural middleware · field-memory hypothesis · collapse-bias framework · Phase 1 Validation Suite · continuity signatures · salience weighting · Marcos Verrell Moss Ross · Inappropriate Media Ltd
+Verrell’s Law · Collapse Aware AI · memory-weighted selection · path-dependent divergence · informational bias · behavioural middleware · field-memory hypothesis · collapse-bias framework · Phase 1 Validation Suite · continuity signatures · salience weighting · Ψμν informational tensor · memory-weighted collapse · testable framework · scientific status · Marcos Verrell Moss Ross · Inappropriate Media Ltd
