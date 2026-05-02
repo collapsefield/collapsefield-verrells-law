@@ -4,7 +4,7 @@ Verrell’s Law is a testable theoretical framework exploring whether memory, at
 
 It proposes that future system-state selection may be influenced not only by immediate physical conditions, but also by retained informational structure.
 
-The framework is not presented as a completed or accepted law of mainstream physics.
+The framework is not presented as a completed or accepted law of mainstream physics yet.
 
 It is presented as a structured, falsifiable research model with an applied engineering testbed: Collapse-Aware AI.
 
