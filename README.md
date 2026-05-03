@@ -5,7 +5,7 @@
 **Author:** Marcos Verrell Moss Ross (M.R.)  
 **Maintainer:** Inappropriate Media Ltd (t/a Collapse Aware AI)  
 **Contact:** collapseawareai@gmail.com  
-**Last updated:** 2026-05-02  
+**Last updated:** 2026-05-03  
 
 **DOI:** https://doi.org/10.5281/zenodo.17392582  
 **Related DOI:** https://doi.org/10.5281/zenodo.17416435
@@ -32,7 +32,7 @@ It is not yet established as accepted physical law.
 
 Its strongest current evidence lies in controlled computational and middleware demonstrations through Collapse Aware AI, where memory-weighted behavioural selection can be tested against memoryless baselines.
 
-Its wider physical claims remain open, speculative, and subject to future experimental validation.
+Its wider physical claims remain open, testable, and subject to future experimental validation.
 
 ---
 
@@ -137,7 +137,7 @@ Read the full note here:
 
 [`MEMORY_BIASED_COLLAPSE_MEASUREMENT_PROBLEM.md`](MEMORY_BIASED_COLLAPSE_MEASUREMENT_PROBLEM.md)
 
-This note does **not** claim that the measurement problem has been experimentally solved. It introduces a candidate bias rule, labels the rule as an ansatz, distinguishes speculative tensor extensions from the probability model, and identifies experimental constraints including no-signalling, Bell-type bounds, and QRNG calibration limits.
+This note does **not** claim that the measurement problem has been experimentally solved. It introduces a candidate bias rule, labels the rule as an ansatz, distinguishes candidate tensor extensions from the probability model, and identifies experimental constraints including no-signalling, Bell-type bounds, and QRNG calibration limits.
 
 ---
 
