@@ -18,7 +18,7 @@ Throughout this document, mathematical structures are tagged as one of three thi
 
 - **Derived** — follows from a stated assumption by ordinary mathematics.
 - **Ansatz** — assumed for tractability and motivated, but not derived.
-- **Speculative extension** — proposed as a direction for further work, not as a result.
+- **Candidate extension** — proposed as a direction for further work, not presented as an established result.
 
 This separation is enforced section by section.
 
@@ -251,9 +251,9 @@ It is presented as an interpretive option, not a separate claim.
 
 ---
 
-## 8. The Ψμν Extension — Speculative
+## 8. The Ψμν Extension — Candidate Theoretical Extension
 
-A broader and more speculative extension proposes that informational pressure could enter the gravitational field equations through an additional term:
+A broader candidate theoretical extension proposes that informational pressure could enter the gravitational field equations through an additional term:
 
 ```text
 Gμν = κ·Tμν + λ·Ψμν
@@ -261,7 +261,7 @@ Gμν = κ·Tμν + λ·Ψμν
 
 Where `Ψμν` is a symmetric rank-2 tensor representing informational stress, and `λ` is a coupling constant.
 
-This is a **speculative extension**, not a derivation.
+This is a **candidate theoretical extension**, not a derivation.
 
 Three serious gaps must be acknowledged:
 
