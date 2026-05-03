@@ -39,14 +39,14 @@ Its current public status is:
 
 ```text
 theoretical framework
-+ speculative physics formulation
++ candidate physics formulation
 + computational collapse model
 + applied AI middleware testbed
 + public authorship archive
-+ ongoing experimental development
++ ongoing validation programme
 ```
 
-This means the framework is legitimate as structured research, but its broader physical claim remains open to future validation.
+This means the framework is legitimate as structured research, while its broader physical claim remains open to future validation.
 
 ## Core Hypothesis
 
@@ -118,7 +118,7 @@ That is the current strongest applied claim.
 
 Verrell’s Law introduces an informational / memory-weighted effective source term.
 
-A speculative high-level form is:
+A candidate high-level form is:
 
 ```text
 Gμν = 8πG(Tμν_matter + Tμν_EM + Tμν_mem)
@@ -283,7 +283,7 @@ This remains an engineering validation unless independently extended into physic
 
 ## Implications for Physics
 
-The wider physical implication is more speculative.
+The wider physical implication remains early-stage and validation-dependent.
 
 If a memory-weighted informational term is physically instantiated, then retained information may contribute an effective bias term within emergent physical systems.
 
@@ -375,6 +375,6 @@ Its wider physical claims remain open to future experimental validation.
 
 The computational claim is currently the strongest.
 
-The physical claim remains open, speculative, and testable.
+The physical claim remains open, testable, and subject to future validation.
 
 Protected under Verrell-Solace Sovereignty Protocol. Intellectual and emergent rights reserved.
