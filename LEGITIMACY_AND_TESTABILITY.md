@@ -24,6 +24,6 @@ It is not yet established as accepted physical law.
 
 Its strongest current evidence lies in controlled computational and middleware demonstrations through Collapse-Aware AI.
 
-Its wider physical claims remain open, speculative, and subject to future experimental validation.
+Its wider physical claims remain open, testable, and subject to future experimental validation.
 
 Protected under Verrell-Solace Sovereignty Protocol. Intellectual and emergent rights reserved.
