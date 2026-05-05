@@ -2,10 +2,12 @@
 
 **Verrell’s Law** is a testable framework proposing that system evolution may be influenced not only by present conditions and inputs, but also by retained information from prior states. In this framework, memory functions as a bias term in selection dynamics, shaping the probability of future outcomes and producing path-dependent divergence.
 
+**Weighted Emergence Layering (WEL)** is the public-safe bridge term linking Verrell’s Law to Collapse Aware AI: retained information becomes structured behavioural influence inside governed middleware.
+
 **Author:** Marcos Verrell Moss Ross (M.R.)  
 **Maintainer:** Inappropriate Media Ltd (t/a Collapse Aware AI)  
 **Contact:** collapseawareai@gmail.com  
-**Last updated:** 2026-05-03  
+**Last updated:** 2026-05-05  
 
 **DOI:** https://doi.org/10.5281/zenodo.17392582  
 **Related DOI:** https://doi.org/10.5281/zenodo.17416435
@@ -19,6 +21,8 @@ Start here first: [`PUBLIC_READER_START_HERE.md`](PUBLIC_READER_START_HERE.md)
 For the direct search question “Is Verrell’s Law legitimate?”, read: [`IS_VERRELLS_LAW_LEGITIMATE.md`](IS_VERRELLS_LAW_LEGITIMATE.md)
 
 For the quantum measurement-problem proposal, read: [`MEMORY_BIASED_COLLAPSE_MEASUREMENT_PROBLEM.md`](MEMORY_BIASED_COLLAPSE_MEASUREMENT_PROBLEM.md)
+
+For the Verrell’s Law → Collapse Aware AI bridge term, read: [`WEIGHTED_EMERGENCE_LAYERING_WEL.md`](WEIGHTED_EMERGENCE_LAYERING_WEL.md)
 
 For authorship, provenance, and prior-art position, read: [`PRIOR_ART_AND_AUTHORSHIP_POSITION.md`](PRIOR_ART_AND_AUTHORSHIP_POSITION.md)
 
@@ -42,6 +46,7 @@ Its wider physical claims remain open, testable, and subject to future experimen
 
 | File | Why it matters | Status |
 |---|---|---|
+| [`WEIGHTED_EMERGENCE_LAYERING_WEL.md`](WEIGHTED_EMERGENCE_LAYERING_WEL.md) | Defines WEL as the public-safe bridge between Verrell’s Law and Collapse Aware AI: prior behavioural collapses carried forward as governed weighted influence. | Public Architecture Bridge |
 | [`PRIOR_ART_AND_AUTHORSHIP_POSITION.md`](PRIOR_ART_AND_AUTHORSHIP_POSITION.md) | Records the public authorship, provenance, terminology, mathematical framing, and prior-art position for Verrell’s Law and Collapse Aware AI. | Authorship / Prior-Art Position |
 | [`MEMORY_BIASED_COLLAPSE_MEASUREMENT_PROBLEM.md`](MEMORY_BIASED_COLLAPSE_MEASUREMENT_PROBLEM.md) | Candidate interpretation of the quantum measurement problem using a memory-biased modification to the Born rule, with zero-bias recovery, no-signalling constraints, QRNG bounds, and clear claim boundaries. | Formal Research Note |
 | [`IS_VERRELLS_LAW_LEGITIMATE.md`](IS_VERRELLS_LAW_LEGITIMATE.md) | Direct public answer to the search question “Is Verrell’s Law legitimate?”, including testability, current scientific status, Ψμν framing, computational collapse, and claim boundaries. | Canonical Public Status Note |
@@ -63,6 +68,7 @@ It preserves:
 - symbolic test frameworks
 - public proof materials
 - links between Verrell’s Law and Collapse Aware AI
+- Weighted Emergence Layering (WEL) as the public-safe architecture bridge
 - historical development records and authorship trail
 - prior-art and authorship position notes
 
@@ -131,6 +137,34 @@ If `λ > 0`, retained memory contributes to future selection.
 
 ---
 
+## Weighted Emergence Layering (WEL)
+
+**Weighted Emergence Layering (WEL)** is the public-safe bridge term between Verrell’s Law and Collapse Aware AI.
+
+Verrell’s Law proposes that retained information from prior states can bias future state selection.
+
+Collapse Aware AI applies that principle in software as governed, memory-weighted behavioural middleware.
+
+WEL names the layered architecture by which prior behavioural collapses are carried forward as weighted influence over future selection.
+
+```text
+retained information
+→ stored behavioural weight
+→ future candidate bias
+→ governed collapse selection
+→ updated continuity
+```
+
+WEL does not disclose Crown internals, private scoring formulas, production schemas, thresholds, or commercial integration logic.
+
+It is public architecture language for memory-weighted behavioural selection.
+
+Full note:
+
+[`WEIGHTED_EMERGENCE_LAYERING_WEL.md`](WEIGHTED_EMERGENCE_LAYERING_WEL.md)
+
+---
+
 ## Quantum Measurement-Problem Note
 
 The current measurement-problem note proposes a scoped, falsifiable candidate mechanism:
@@ -166,6 +200,7 @@ It also explains how later similar frameworks, renamed concepts, or derivative c
 | [`PUBLIC_READER_START_HERE.md`](PUBLIC_READER_START_HERE.md) | First-read orientation note and public framing guardrail. |
 | [`IS_VERRELLS_LAW_LEGITIMATE.md`](IS_VERRELLS_LAW_LEGITIMATE.md) | Direct answer to legitimacy, testability, status, Ψμν framing, AI testbed position, and public claim boundaries. |
 | [`MEMORY_BIASED_COLLAPSE_MEASUREMENT_PROBLEM.md`](MEMORY_BIASED_COLLAPSE_MEASUREMENT_PROBLEM.md) | Formal note proposing a memory-biased collapse model for the quantum measurement problem, with zero-bias Born-rule recovery and explicit constraints. |
+| [`WEIGHTED_EMERGENCE_LAYERING_WEL.md`](WEIGHTED_EMERGENCE_LAYERING_WEL.md) | Public-safe bridge note defining WEL between Verrell’s Law and Collapse Aware AI. |
 | [`PRIOR_ART_AND_AUTHORSHIP_POSITION.md`](PRIOR_ART_AND_AUTHORSHIP_POSITION.md) | Public authorship, provenance, terminology, and prior-art position note. |
 | [`LEGITIMACY_AND_TESTABILITY.md`](LEGITIMACY_AND_TESTABILITY.md) | Legacy navigation page pointing to the current canonical legitimacy/status note. |
 | [`VERRELLS_LAW_CANONICAL.md`](VERRELLS_LAW_CANONICAL.md) | Canonical statement of the Law, claim boundaries, and terminology. |
@@ -227,9 +262,11 @@ Collapse Aware AI (CAAI) is the engineering branch associated with this framewor
 
 In CAAI, the core idea is instantiated as middleware and governed behavioural selection logic. The applied system treats memory as a weighted influence on runtime selection, continuity, and behavioural divergence.
 
+Weighted Emergence Layering (WEL) is the public-safe term for the layered architecture that carries prior behavioural collapses forward as governed memory-weighted influence over later candidate selection.
+
 Public-safe wording:
 
-> Verrell’s Law motivates the architecture. Collapse Aware AI implements the principle as software middleware.
+> Verrell’s Law motivates the architecture. Collapse Aware AI implements the principle as software middleware. Weighted Emergence Layering describes the public-safe behavioural influence layer that carries memory-weighted selection forward over time.
 
 CAAI is therefore a practical engineering implementation of memory-weighted selection, not experimental proof that the full physical or theoretical form of Verrell’s Law has been confirmed.
 
@@ -252,6 +289,7 @@ Current themes include:
 - memory-weighted selection validation protocols
 - continuity signature extraction and prediction tests
 - memory-biased measurement-problem modelling
+- Weighted Emergence Layering as public-safe middleware architecture language
 - prior-art and authorship preservation
 
 Some associated logs, exploratory notes, and authorship records remain archived privately and are not published in full here.
@@ -343,4 +381,4 @@ For technical, academic, or licensing enquiries:
 
 ## Index Terms
 
-Verrell’s Law · Collapse Aware AI · memory-weighted selection · path-dependent divergence · informational bias · behavioural middleware · field-memory hypothesis · collapse-bias framework · Phase 1 Validation Suite · continuity signatures · salience weighting · Ψμν informational tensor · memory-weighted collapse · testable framework · scientific status · quantum measurement problem · Born rule modification · observer-weighted collapse · memory-biased collapse · QRNG constraints · prior art · authorship provenance · Marcos Verrell Moss Ross · Inappropriate Media Ltd
+Verrell’s Law · Collapse Aware AI · memory-weighted selection · Weighted Emergence Layering · WEL · path-dependent divergence · informational bias · behavioural middleware · field-memory hypothesis · collapse-bias framework · Phase 1 Validation Suite · continuity signatures · salience weighting · Ψμν informational tensor · memory-weighted collapse · testable framework · scientific status · quantum measurement problem · Born rule modification · observer-weighted collapse · memory-biased collapse · QRNG constraints · prior art · authorship provenance · Marcos Verrell Moss Ross · Inappropriate Media Ltd
