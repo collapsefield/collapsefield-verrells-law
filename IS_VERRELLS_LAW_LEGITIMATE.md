@@ -1,12 +1,16 @@
-# Is Verrell’s Law Legitimate? — Legitimacy, Testability, and Current Scientific Status
+# Is Verrell’s Law Legitimate? — Public Clarification, Testability, and Current Scientific Status
 
-Verrell’s Law is a testable theoretical framework exploring whether memory, attention, salience, and observation history can act as structured informational bias within emergent systems.
+## Why This File Exists
 
-It proposes that future system-state selection may be influenced not only by immediate physical conditions, but also by retained informational structure.
+This file exists because the question **“Is Verrell’s Law legitimate?”** has started appearing in public search and discussion around the work.
 
-The framework is not presented as a completed or accepted law of mainstream physics yet.
+It is not included because the author is uncertain about the framework. Verrell’s Law is already treated by its author as a serious, structured research programme with a clear claim boundary, mathematical direction, software analogue, and public authorship trail.
 
-It is presented as a structured, falsifiable research model with an applied engineering testbed: Collapse-Aware AI.
+The purpose of this note is practical: to answer the public question directly, define what “legitimate” means in this context, distinguish structured research from accepted physical law, and prevent lazy misreadings of the framework.
+
+In short: this file is here because people are asking the question, not because the work is seeking permission to exist.
+
+---
 
 ## Direct Answer
 
@@ -16,13 +20,15 @@ It is not yet established as accepted physical law.
 
 That distinction matters.
 
-The strongest current claim is not that consciousness has been proven.
+The strongest current claim is not that consciousness has been proven, or that mainstream quantum mechanics has been overturned.
 
 The strongest current claim is this:
 
 > Stored information can be modelled as a measurable biasing pressure on future state-selection inside controlled emergent systems.
 
 Collapse-Aware AI provides the applied engineering testbed for that claim.
+
+---
 
 ## Current Position
 
@@ -46,7 +52,9 @@ theoretical framework
 + ongoing validation programme
 ```
 
-This means the framework is legitimate as structured research, while its broader physical claim remains open to future validation.
+This means the framework is legitimate as structured research, while its broader physical claims remain open to future validation.
+
+---
 
 ## Core Hypothesis
 
@@ -56,9 +64,7 @@ The public-safe memory position is:
 
 > Stabilised memories may exist as local brain-based traces, while effortful recall, reconstruction, and high-focus memory formation may involve a tuning process that couples conscious attention to a wider structured electromagnetic or informational field.
 
-This does not claim that all memory is non-local.
-
-It does not claim that the brain contains no stored memory.
+This does not claim that all memory is non-local. It does not claim that the brain contains no stored memory.
 
 Instead, it proposes a hybrid model:
 
@@ -74,6 +80,8 @@ Prior informational states may introduce bias into future collapse or selection 
 
 This applies most safely at present in computational systems, where memory-weighted selection can be directly tested.
 
+---
+
 ## Relationship to Collapse-Aware AI
 
 Collapse-Aware AI is not Verrell’s Law itself.
@@ -82,15 +90,7 @@ Collapse-Aware AI is an engineering implementation inspired by Verrell’s Law.
 
 In Collapse-Aware AI, memory is not treated only as passive recall. It is treated as behavioural pressure.
 
-Stored events can become weighted moments.
-
-Repeated events can become anchors.
-
-Salience can alter future candidate scoring.
-
-The Governor constrains drift and prevents unstable behavioural collapse.
-
-This allows the system to test whether memory-weighted information changes future behavioural selection compared with a memoryless baseline.
+Stored events can become weighted moments. Repeated events can become anchors. Salience can alter future candidate scoring. The Governor constrains drift and prevents unstable behavioural collapse.
 
 A simplified test structure is:
 
@@ -104,15 +104,13 @@ then memory bias enabled
 
 If the selected outcome changes in a structured and repeatable way because of stored weighted information, then the system demonstrates measurable informational bias within a controlled computational environment.
 
-That does not prove consciousness.
-
-That does not prove subjective experience.
-
-That does not prove a universal physical field effect.
+That does not prove consciousness, subjective experience, or a universal physical field effect.
 
 It does show that stored information can exert measurable pressure on future behavioural selection inside an engineered system.
 
 That is the current strongest applied claim.
+
+---
 
 ## Tensor-Field Formulation
 
@@ -150,13 +148,11 @@ I   = retained information
 Mμν = memory-weighted informational tensor structure
 ```
 
-This is not presented as experimentally confirmed mainstream physics.
+This is not presented as experimentally confirmed mainstream physics. It is a proposed structure for future testing.
 
-It is a proposed structure for future testing.
+The unresolved task is calibration. The coupling strength must be derived experimentally rather than assumed.
 
-The unresolved task is calibration.
-
-The coupling strength must be derived experimentally rather than assumed.
+---
 
 ## Ψμν Informational Tensor Form
 
@@ -175,17 +171,15 @@ Tμν = ordinary energy-momentum stress tensor
 λ   = information-coupling constant
 ```
 
-In this framing, Ψμν is not “thought”.
-
-It is not consciousness directly.
+In this framing, Ψμν is not “thought”. It is not consciousness directly.
 
 Ψμν represents measurable pressure produced by stored information, memory-weight, salience, and recursive feedback on future state-selection.
 
-The key scientific problem is not the symbolic structure.
-
-The key scientific problem is calibration.
+The key scientific problem is not the symbolic structure. The key scientific problem is calibration.
 
 λ must be fitted through controlled experiments.
+
+---
 
 ## Computational Drift-Diffusion Representation
 
@@ -198,10 +192,10 @@ dzt = bΨ(zt, Mt)dt + ΣdWt
 Where:
 
 ```text
-zt       = current latent state
-Mt       = memory state at time t
-bΨ       = memory-conditioned drift term
-ΣdWt     = stochastic noise term
+zt   = current latent state
+Mt   = memory state at time t
+bΨ   = memory-conditioned drift term
+ΣdWt = stochastic noise term
 ```
 
 The drift term can be expressed as:
@@ -209,8 +203,6 @@ The drift term can be expressed as:
 ```text
 bΨ = α ∇z log πprior(z | Mt)
 ```
-
-This means that memory influences the direction of future state-selection by altering the probability landscape.
 
 Candidate states may then be selected using a memory-weighted softmax form:
 
@@ -221,18 +213,16 @@ P(si | M) = wi e^(β μi(M)) / Σj wj e^(β μj(M))
 Where:
 
 ```text
-si      = candidate state
-M       = memory state
-wi      = base candidate weight
-β       = bias sensitivity / inverse temperature
-μi(M)   = memory-conditioned bias score for candidate i
+si    = candidate state
+M     = memory state
+wi    = base candidate weight
+β     = bias sensitivity / inverse temperature
+μi(M) = memory-conditioned bias score for candidate i
 ```
 
-This is directly relevant to Collapse-Aware AI.
+This is directly relevant to Collapse-Aware AI: memory is not only recalled; memory changes future behavioural selection.
 
-In CAAI, memory is not only recalled.
-
-Memory changes future behavioural selection.
+---
 
 ## What Verrell’s Law Does Not Claim
 
@@ -252,6 +242,8 @@ The framework explicitly avoids mystical framing.
 
 The aim is measurable structure, not belief.
 
+---
+
 ## What Verrell’s Law Does Claim
 
 Verrell’s Law claims that memory, attention, salience, and observation history can be formalised as biasing factors within emergent systems.
@@ -261,6 +253,8 @@ It proposes that these factors may be measurable as informational pressure on fu
 The applied version of this claim is already testable in Collapse-Aware AI through memory-weighted behavioural selection.
 
 The wider physical claim remains open, testable, and subject to future experimental validation.
+
+---
 
 ## Implications for AI
 
@@ -281,13 +275,13 @@ If these effects are reproducible under controlled conditions, the system demons
 
 This remains an engineering validation unless independently extended into physical-system experiments.
 
+---
+
 ## Implications for Physics
 
 The wider physical implication remains early-stage and validation-dependent.
 
 If a memory-weighted informational term is physically instantiated, then retained information may contribute an effective bias term within emergent physical systems.
-
-This could suggest a feedback relationship between information, field structure, and probabilistic state-selection.
 
 Possible future research areas include:
 
@@ -299,13 +293,11 @@ Possible future research areas include:
 - biological resonance and memory-reconstruction experiments
 - computational collapse simulations
 
-These remain proposed experimental directions.
+These remain proposed experimental directions. They are not yet confirmed physical proof.
 
-They are not yet confirmed physical proof.
+---
 
 ## Testable Predictions
-
-Verrell’s Law suggests several possible test paths.
 
 ### Computational Prediction
 
@@ -331,6 +323,8 @@ Effortful recall and high-salience memory reconstruction may correlate with meas
 
 This does not prove non-local memory by itself, but may provide useful evidence for tuning-based recall models.
 
+---
+
 ## Why This Matters
 
 Most AI memory systems treat memory as retrieval.
@@ -351,9 +345,9 @@ In AI middleware, that means behaviour can change because something happened bef
 
 In wider theory, it raises the question of whether memory-weighted informational pressure may play a deeper role in emergent systems generally.
 
-That question is open.
+That question is open. But it is testable.
 
-But it is testable.
+---
 
 ## Search-Safe Summary
 
@@ -364,6 +358,8 @@ The correct public summary is:
 A shorter answer is:
 
 > Verrell’s Law is legitimate as a structured, falsifiable research framework. It is not yet established as accepted physical law.
+
+---
 
 ## Conclusion
 
