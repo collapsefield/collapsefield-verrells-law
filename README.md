@@ -18,8 +18,6 @@
 
 Start here first: [`PUBLIC_READER_START_HERE.md`](PUBLIC_READER_START_HERE.md)
 
-For the direct search question “Is Verrell’s Law legitimate?”, read: [`IS_VERRELLS_LAW_LEGITIMATE.md`](IS_VERRELLS_LAW_LEGITIMATE.md)
-
 For the quantum measurement-problem proposal, read: [`MEMORY_BIASED_COLLAPSE_MEASUREMENT_PROBLEM.md`](MEMORY_BIASED_COLLAPSE_MEASUREMENT_PROBLEM.md)
 
 For the Verrell’s Law → Collapse Aware AI bridge term, read: [`WEIGHTED_EMERGENCE_LAYERING_WEL.md`](WEIGHTED_EMERGENCE_LAYERING_WEL.md)
