@@ -5,7 +5,7 @@
 **Author:** M.R.  
 **Maintainer:** Inappropriate Media Limited (t/a Collapse Aware AI)  
 **Status:** Canonical Public Reference  
-**Date:** 2026  
+**Date:** 11/05/2026  
 **Purpose:** Establish canonical notation, terminology, and operational definitions for the Verrell’s Law framework and Active Information Weight Principle.
 
 > This document supersedes prior informal public statements regarding Verrell’s Law notation and Active Information Weight terminology. Version history and timestamped revisions are maintained through the official repository commit history.
@@ -431,4 +431,8 @@ This document establishes the canonical notation reference for Active Informatio
 # 12. Attribution
 
 **Author:** M.R.  
-**Maintainer:** Inappropriate Media Limited (t/a Collapse Aware AI)
+**Maintainer:** © Marcos Verrell Moss Ross / Inappropriate Media Limited (t/a Collapse Aware AI). All rights reserved.
+
+Protected under Verrell-Solace Sovereignty Protocol. Intellectual and emergent rights reserved.
+
+No reverse-engineering, derivative commercial use, rebranding, or extraction of the architecture is permitted without explicit written 
