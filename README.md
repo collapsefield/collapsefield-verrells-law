@@ -18,7 +18,7 @@
 
 Start here first: [`PUBLIC_READER_START_HERE.md`](PUBLIC_READER_START_HERE.md)
 
-For canonical notation, terminology, and the Active Information Weight measurement principle, read: [`CANONICAL_NOTATION_v1.0.md`](Filename:%20CANONICAL_NOTATION_v1.0.md)
+For canonical notation, terminology, and the Active Information Weight measurement principle, read: [`CANONICAL_NOTATION_v1.0.md`](CANONICAL_NOTATION_v1.0.md)
 
 For the quantum measurement-problem proposal, read: [`MEMORY_BIASED_COLLAPSE_MEASUREMENT_PROBLEM.md`](MEMORY_BIASED_COLLAPSE_MEASUREMENT_PROBLEM.md)
 
@@ -46,7 +46,7 @@ Its wider physical claims remain open, testable, and subject to future experimen
 
 | File | Why it matters | Status |
 |---|---|---|
-| [`CANONICAL_NOTATION_v1.0.md`](Filename:%20CANONICAL_NOTATION_v1.0.md) | Establishes the canonical notation, terminology, and Active Information Weight principle: the measurable influence of retained prior information on future selection probability. This is the working reference for memory-weighted selection, informational bias, and future measurement standards. | Canonical Notation / Measurement Reference |
+| [`CANONICAL_NOTATION_v1.0.md`](CANONICAL_NOTATION_v1.0.md) | Establishes the canonical notation, terminology, and Active Information Weight principle: the measurable influence of retained prior information on future selection probability. This is the working reference for memory-weighted selection, informational bias, and future measurement standards. | Canonical Notation / Measurement Reference |
 | [`WEIGHTED_EMERGENCE_LAYERING_WEL.md`](WEIGHTED_EMERGENCE_LAYERING_WEL.md) | Defines WEL as the public-safe bridge between Verrell’s Law and Collapse Aware AI: prior behavioural collapses carried forward as governed weighted influence. | Public Architecture Bridge |
 | [`PRIOR_ART_AND_AUTHORSHIP_POSITION.md`](PRIOR_ART_AND_AUTHORSHIP_POSITION.md) | Records the public authorship, provenance, terminology, mathematical framing, and prior-art position for Verrell’s Law and Collapse Aware AI. | Authorship / Prior-Art Position |
 | [`MEMORY_BIASED_COLLAPSE_MEASUREMENT_PROBLEM.md`](MEMORY_BIASED_COLLAPSE_MEASUREMENT_PROBLEM.md) | Candidate interpretation of the quantum measurement problem using a memory-biased modification to the Born rule, with zero-bias recovery, no-signalling constraints, QRNG bounds, and clear claim boundaries. | Formal Research Note |
@@ -119,7 +119,7 @@ AIW is not a claim that ordinary probability theory, softmax selection, Bayesian
 
 Read the canonical notation and AIW reference here:
 
-[`CANONICAL_NOTATION_v1.0.md`](Filename:%20CANONICAL_NOTATION_v1.0.md)
+[`CANONICAL_NOTATION_v1.0.md`](CANONICAL_NOTATION_v1.0.md)
 
 ---
 
@@ -214,7 +214,7 @@ It also explains how later similar frameworks, renamed concepts, or derivative c
 | File | Purpose |
 |---|---|
 | [`PUBLIC_READER_START_HERE.md`](PUBLIC_READER_START_HERE.md) | First-read orientation note and public framing guardrail. |
-| [`CANONICAL_NOTATION_v1.0.md`](Filename:%20CANONICAL_NOTATION_v1.0.md) | Canonical notation, symbol definitions, Active Information Weight, memory-weighted selection equation, worked numerical example, and prior-art boundary statement. |
+| [`CANONICAL_NOTATION_v1.0.md`](CANONICAL_NOTATION_v1.0.md) | Canonical notation, symbol definitions, Active Information Weight, memory-weighted selection equation, worked numerical example, and prior-art boundary statement. |
 | [`IS_VERRELLS_LAW_LEGITIMATE.md`](IS_VERRELLS_LAW_LEGITIMATE.md) | Direct answer to legitimacy, testability, status, Ψμν framing, AI testbed position, and public claim boundaries. |
 | [`MEMORY_BIASED_COLLAPSE_MEASUREMENT_PROBLEM.md`](MEMORY_BIASED_COLLAPSE_MEASUREMENT_PROBLEM.md) | Formal note proposing a memory-biased collapse model for the quantum measurement problem, with zero-bias Born-rule recovery and explicit constraints. |
 | [`WEIGHTED_EMERGENCE_LAYERING_WEL.md`](WEIGHTED_EMERGENCE_LAYERING_WEL.md) | Public-safe bridge note defining WEL between Verrell’s Law and Collapse Aware AI. |
