@@ -7,7 +7,7 @@
 **Author:** Marcos Verrell Moss Ross (M.R.)  
 **Maintainer:** Inappropriate Media Ltd (t/a Collapse Aware AI)  
 **Contact:** collapseawareai@gmail.com  
-**Last updated:** 2026-05-05  
+**Last updated:** 2026-05-11  
 
 **DOI:** https://doi.org/10.5281/zenodo.17392582  
 **Related DOI:** https://doi.org/10.5281/zenodo.17416435
@@ -17,6 +17,8 @@
 ## New Readers
 
 Start here first: [`PUBLIC_READER_START_HERE.md`](PUBLIC_READER_START_HERE.md)
+
+For canonical notation, terminology, and the Active Information Weight measurement principle, read: [`CANONICAL_NOTATION_v1.0.md`](Filename:%20CANONICAL_NOTATION_v1.0.md)
 
 For the quantum measurement-problem proposal, read: [`MEMORY_BIASED_COLLAPSE_MEASUREMENT_PROBLEM.md`](MEMORY_BIASED_COLLAPSE_MEASUREMENT_PROBLEM.md)
 
@@ -44,6 +46,7 @@ Its wider physical claims remain open, testable, and subject to future experimen
 
 | File | Why it matters | Status |
 |---|---|---|
+| [`CANONICAL_NOTATION_v1.0.md`](Filename:%20CANONICAL_NOTATION_v1.0.md) | Establishes the canonical notation, terminology, and Active Information Weight principle: the measurable influence of retained prior information on future selection probability. This is the working reference for memory-weighted selection, informational bias, and future measurement standards. | Canonical Notation / Measurement Reference |
 | [`WEIGHTED_EMERGENCE_LAYERING_WEL.md`](WEIGHTED_EMERGENCE_LAYERING_WEL.md) | Defines WEL as the public-safe bridge between Verrell’s Law and Collapse Aware AI: prior behavioural collapses carried forward as governed weighted influence. | Public Architecture Bridge |
 | [`PRIOR_ART_AND_AUTHORSHIP_POSITION.md`](PRIOR_ART_AND_AUTHORSHIP_POSITION.md) | Records the public authorship, provenance, terminology, mathematical framing, and prior-art position for Verrell’s Law and Collapse Aware AI. | Authorship / Prior-Art Position |
 | [`MEMORY_BIASED_COLLAPSE_MEASUREMENT_PROBLEM.md`](MEMORY_BIASED_COLLAPSE_MEASUREMENT_PROBLEM.md) | Candidate interpretation of the quantum measurement problem using a memory-biased modification to the Born rule, with zero-bias recovery, no-signalling constraints, QRNG bounds, and clear claim boundaries. | Formal Research Note |
@@ -67,6 +70,7 @@ It preserves:
 - public proof materials
 - links between Verrell’s Law and Collapse Aware AI
 - Weighted Emergence Layering (WEL) as the public-safe architecture bridge
+- Active Information Weight (AIW) as the public measurement principle for retained-information influence
 - historical development records and authorship trail
 - prior-art and authorship position notes
 
@@ -102,6 +106,20 @@ The core working claim is:
 - systems with different histories may diverge even under matched present-state conditions
 
 In stronger theoretical formulations, this framework is extended into field-based and informational interpretations of memory, observation, and emergence. Those broader interpretations remain under investigation and should be distinguished from the narrower formal systems claim.
+
+---
+
+## Active Information Weight (AIW)
+
+**Active Information Weight (AIW)** is the canonical measurement principle for Verrell’s Law.
+
+It describes the measurable influence of retained prior information on future selection probability.
+
+AIW is not a claim that ordinary probability theory, softmax selection, Bayesian updating, reinforcement learning, or Markov processes were invented here. It is a narrower formal claim: retained informational history can act as a persistent weighting mechanism that changes future selection behaviour across time.
+
+Read the canonical notation and AIW reference here:
+
+[`CANONICAL_NOTATION_v1.0.md`](Filename:%20CANONICAL_NOTATION_v1.0.md)
 
 ---
 
@@ -196,6 +214,7 @@ It also explains how later similar frameworks, renamed concepts, or derivative c
 | File | Purpose |
 |---|---|
 | [`PUBLIC_READER_START_HERE.md`](PUBLIC_READER_START_HERE.md) | First-read orientation note and public framing guardrail. |
+| [`CANONICAL_NOTATION_v1.0.md`](Filename:%20CANONICAL_NOTATION_v1.0.md) | Canonical notation, symbol definitions, Active Information Weight, memory-weighted selection equation, worked numerical example, and prior-art boundary statement. |
 | [`IS_VERRELLS_LAW_LEGITIMATE.md`](IS_VERRELLS_LAW_LEGITIMATE.md) | Direct answer to legitimacy, testability, status, Ψμν framing, AI testbed position, and public claim boundaries. |
 | [`MEMORY_BIASED_COLLAPSE_MEASUREMENT_PROBLEM.md`](MEMORY_BIASED_COLLAPSE_MEASUREMENT_PROBLEM.md) | Formal note proposing a memory-biased collapse model for the quantum measurement problem, with zero-bias Born-rule recovery and explicit constraints. |
 | [`WEIGHTED_EMERGENCE_LAYERING_WEL.md`](WEIGHTED_EMERGENCE_LAYERING_WEL.md) | Public-safe bridge note defining WEL between Verrell’s Law and Collapse Aware AI. |
@@ -287,6 +306,7 @@ Current themes include:
 - memory-weighted selection validation protocols
 - continuity signature extraction and prediction tests
 - memory-biased measurement-problem modelling
+- Active Information Weight as a measurement principle for retained-information influence
 - Weighted Emergence Layering as public-safe middleware architecture language
 - prior-art and authorship preservation
 
@@ -379,4 +399,4 @@ For technical, academic, or licensing enquiries:
 
 ## Index Terms
 
-Verrell’s Law · Collapse Aware AI · memory-weighted selection · Weighted Emergence Layering · WEL · path-dependent divergence · informational bias · behavioural middleware · field-memory hypothesis · collapse-bias framework · Phase 1 Validation Suite · continuity signatures · salience weighting · Ψμν informational tensor · memory-weighted collapse · testable framework · scientific status · quantum measurement problem · Born rule modification · observer-weighted collapse · memory-biased collapse · QRNG constraints · prior art · authorship provenance · Marcos Verrell Moss Ross · Inappropriate Media Ltd
+Verrell’s Law · Collapse Aware AI · Active Information Weight · AIW · memory-weighted selection · Weighted Emergence Layering · WEL · path-dependent divergence · informational bias · behavioural middleware · field-memory hypothesis · collapse-bias framework · Phase 1 Validation Suite · continuity signatures · salience weighting · Ψμν informational tensor · memory-weighted collapse · testable framework · scientific status · quantum measurement problem · Born rule modification · observer-weighted collapse · memory-biased collapse · QRNG constraints · prior art · authorship provenance · Marcos Verrell Moss Ross · Inappropriate Media Ltd
