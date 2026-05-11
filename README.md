@@ -1,6 +1,6 @@
 # Verrell’s Law — Official GitHub Archive
 
-**Verrell’s Law** is a testable framework proposing that system evolution may be influenced not only by present conditions and inputs, but also by retained information from prior states. In this framework, memory functions as a bias term in selection dynamics, shaping the probability of future outcomes and producing path-dependent divergence.
+**Verrell’s Law** Verrell’s Law is a testable framework proposing that the evolution of systems — biological, cognitive, physical, computational, and artificial — may be influenced not only by present conditions and inputs, but also by retained information from prior states. In this framework, memory functions as a bias term in selection dynamics, shaping the probability of future outcomes and producing path-dependent divergence.
 
 **Weighted Emergence Layering (WEL)** is the public-safe bridge term linking Verrell’s Law to Collapse Aware AI: retained information becomes structured behavioural influence inside governed middleware.
 
