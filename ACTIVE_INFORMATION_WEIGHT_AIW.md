@@ -48,7 +48,7 @@ AIW is the measurement-facing expression of that principle.
 Verrell's Law = retained information can bias future selection
 AIW = measurable influence of that retained information
 WEL = layered mechanism carrying that influence forward
-Collapse Aware AI = applied middleware branch using governed memory-weighted selection
+Collapse Aware AI = middleware implementation branch using governed memory-weighted selection
 ```
 
 AIW therefore sits between theory and measurement.
@@ -61,15 +61,15 @@ It does not replace probability theory. It identifies a specific kind of probabi
 
 A public-safe selection form is:
 
-$$P(y_i \mid S_t, O_t, M_t) = \frac{\exp(U(y_i; S_t, O_t) + \lambda B(y_i; M_t))}{\sum_j \exp(U(y_j; S_t, O_t) + \lambda B(y_j; M_t))}$$
+$$P(y_i \mid X_t, O_t, M_t) = \frac{\exp(U(y_i; X_t, O_t) + \lambda B(y_i; M_t))}{\sum_j \exp(U(y_j; X_t, O_t) + \lambda B(y_j; M_t))}$$
 
 Where:
 
 - `y_i` = candidate future output, behaviour, state, or selection possibility
-- `S_t` = current system state
+- `X_t` = current system/runtime state
 - `O_t` = current observation or input
 - `M_t` = retained informational history or memory state
-- `U(y_i; S_t, O_t)` = present-state utility or base preference
+- `U(y_i; X_t, O_t)` = present-state utility or base preference
 - `B(y_i; M_t)` = retained-information bias term
 - `λ` = coupling strength controlling the influence of retained information
 
@@ -87,7 +87,7 @@ $$\lambda = 0$$
 
 In that case:
 
-$$P_0(y_i \mid S_t, O_t) = \frac{\exp(U(y_i; S_t, O_t))}{\sum_j \exp(U(y_j; S_t, O_t))}$$
+$$P_0(y_i \mid X_t, O_t) = \frac{\exp(U(y_i; X_t, O_t))}{\sum_j \exp(U(y_j; X_t, O_t))}$$
 
 This represents selection based on present-state utility alone.
 
@@ -97,7 +97,7 @@ $$\lambda > 0$$
 
 selection becomes:
 
-$$P_M(y_i \mid S_t, O_t, M_t) = \frac{\exp(U(y_i; S_t, O_t) + \lambda B(y_i; M_t))}{\sum_j \exp(U(y_j; S_t, O_t) + \lambda B(y_j; M_t))}$$
+$$P_M(y_i \mid X_t, O_t, M_t) = \frac{\exp(U(y_i; X_t, O_t) + \lambda B(y_i; M_t))}{\sum_j \exp(U(y_j; X_t, O_t) + \lambda B(y_j; M_t))}$$
 
 ---
 
@@ -105,7 +105,7 @@ $$P_M(y_i \mid S_t, O_t, M_t) = \frac{\exp(U(y_i; S_t, O_t) + \lambda B(y_i; M_t
 
 A simple observable AIW effect can be written as:
 
-$$AIW(y_i) = P_M(y_i \mid S_t, O_t, M_t) - P_0(y_i \mid S_t, O_t)$$
+$$AIW(y_i) = P_M(y_i \mid X_t, O_t, M_t) - P_0(y_i \mid X_t, O_t)$$
 
 Where:
 
@@ -125,7 +125,7 @@ Near-zero AIW means retained information had little or no measurable effect unde
 
 AIW can also compare two systems with identical present conditions but different retained histories:
 
-$$\Delta P(y_i) = P_A(y_i \mid S_t, O_t, M_t^A) - P_B(y_i \mid S_t, O_t, M_t^B)$$
+$$\Delta P(y_i) = P_A(y_i \mid X_t, O_t, M_t^A) - P_B(y_i \mid X_t, O_t, M_t^B)$$
 
 Where:
 
@@ -255,6 +255,8 @@ The correct public framing is:
 ## 13. Testing and Measurement Direction
 
 AIW can be tested by comparing matched systems or matched runs where present inputs are held constant and retained histories differ.
+
+A minimal valid AIW test requires at least two matched runs: one with retained history active and one with `λ = 0`, with all other inputs held constant.
 
 Candidate measurements include:
 
