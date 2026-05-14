@@ -57,19 +57,21 @@ It does not replace probability theory. It identifies a specific kind of probabi
 
 ---
 
-## 4. Public Selection Form
+## 4. Generalized Selection Form
 
-A public-safe selection form is:
+The generalized selection form is:
 
-$$P(y_i \mid X_t, O_t, M_t) = \frac{\exp(U(y_i; X_t, O_t) + \lambda B(y_i; M_t))}{\sum_j \exp(U(y_j; X_t, O_t) + \lambda B(y_j; M_t))}$$
+$$
+P(y_i \mid S_t, O_t, M_t) = \frac{\exp(U(y_i; S_t, O_t) + \lambda B(y_i; M_t))}{\sum_j \exp(U(y_j; S_t, O_t) + \lambda B(y_j; M_t))}
+$$
 
 Where:
 
 - `y_i` = candidate future output, behaviour, state, or selection possibility
-- `X_t` = current system/runtime state
+- `S_t` = current system/runtime state
 - `O_t` = current observation or input
 - `M_t` = retained informational history or memory state
-- `U(y_i; X_t, O_t)` = present-state utility or base preference
+- `U(y_i; S_t, O_t)` = present-state utility or base preference
 - `B(y_i; M_t)` = retained-information bias term
 - `λ` = coupling strength controlling the influence of retained information
 
@@ -83,21 +85,29 @@ AIW requires comparison against a baseline.
 
 The simplest baseline is a memoryless or zero-coupling condition:
 
-$$\lambda = 0$$
+$$
+\lambda = 0
+$$
 
 In that case:
 
-$$P_0(y_i \mid X_t, O_t) = \frac{\exp(U(y_i; X_t, O_t))}{\sum_j \exp(U(y_j; X_t, O_t))}$$
+$$
+P_0(y_i \mid S_t, O_t) = \frac{\exp(U(y_i; S_t, O_t))}{\sum_j \exp(U(y_j; S_t, O_t))}
+$$
 
 This represents selection based on present-state utility alone.
 
 When retained information is active:
 
-$$\lambda > 0$$
+$$
+\lambda > 0
+$$
 
 selection becomes:
 
-$$P_M(y_i \mid X_t, O_t, M_t) = \frac{\exp(U(y_i; X_t, O_t) + \lambda B(y_i; M_t))}{\sum_j \exp(U(y_j; X_t, O_t) + \lambda B(y_j; M_t))}$$
+$$
+P_M(y_i \mid S_t, O_t, M_t) = \frac{\exp(U(y_i; S_t, O_t) + \lambda B(y_i; M_t))}{\sum_j \exp(U(y_j; S_t, O_t) + \lambda B(y_j; M_t))}
+$$
 
 ---
 
@@ -105,7 +115,9 @@ $$P_M(y_i \mid X_t, O_t, M_t) = \frac{\exp(U(y_i; X_t, O_t) + \lambda B(y_i; M_t
 
 A simple observable AIW effect can be written as:
 
-$$AIW(y_i) = P_M(y_i \mid X_t, O_t, M_t) - P_0(y_i \mid X_t, O_t)$$
+$$
+AIW(y_i) = P_M(y_i \mid S_t, O_t, M_t) - P_0(y_i \mid S_t, O_t)
+$$
 
 Where:
 
@@ -125,7 +137,9 @@ Near-zero AIW means retained information had little or no measurable effect unde
 
 AIW can also compare two systems with identical present conditions but different retained histories:
 
-$$\Delta P(y_i) = P_A(y_i \mid X_t, O_t, M_t^A) - P_B(y_i \mid X_t, O_t, M_t^B)$$
+$$
+\Delta P(y_i) = P_A(y_i \mid S_t, O_t, M_t^A) - P_B(y_i \mid S_t, O_t, M_t^B)
+$$
 
 Where:
 
@@ -136,6 +150,24 @@ Where:
 This is the operational test of path-dependent divergence.
 
 If the present state and input are held constant while the retained history differs, any stable probability divergence becomes candidate evidence for retained-information weighting.
+
+---
+
+## Core AIW Metrics
+
+**Absolute AIW Shift (vs. Memoryless Baseline):**
+
+$$
+AIW(y_i) = P_M - P_0
+$$
+
+**Path-Dependent Divergence (History A vs. History B):**
+
+$$
+\Delta P(y_i) = P_A - P_B
+$$
+
+These two measurements separate baseline influence testing from comparative history-divergence testing.
 
 ---
 
@@ -187,23 +219,35 @@ Those judgements require separate evaluation and governance.
 
 Assume one candidate `y_i` has present-state utility:
 
-$$U(y_i) = 0.7$$
+$$
+U(y_i) = 0.7
+$$
 
 Memory coupling:
 
-$$\lambda = 0.8$$
+$$
+\lambda = 0.8
+$$
 
 Two systems have different retained-information bias values:
 
-$$B_A(y_i; M_t^A) = 0.5$$
+$$
+B_A(y_i; M_t^A) = 0.5
+$$
 
-$$B_B(y_i; M_t^B) = 0.1$$
+$$
+B_B(y_i; M_t^B) = 0.1
+$$
 
 The memory-weighted scores become:
 
-$$Score_A = 0.7 + (0.8 \times 0.5) = 1.1$$
+$$
+Score_A = 0.7 + (0.8 \times 0.5) = 1.1
+$$
 
-$$Score_B = 0.7 + (0.8 \times 0.1) = 0.78$$
+$$
+Score_B = 0.7 + (0.8 \times 0.1) = 0.78
+$$
 
 Even with the same present utility, the retained histories create different future selection pressure.
 
