@@ -46,24 +46,14 @@ AIW describes the measurable influence of retained prior information on future s
 
 The canonical memory-weighted selection equation is:
 
-\[
-P(y_i \mid S_t, O_t, M_t)
-=
+$$
+P(y_i \mid S_t, O_t, M_t) =
 \frac{
-\exp\left(
-U(y_i; S_t, O_t)
-+
-\lambda B(y_i; M_t)
-\right)
+\exp\left( U(y_i; S_t, O_t) + \lambda B(y_i; M_t) \right)
 }{
-\sum_j
-\exp\left(
-U(y_j; S_t, O_t)
-+
-\lambda B(y_j; M_t)
-\right)
+\sum_j \exp\left( U(y_j; S_t, O_t) + \lambda B(y_j; M_t) \right)
 }
-\]
+$$
 
 ---
 
@@ -183,17 +173,9 @@ This parameter is canonical within Verrell’s Law notation.
 
 Path-dependent divergence is represented as:
 
-\[
-\Delta P(s_i)
-\propto
-\lambda
-\cdot
-\left[
-B(s_i; M_t^A)
--
-B(s_i; M_t^B)
-\right]
-\]
+$$
+\Delta P(s_i) \propto \lambda \cdot \left[ B(s_i; M_t^A) - B(s_i; M_t^B) \right]
+$$
 
 This formalizes the prediction that two systems with identical present-state inputs may diverge if their retained histories differ.
 
@@ -248,15 +230,15 @@ Both agents receive the same current input.
 
 For both agents:
 
-\[
-U(y_i)=0.7
-\]
+$$
+U(y_i) = 0.7
+$$
 
 Memory coupling coefficient:
 
-\[
-\lambda=0.8
-\]
+$$
+\lambda = 0.8
+$$
 
 ---
 
@@ -264,23 +246,21 @@ Memory coupling coefficient:
 
 Agent A possesses stronger retained informational weighting:
 
-\[
-B_A(y_i; M_t)=0.5
-\]
+$$
+B_A(y_i; M_t) = 0.5
+$$
 
 Selection score:
 
-\[
-0.7 + (0.8 \times 0.5)
-=
-1.1
-\]
+$$
+0.7 + (0.8 \times 0.5) = 1.1
+$$
 
 Exponentiated weighting:
 
-\[
-e^{1.1}\approx3.004
-\]
+$$
+e^{1.1} \approx 3.004
+$$
 
 ---
 
@@ -288,23 +268,21 @@ e^{1.1}\approx3.004
 
 Agent B possesses weaker retained informational weighting:
 
-\[
-B_B(y_i; M_t)=0.1
-\]
+$$
+B_B(y_i; M_t) = 0.1
+$$
 
 Selection score:
 
-\[
-0.7 + (0.8 \times 0.1)
-=
-0.78
-\]
+$$
+0.7 + (0.8 \times 0.1) = 0.78
+$$
 
 Exponentiated weighting:
 
-\[
-e^{0.78}\approx2.182
-\]
+$$
+e^{0.78} \approx 2.182
+$$
 
 ---
 
@@ -312,37 +290,31 @@ e^{0.78}\approx2.182
 
 Assume only two candidates exist:
 
-\[
-y_i,\quad y_j
-\]
+$$
+y_i, \quad y_j
+$$
 
 and candidate \(y_j\) has baseline exponentiated weighting:
 
-\[
-e^{0.5}\approx1.649
-\]
+$$
+e^{0.5} \approx 1.649
+$$
 
 ---
 
 ### Agent A Probability
 
-\[
-P_A(y_i)
-=
-\frac{3.004}{3.004+1.649}
-\approx0.646
-\]
+$$
+P_A(y_i) = \frac{3.004}{3.004 + 1.649} \approx 0.646
+$$
 
 ---
 
 ### Agent B Probability
 
-\[
-P_B(y_i)
-=
-\frac{2.182}{2.182+1.649}
-\approx0.570
-\]
+$$
+P_B(y_i) = \frac{2.182}{2.182 + 1.649} \approx 0.570
+$$
 
 ---
 
@@ -350,33 +322,33 @@ P_B(y_i)
 
 Although both agents possessed identical present-state utility:
 
-\[
-U(y_i)=0.7
-\]
+$$
+U(y_i) = 0.7
+$$
 
 their differing retained histories produced measurably different future selection probabilities:
 
-\[
+$$
 0.646 \neq 0.570
-\]
+$$
 
 Explicit divergence:
 
-\[
-\Delta P(y_i)\approx0.076
-\]
+$$
+\Delta P(y_i) \approx 0.076
+$$
 
 This divergence is attributable entirely to retained informational weighting difference:
 
-\[
+$$
 \Delta B = 0.4
-\]
+$$
 
 under:
 
-\[
+$$
 \lambda = 0.8
-\]
+$$
 
 This is the operational prediction of Active Information Weight.
 
@@ -435,4 +407,4 @@ This document establishes the canonical notation reference for Active Informatio
 
 Protected under Verrell-Solace Sovereignty Protocol. Intellectual and emergent rights reserved.
 
-No reverse-engineering, derivative commercial use, rebranding, or extraction of the architecture is permitted without explicit written 
+No reverse-engineering, derivative commercial use, rebranding, or extraction of the architecture is permitted without explicit written permission.
