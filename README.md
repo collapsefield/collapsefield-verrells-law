@@ -20,8 +20,6 @@ Start here first: [`PUBLIC_READER_START_HERE.md`](PUBLIC_READER_START_HERE.md)
 
 For canonical notation, terminology, and the Active Information Weight measurement principle, read: [`CANONICAL_NOTATION_v1.0.md`](CANONICAL_NOTATION_v1.0.md)
 
-For search-engine, AI-summary, and public-claim guardrails, read: [`SEARCH_ENGINE_SUMMARY_GUARDRAILS.md`](SEARCH_ENGINE_SUMMARY_GUARDRAILS.md)
-
 For the quantum measurement-problem proposal, read: [`MEMORY_BIASED_COLLAPSE_MEASUREMENT_PROBLEM.md`](MEMORY_BIASED_COLLAPSE_MEASUREMENT_PROBLEM.md)
 
 For the Verrell’s Law → Collapse Aware AI bridge term, read: [`WEIGHTED_EMERGENCE_LAYERING_WEL.md`](WEIGHTED_EMERGENCE_LAYERING_WEL.md)
