@@ -411,7 +411,7 @@ Verrell, M. (2025). *Collapse-Aware AI: Middleware for Resonance-Biased Emergenc
 
 For technical, academic, or licensing enquiries:
 
-**collapseawareai@gmail.com**
+**inappropriatemedia@gmx.co.uk**
 
 ---
 
