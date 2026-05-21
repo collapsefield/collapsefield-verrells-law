@@ -7,5 +7,16 @@
     "fracture": 0.25
   },
   "bias_threshold": 0.6,
-  "notes": "Symbol weights set to neutral for public test display. No observer-linked biasing applied."
+  "notes": "Symbol weights set to neutral for public test display. No observer-linked biasing applied.",
+  "watch_items": [
+    {
+      "id": "fundamental_constants_drift_cosmic_time",
+      "date_added": "2026-05-21",
+      "status": "speculative_disputed_not_proven",
+      "summary": "Claims that the universe's fundamental constants drift over cosmic time should be treated as a watch item only. Some physics work investigates possible variation in dimensionless constants, especially the fine-structure constant, but this is not settled or proven.",
+      "safe_use": "May be referenced cautiously as supporting context for drift/framing: scientists investigate whether supposedly fixed structures may vary over cosmic time.",
+      "avoid_claim": "Do not state that fundamental constants have been proven to drift. Do not build public Verrell's Law claims on this as evidence unless stronger peer-reviewed confirmation appears.",
+      "relation_to_verrells_law": "Potential future context for drift, time-dependence, and non-static parameter assumptions. Not current proof of Verrell's Law."
+    }
+  ]
 }
