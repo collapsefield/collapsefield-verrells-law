@@ -13,12 +13,12 @@
 
 Start here first:
 
-- PUBLIC_READER_START_HERE.md
-- CAAI_ENGINEERING_AND_VERRELLS_LAW_RESEARCH_BOUNDARY.md
-- WHAT_WE_KNOW_VS_WHAT_WE_ARE_INVESTIGATING.md
-- COMMON_CRITICISMS_AND_RESPONSES.md
-- INFORMATION_MEMORY_WEIGHTING_AND_BIAS.md
-- WEL_AS_VERRELLS_LAW_SELECTION_BRIDGE.md
+- [Public Reader Start Here](PUBLIC_READER_START_HERE.md)
+- [CAAI Engineering and Verrell’s Law Research Boundary](CAAI_ENGINEERING_AND_VERRELLS_LAW_RESEARCH_BOUNDARY.md)
+- [What We Know vs What We Are Investigating](WHAT_WE_KNOW_VS_WHAT_WE_ARE_INVESTIGATING.md)
+- [Common Criticisms and Responses](COMMON_CRITICISMS_AND_RESPONSES.md)
+- [Information, Memory, Weighting and Bias](INFORMATION_MEMORY_WEIGHTING_AND_BIAS.md)
+- [WEL as Verrell’s Law Selection Bridge](WEL_AS_VERRELLS_LAW_SELECTION_BRIDGE.md)
 
 ---
 
@@ -38,10 +38,10 @@ Verrell’s Law should be evaluated as research.
 
 ### 2026 Clarification Series
 
-- CAAI_ENGINEERING_AND_VERRELLS_LAW_RESEARCH_BOUNDARY.md
-- COMMON_CRITICISMS_AND_RESPONSES.md
-- INFORMATION_MEMORY_WEIGHTING_AND_BIAS.md
-- WHAT_WE_KNOW_VS_WHAT_WE_ARE_INVESTIGATING.md
+- [CAAI Engineering and Verrell’s Law Research Boundary](CAAI_ENGINEERING_AND_VERRELLS_LAW_RESEARCH_BOUNDARY.md)
+- [Common Criticisms and Responses](COMMON_CRITICISMS_AND_RESPONSES.md)
+- [Information, Memory, Weighting and Bias](INFORMATION_MEMORY_WEIGHTING_AND_BIAS.md)
+- [What We Know vs What We Are Investigating](WHAT_WE_KNOW_VS_WHAT_WE_ARE_INVESTIGATING.md)
 
 These files were added to strengthen claim boundaries, improve falsifiability, clarify terminology, separate engineering from research, and address recurring public misunderstandings.
 
