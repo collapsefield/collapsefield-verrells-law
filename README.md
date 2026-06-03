@@ -10,15 +10,15 @@
 
 **Verrell’s Law** is a testable research framework proposing that the evolution of systems — biological, cognitive, physical, computational, and artificial — may be influenced not only by present conditions and inputs, but also by retained information from prior states.
 
-In this framework, memory functions as a bias term in selection dynamics: retained information can weight future probabilities, shape behavioural selection, and produce path-dependent divergence between systems that otherwise share the same present-state inputs.
+In this framework, observation is treated as the entry point through which information enters a system. Retained information can then function as a bias term in selection dynamics: memory can weight future probabilities, shape behavioural selection, and produce path-dependent divergence between systems that otherwise share the same present-state inputs.
 
 The core chain is:
 
 ```text
-Information → Memory → Weighting → Bias → Selection → Outcome
+Observation → Information → Memory → Weighting → Bias → Selection → Outcome
 ```
 
-Within this framework, **bias** means directional weighting, not automatically error.
+Within this framework, **bias** means directional weighting, not automatically error. Observation does not have to mean mystical consciousness; it can mean measurement, interaction, attention, input, or state update depending on the system being discussed.
 
 ---
 
