@@ -1,11 +1,76 @@
 # Verrell’s Law — Official GitHub Archive
 
-**Verrell’s Law** Verrell’s Law is a testable framework proposing that the evolution of systems — biological, cognitive, physical, computational, and artificial — may be influenced not only by present conditions and inputs, but also by retained information from prior states. In this framework, memory functions as a bias term in selection dynamics, shaping the probability of future outcomes and producing path-dependent divergence.
-
-**Weighted Emergence Layering (WEL)** is the public-safe bridge term linking Verrell’s Law to Collapse Aware AI: retained information becomes structured behavioural influence inside governed middleware.
-
 **Author:** Marcos Verrell Moss Ross (M.R.)  
-**Maintainer:** Inappropriate Media Ltd (t/a Collapse Aware AI)
+**Maintainer:** Inappropriate Media Limited (t/a Collapse Aware AI)  
+**Repository role:** Public theory archive, authorship record, research index, experimental archive, and clarification layer for Verrell’s Law.
+
+---
+
+## Overview
+
+**Verrell’s Law** is a testable research framework proposing that the evolution of systems — biological, cognitive, physical, computational, and artificial — may be influenced not only by present conditions and inputs, but also by retained information from prior states.
+
+In this framework, memory functions as a bias term in selection dynamics: retained information can weight future probabilities, shape behavioural selection, and produce path-dependent divergence between systems that otherwise share the same present-state inputs.
+
+The core chain is:
+
+```text
+Information → Memory → Weighting → Bias → Selection → Outcome
+```
+
+Within this framework, **bias** means directional weighting, not automatically error.
+
+---
+
+## Current Public Position
+
+Verrell’s Law is **not presented as established physics**.
+
+It is presented as a falsifiable memory-weighted selection framework with computational analogues, engineering implementations, and proposed physical tests.
+
+**Collapse Aware AI should be evaluated as engineering.**  
+**Verrell’s Law should be evaluated as research.**
+
+This separation is deliberate. Collapse Aware AI does not depend on Verrell’s Law being proven as physics. It is an engineering application of memory-weighted behavioural control, continuity, governor logic, and drift reduction.
+
+---
+
+## Mathematical Reference v1.2
+
+The latest public mathematical reference defines the current notation and falsifiability spine of the framework:
+
+- Canonical Selection Equation
+- Weighted Emergence Layering (WEL)
+- Active Information Weight (AIW)
+- Memory-Bias Decay
+- Path-Dependent Divergence
+- λ Recovery and Falsifiability
+- Claim boundaries: no-signalling, reduction, prior art, and research status
+
+Start here for the current mathematical framing:
+
+- [Verrell’s Law — Mathematical Reference v1.2](VERRELLS_LAW_MATHEMATICAL_REFERENCE_v1.2.md)
+- [Canonical Notation v1.0](CANONICAL_NOTATION_v1.0.md)
+- [Active Information Weight (AIW)](ACTIVE_INFORMATION_WEIGHT_AIW.md)
+- [WEL as Verrell’s Law Selection Bridge](WEL_AS_VERRELLS_LAW_SELECTION_BRIDGE.md)
+
+Core selection equation:
+
+$$
+P(y_i \mid S_t, O_t, M_t) =
+\frac{\exp\!\left( U(y_i; S_t, O_t) + \lambda\, B(y_i; M_t) \right)}
+{\sum_j \exp\!\left( U(y_j; S_t, O_t) + \lambda\, B(y_j; M_t) \right)}
+$$
+
+Where \(B(y_i; M_t)\) is the **memory-derived bias term; encodes Active Information Weight (AIW)**.
+
+The central falsifiable claim is that otherwise identical systems with different retained histories can diverge in future selection probability:
+
+$$
+\Delta P(y_i) \propto \lambda \cdot \left[B(y_i; M_t^A)-B(y_i; M_t^B)\right]
+$$
+
+If no repeatable divergence is observed when \(\Delta B \ne 0\), the AIW claim fails in that regime.
 
 ---
 
@@ -22,57 +87,92 @@ Start here first:
 
 ---
 
-## Current Public Position
+## Key Documents
 
-Verrell’s Law is not presented as established physics.
+### Core notation and mathematical framing
 
-It is presented as a falsifiable memory-weighted selection framework with computational analogues, engineering implementations, and proposed physical tests.
+- [Verrell’s Law — Mathematical Reference v1.2](VERRELLS_LAW_MATHEMATICAL_REFERENCE_v1.2.md)
+- [Canonical Notation v1.0](CANONICAL_NOTATION_v1.0.md)
+- [Verrell’s Law Core Mathematical Scaffold](verrells-law-core-mathematical-scaffold.md)
+- [Updated Math Renders](UPDATED_MATH_RENDERS.md)
 
-Collapse Aware AI should be evaluated as engineering.
-
-Verrell’s Law should be evaluated as research.
-
----
-
-## Latest Public Research Additions
-
-### 2026 Clarification Series
+### Conceptual and research boundary documents
 
 - [CAAI Engineering and Verrell’s Law Research Boundary](CAAI_ENGINEERING_AND_VERRELLS_LAW_RESEARCH_BOUNDARY.md)
+- [What We Know vs What We Are Investigating](WHAT_WE_KNOW_VS_WHAT_WE_ARE_INVESTIGATING.md)
 - [Common Criticisms and Responses](COMMON_CRITICISMS_AND_RESPONSES.md)
 - [Information, Memory, Weighting and Bias](INFORMATION_MEMORY_WEIGHTING_AND_BIAS.md)
-- [What We Know vs What We Are Investigating](WHAT_WE_KNOW_VS_WHAT_WE_ARE_INVESTIGATING.md)
+- [Verrell’s Law Position on Memory Storage](VERRELLS_LAW_POSITION_ON_MEMORY_STORAGE.md)
 
-These files were added to strengthen claim boundaries, improve falsifiability, clarify terminology, separate engineering from research, and address recurring public misunderstandings.
+### Active Information Weight and WEL
 
----
+- [Active Information Weight (AIW)](ACTIVE_INFORMATION_WEIGHT_AIW.md)
+- [WEL as Verrell’s Law Selection Bridge](WEL_AS_VERRELLS_LAW_SELECTION_BRIDGE.md)
+- [Memory Tuning and Distributed Retrieval](MEMORY_TUNING_AND_DISTRIBUTED_RETRIEVAL.md)
 
-## Core Principle
+### Testing, validation, and experimental material
 
-Retained information from prior states can influence future state selection.
+- [Verrell Law Test Protocols Phase 1 v1.0](Verrell_Law_Test_Protocols_Phase_1_v1.0.md)
+- [Memory-Biased Collapse Measurement Problem](MEMORY_BIASED_COLLAPSE_MEASUREMENT_PROBLEM.md)
+- [VL Optics Experiment Note v1](VL-Optics-Experiment-Note_v1.md)
+- [VL Optics Experiment Note v1.1](VL-Optics-Experiment-Note_v1.1.md)
 
-Information → Memory → Weighting → Bias → Selection → Outcome
+### Authorship, provenance, and priority record
 
-Within this framework, bias means directional weighting, not automatically error.
+- [Provenance](PROVENANCE.md)
+- [Provenance and Priority Position](PROVENANCE_AND_PRIORITY_POSITION.md)
+- [Prior Art and Authorship Position](PRIOR_ART_AND_AUTHORSHIP_POSITION.md)
+- [IP Notice](IP_NOTICE.md)
 
 ---
 
 ## Weighted Emergence Layering (WEL)
 
-WEL remains the public bridge between Verrell’s Law and Collapse Aware AI.
+**Weighted Emergence Layering (WEL)** is the public bridge between Verrell’s Law and Collapse Aware AI.
 
-WEL describes how retained information becomes structured influence over future selection without requiring retraining of the underlying system.
+WEL describes how retained information becomes structured influence over future selection without requiring retraining of the underlying system. In Verrell’s Law, WEL is a research-stage selection framework. In Collapse Aware AI, it becomes an engineering principle for continuity, memory weighting, governor-mediated selection, and drift control.
 
 WEL is retained as a core concept.
 
 ---
 
-## Repository Role
+## Active Information Weight (AIW)
 
-This repository is the public theory archive, authorship record, research index, experimental archive, and clarification layer for Verrell’s Law.
+**Active Information Weight (AIW)** is the measurable influence of retained prior information on future selection probability.
 
-It should be read alongside the public Collapse Aware AI proof materials, but should not be confused with them.
+In the current notation, AIW is encoded through the memory-derived bias term:
+
+$$
+B(y_i; M_t)
+$$
+
+The framework does not claim that softmax, Bayesian updating, reinforcement learning, or Markov processes are new inventions. The narrower claim is that retained informational history can be treated as an active, measurable probabilistic weighting on future selection, producing path-dependent divergence.
 
 ---
 
+## Claim Boundaries
+
+This repository uses explicit claim boundaries:
+
+- **No-signalling:** any physical application requires local evaluation of the bias term.
+- **Reduction:** the model must recover memoryless statistics at \(\lambda = 0\).
+- **Prior art:** existing statistical and machine-learning methods are acknowledged.
+- **Status:** λ, WEL decomposition, and memory-bias decay are testable hypotheses.
+
+The public materials are intended to clarify what is being claimed, what is being tested, what remains speculative, and what belongs to engineering rather than physics.
+
+---
+
+## Repository Role
+
+This repository is the public theory archive for Verrell’s Law. It should be read alongside the public Collapse Aware AI proof materials, but should not be confused with them.
+
+Collapse Aware AI is the engineering track. Verrell’s Law is the research framework.
+
+---
+
+## Copyright and Notice
+
 Copyright © Marcos Verrell Moss Ross (M.R.) / Inappropriate Media Limited.
+
+Protected under Verrell-Solace Sovereignty Protocol. Intellectual and emergent rights reserved.
