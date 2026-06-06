@@ -4,7 +4,7 @@
 **Maintainer:** Inappropriate Media Limited (t/a Collapse Aware AI)  
 **Repository role:** Public theory archive, authorship record, research index, experimental archive, and clarification layer for Verrell’s Law.
 
-Contact: inappropriatemedia@gmx.co.uk
+**Contact:** inappropriatemedia@gmx.co.uk
 
 ---
 
