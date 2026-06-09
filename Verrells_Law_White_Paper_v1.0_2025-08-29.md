@@ -1,3 +1,13 @@
+> **Version note — archived v1.0 framing**
+>
+> This document is preserved as the original v1.0 white paper for authorship, version history, and research-continuity purposes.
+>
+> Some terminology and framing in this version reflects an earlier exploratory stage of Verrell’s Law, including stronger language around field-indexed consciousness, resonance, and collapse bias.
+>
+> The current preferred framing is more cautious: Verrell’s Law is treated as a developing hypothesis around memory, information, observation, weighting, reconstruction, and selection behaviour. Any physical-field or consciousness-related language in this document should be read as speculative research framing, not as a final scientific claim.
+>
+> Later GitHub notes and working papers should be treated as the more current direction of the framework.
+
 # Verrell’s Law: A White Paper (v1.0)
 Toward Collapse-Aware Systems and Field-Indexed Consciousness
 
