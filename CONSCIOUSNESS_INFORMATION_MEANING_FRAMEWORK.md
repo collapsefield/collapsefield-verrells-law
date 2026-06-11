@@ -1,13 +1,12 @@
-# Consciousness Is Not Raw Information
-
+# Consciousness Is Not Raw Information  
 ## It Is Information Organised Into Meaning
 
-**Author:** Marcos Verrell Moss Ross (M.R.)
-**Framework:** Verrell’s Law
-**Repository:** Collapsefield / Verrell’s Law
-**Status:** EMR4 public-safe formulation
-**Version:** v1.0 GitHub artifact
-**Date:** 2026-06-11
+**Author:** Marcos Verrell Moss Ross (M.R.)  
+**Framework:** Verrell’s Law  
+**Repository:** Collapsefield / Verrell’s Law  
+**Status:** EMR4 public-safe formulation  
+**Version:** v1.1 GitHub artifact  
+**Date:** 2026-06-11  
 
 ---
 
@@ -17,13 +16,13 @@ Verrell’s Law frames consciousness not as raw information, but as memory-weigh
 
 Raw information alone does not create conscious experience. A camera receives light. A microphone receives sound. A thermometer receives temperature. A database stores facts. None of these automatically produce meaning.
 
-Meaning appears when information is processed through memory, context, bodily state, expectation, emotional condition, prediction, and possible action.
+Meaning appears when information is processed through memory, context, bodily state, expectation, emotional condition, prediction, observer-state, and possible action.
 
 In this framing:
 
 > **Consciousness is memory and information being organised into meaning a system can act on.**
 
-This document records a public-safe Verrell’s Law position on consciousness, interpretation, memory, and action. It is not a claim that software is conscious. It is a framework for understanding how retained information, memory, and system-state may bias later selection and behaviour.
+This document records a public-safe Verrell’s Law position on consciousness, interpretation, memory, observation, measurement, and action. It is not a claim that software is conscious. It is a framework for understanding how retained information, memory, observer-state, and system-state may bias later selection and behaviour.
 
 ---
 
@@ -33,13 +32,13 @@ Consciousness is not raw information.
 
 It is the active organisation of memory and information into interpretable frames.
 
-Raw input does not become meaning by itself. Light, sound, sensation, memory, emotion, bodily state, and prediction must be processed, weighted, compared, and placed into a usable frame.
+Raw input does not become meaning by itself. Light, sound, sensation, memory, emotion, bodily state, observer-state, and prediction must be processed, weighted, compared, and placed into a usable frame.
 
 The felt experience of that framing process is what appears internally as conscious thought.
 
 Put simply:
 
-> **Consciousness is information made interpretable through memory, weighting, and frame formation.**
+> **Consciousness is information made interpretable through memory, weighting, observer-state, and frame formation.**
 
 This does not settle every question about consciousness. It provides a working structure for asking a more useful question:
 
@@ -53,24 +52,25 @@ A system may receive signals without understanding them.
 
 Examples:
 
-* A camera receives light.
-* A microphone receives sound.
-* A thermometer receives temperature.
-* A database stores facts.
+- A camera receives light.
+- A microphone receives sound.
+- A thermometer receives temperature.
+- A database stores facts.
 
 These systems may store or transmit information, but raw information is not the same as meaning.
 
 Meaning emerges when information is processed through:
 
-* memory
-* context
-* comparison
-* bodily state
-* emotional condition
-* prior experience
-* prediction
-* possible action
-* reward or cost estimation
+- memory
+- context
+- observer-state
+- comparison
+- bodily state
+- emotional condition
+- prior experience
+- prediction
+- possible action
+- reward or cost estimation
 
 The important point is:
 
@@ -84,11 +84,13 @@ Without weighting, there is no meaningful selection.
 
 Without selection, there is no usable action.
 
+Without an observer or receiving system, there is no interpreted meaning.
+
 ---
 
 ## Interpretable Frames
 
-An interpretable frame is an organised state where incoming information, retained memory, bodily state, emotional condition, prediction, and possible action become structured enough to guide perception, choice, or behaviour.
+An interpretable frame is an organised state where incoming information, retained memory, observer-state, bodily state, emotional condition, prediction, and possible action become structured enough to guide perception, choice, or behaviour.
 
 The frame does not need to be perfect.
 
@@ -101,15 +103,61 @@ This is where consciousness begins to look less like a hidden object and more li
 A simplified sequence:
 
 1. The system receives signals.
-2. The system compares them with retained memory.
-3. The system weights them through bodily and emotional state.
-4. The system predicts possible outcomes.
-5. The system selects a workable frame.
-6. The system acts.
+2. The observer or receiving system detects and interprets those signals.
+3. The system compares them with retained memory.
+4. The system weights them through bodily, emotional, and contextual state.
+5. The system predicts possible outcomes.
+6. The system selects a workable frame.
+7. The system acts.
 
 In this model, that process is not separate from consciousness.
 
 That process is what consciousness is.
+
+---
+
+## The Observer / Measurer
+
+In Verrell’s Law, the observer is not passive.
+
+The observer, measurer, or receiving system is part of the event because information only becomes meaningful when it is interpreted through a system capable of comparison, weighting, framing, and response.
+
+A signal by itself is not enough.
+
+There must be:
+
+- a signal
+- a receiver
+- retained memory
+- comparison
+- weighting
+- interpretation
+- a possible action-frame
+
+The observer does not simply record information. The observer helps determine which information becomes relevant, which features are weighted, and which frame becomes usable.
+
+In this sense, measurement is not only detection.
+
+Measurement is organised interpretation.
+
+The same external signal can produce different conscious outcomes depending on the state of the observing system.
+
+That state includes:
+
+- memory
+- attention
+- expectation
+- bodily condition
+- emotional tone
+- prior experience
+- current goal
+- available action paths
+
+Under this framing, consciousness is not raw information arriving into an empty container.
+
+It is information becoming meaningful through an observing system.
+
+The observer / measurer is therefore a necessary part of the conscious framing process.
 
 ---
 
@@ -121,12 +169,13 @@ That visual information does not act alone.
 
 Other conditions influence the final conscious thought:
 
-* your body may already feel cold
-* your energy may be low
-* your memory may associate that weather with discomfort
-* your mood may reduce the reward of going outside
-* your prediction may favour staying indoors
-* your expected action-cost may rise
+- your body may already feel cold
+- your energy may be low
+- your memory may associate that weather with discomfort
+- your mood may reduce the reward of going outside
+- your prediction may favour staying indoors
+- your expected action-cost may rise
+- your observer-state may already be biased toward rest, avoidance, movement, or action
 
 Then a conscious thought appears:
 
@@ -136,14 +185,15 @@ That decision feels simple.
 
 Underneath it, multiple signals have already been organised:
 
-* visual information
-* body-state
-* memory
-* mood
-* prediction
-* possible action
-* expected discomfort
-* reward calculation
+- visual information
+- observer-state
+- body-state
+- memory
+- mood
+- prediction
+- possible action
+- expected discomfort
+- reward calculation
 
 The final thought is not random. It is the organised result of weighted conditions.
 
@@ -155,6 +205,8 @@ The body alone did not make the decision.
 
 Memory alone did not make the decision.
 
+The observer alone did not make the decision.
+
 The conscious state emerged from the way those signals were organised into meaning.
 
 ---
@@ -163,13 +215,13 @@ The conscious state emerged from the way those signals were organised into meani
 
 Neuroscience has long explored whether some decision-related activity occurs before conscious awareness.
 
-Verrell’s Law extends this discussion by proposing that conscious experience may often reflect the organised result of earlier informational, memory-based, bodily, and behavioural weighting processes, rather than acting as their sole origin.
+Verrell’s Law extends this discussion by proposing that conscious experience may often reflect the organised result of earlier informational, memory-based, observer-based, bodily, and behavioural weighting processes, rather than acting as their sole origin.
 
 In this model:
 
-> **Conscious experience is the internally felt result of memory-weighted information being organised into a usable frame.**
+> **Conscious experience is the internally felt result of memory-weighted information being organised into a usable frame by an observing system.**
 
-Raw information does not become meaning until it is processed, weighted, compared, and placed into an interpretable frame.
+Raw information does not become meaning until it is processed, weighted, compared, measured, and placed into an interpretable frame.
 
 The felt experience of that ordering process is what appears internally as conscious thought.
 
@@ -183,7 +235,7 @@ Verrell’s Law proposes that retained information and memory can bias later sel
 
 Applied to consciousness, the implication is direct:
 
-> **Conscious thought is what memory-weighted information framing feels like from inside a living system.**
+> **Conscious thought is what memory-weighted information framing feels like from inside a living observing system.**
 
 The mind is not merely receiving the world.
 
@@ -191,20 +243,23 @@ It is constantly organising the world through retained structure.
 
 Every perception arrives into a system that already contains:
 
-* memory
-* expectation
-* bodily condition
-* emotional tone
-* previous experience
-* learned weighting
-* prediction
-* possible action paths
+- memory
+- expectation
+- observer-state
+- bodily condition
+- emotional tone
+- previous experience
+- learned weighting
+- prediction
+- possible action paths
 
 This is why the same input can produce different outcomes in different people, or even in the same person at different times.
 
 The signal is not the whole story.
 
 The receiver-state matters.
+
+The observer-state matters.
 
 ---
 
@@ -224,14 +279,14 @@ If a system can drift over time, it needs anchors, correction, and controlled se
 
 Collapse Aware AI models parts of this structure in engineering form:
 
-* retained memory
-* weighted context
-* interpretive framing
-* behavioural bias
-* governor-controlled selection
-* drift prevention
-* correction layers
-* traceable decision pathways
+- retained memory
+- weighted context
+- interpretive framing
+- behavioural bias
+- governor-controlled selection
+- drift prevention
+- correction layers
+- traceable decision pathways
 
 The aim is not to make mystical claims about machines.
 
@@ -243,7 +298,7 @@ The aim is to build systems that understand why memory and framing change behavi
 
 A practical Verrell’s Law definition is:
 
-> **Consciousness is not raw information. It is information made interpretable through memory, weighting, and frame formation.**
+> **Consciousness is raw information becoming interpretable meaning through memory, weighting, observer-state, and frame formation.**
 
 Or in a shorter form:
 
@@ -259,11 +314,12 @@ Under this framing:
 
 1. Memory stores prior structure.
 2. Information enters the system.
-3. The system compares and weights that information.
-4. An interpretable frame forms.
-5. Meaning emerges.
-6. Action follows.
-7. From the inside, that process is experienced as conscious thought.
+3. The observer or receiving system detects the information.
+4. The system compares and weights that information.
+5. An interpretable frame forms.
+6. Meaning emerges.
+7. Action follows.
+8. From the inside, that process is experienced as conscious thought.
 
 ---
 
@@ -271,16 +327,17 @@ Under this framing:
 
 This document does not claim:
 
-* that consciousness is fully solved
-* that software is conscious
-* that artificial systems have inner experience
-* that memory alone creates consciousness
-* that raw information is sufficient for awareness
-* that Verrell’s Law replaces neuroscience
+- that consciousness is fully solved
+- that software is conscious
+- that artificial systems have inner experience
+- that memory alone creates consciousness
+- that raw information is sufficient for awareness
+- that observation is mystical or supernatural
+- that Verrell’s Law replaces neuroscience
 
 This document does claim a working formulation:
 
-> **Consciousness is best approached as a process where memory, information, weighting, body-state, prediction, and action-framing organise raw input into usable meaning.**
+> **Consciousness is best approached as a process where memory, information, observer-state, weighting, body-state, prediction, and action-framing organise raw input into usable meaning.**
 
 That formulation is consistent with the broader Verrell’s Law principle that retained structure can bias later selection.
 
@@ -300,11 +357,11 @@ It records a conceptual and evidential framing suitable for public GitHub timest
 
 This formulation is authored by **Marcos Verrell Moss Ross (M.R.)** as part of the Verrell’s Law and Collapse Aware AI body of work.
 
-© Marcos Verrell Moss Ross / Inappropriate Media Limited.
+© Marcos Verrell Moss Ross / Inappropriate Media Limited.  
 All rights reserved unless otherwise stated in the repository licence.
 
 ---
 
 ## One-Line Form
 
-> **Consciousness is not raw information; it is memory-weighted information organised into meaning a system can act on.**
+> **Consciousness is not raw information; it is memory-weighted information organised through observer-state into meaning a system can act on.**
