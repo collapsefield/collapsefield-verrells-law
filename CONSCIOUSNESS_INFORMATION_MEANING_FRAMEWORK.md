@@ -1,7 +1,7 @@
-# Consciousness Is Not Raw Information — It Is Information Organised Into Meaning
+# Consciousness Is Not Raw Information
 
-**Author:** Marcos Verrell Moss Ross (M.R.)
-**Framework:** Verrell’s Law
-**Maintainer:** Inappropriate Media Limited (t/a Collapse Aware AI)
-**Status:** Public-safe working formulation. Research-stage. Not settled neuroscience.
-**Security posture:** EMR4 public-safe framing. No private Crown internals, no proprietary schemas, no
+Author: Marcos Verrell Moss Ross (M.R.)
+Framework: Verrell’s Law
+Status: EMR4 public-safe formulation.
+
+Verrell’s Law frames consciousness not as raw information, but as memory-weighted information organised into interpretable meaning. Inputs become usable only when compared with memory, body-state, prediction, and possible
