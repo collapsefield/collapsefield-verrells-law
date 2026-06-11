@@ -4,4 +4,4 @@
 **Framework:** Verrell’s Law  
 **Maintainer:** Inappropriate Media Limited (t/a Collapse Aware AI)  
 **Repository role:** Public conceptual framing, research-position note, and authorship record.  
-**Status:** Public-safe working formulation. Research-stage. Not presented as settled neuroscience
+**Status:** Public-safe working formulation. Research-stage.
