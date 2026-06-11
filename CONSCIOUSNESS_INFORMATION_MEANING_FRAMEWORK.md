@@ -4,6 +4,4 @@
 **Framework:** Verrell’s Law
 **Maintainer:** Inappropriate Media Limited (t/a Collapse Aware AI)
 **Status:** Public-safe working formulation. Research-stage. Not settled neuroscience.
-**Security posture:** EMR4 public-safe framing. No private Crown internals, no proprietary schemas, no sealed implementation details.
-
-## Core claim
+**Security posture:** EMR4 public-safe framing. No private Crown internals, no proprietary schemas, no
