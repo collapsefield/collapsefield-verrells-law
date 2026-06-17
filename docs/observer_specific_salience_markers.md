@@ -6,5 +6,3 @@
 **Date:** 2026-06-17
 
 An observer-specific salience marker is a repeated memory-weighted recognition pattern. It is logged around consequential thought measurement action or information transfer.
-
-This note does not claim proof
