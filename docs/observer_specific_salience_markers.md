@@ -7,4 +7,6 @@
 
 ## Purpose
 
-This note defines an observer-specific salience marker as a repeatable recognition pattern that may appear around high-consequence moments of thought, action, measurement
+This note defines an observer-specific salience marker as a repeated recognition pattern associated with high-consequence moments of thought, action, measurement, or information transfer.
+
+The
