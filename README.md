@@ -10,7 +10,7 @@
 
 ## Overview
 
-**Verrell’s Law** is a testable research framework proposing that the evolution of systems — biological, cognitive, physical, computational, and artificial — may be influenced not only by present conditions and inputs, but also by retained information from prior states.
+**Verrell’s Law** is a testable research framework proposing that the evolution of systems — biological, cognitive, computational, physical, and artificial — may be influenced not only by present conditions and inputs, but also by retained information from prior states.
 
 In this framework, observation is treated as the entry point through which information enters a system. Retained information can then function as a bias term in selection dynamics: memory can weight future probabilities, shape behavioural selection, and produce path-dependent divergence between systems that otherwise share the same present-state inputs.
 
@@ -33,7 +33,37 @@ It is presented as a falsifiable memory-weighted selection framework with comput
 **Collapse Aware AI should be evaluated as engineering.**  
 **Verrell’s Law should be evaluated as research.**
 
-This separation is deliberate. Collapse Aware AI does not depend on Verrell’s Law being proven as physics. It is an engineering application of memory-weighted behavioural control, continuity, governor logic, and drift reduction.
+This separation is deliberate. Collapse Aware AI does not depend on Verrell’s Law being proven as physics. It is an engineering application of retained-state behavioural selection, continuity, governor logic, persistence, and drift reduction.
+
+Recommended CAAI wording:
+
+> Collapse Aware AI is engine-agnostic middleware for governed retained-state behavioural selection.
+
+Recommended distinction:
+
+> CAAI is not memory storage. It is a runtime mechanism for governing how retained state affects future behaviour.
+
+---
+
+## CAAI Engineering Distinction
+
+The wider AI field is increasingly discussing memory, agency, continual learning, biological robustness, and runtime intelligence. That trend supports the relevance of the problem space, but it is not the same as the CAAI implementation.
+
+CAAI is narrower and more practical:
+
+```text
+Candidate behaviours
+        ↓
+Retained-state influence
+        ↓
+Governor constraints
+        ↓
+Selected behaviour
+        ↓
+Diagnostic evidence
+```
+
+A technical reviewer can reject the broader research framework and still evaluate CAAI as software through runtime demonstrations, persistence evidence, selection behaviour, integration contracts, and diagnostic output.
 
 ---
 
@@ -132,9 +162,9 @@ Start here first:
 
 **Weighted Emergence Layering (WEL)** is the public bridge between Verrell’s Law and Collapse Aware AI.
 
-WEL describes how retained information becomes structured influence over future selection without requiring retraining of the underlying system. In Verrell’s Law, WEL is a research-stage selection framework. In Collapse Aware AI, it becomes an engineering principle for continuity, memory weighting, governor-mediated selection, and drift control.
+WEL describes how retained information becomes structured influence over future selection without requiring retraining of the underlying system. In Verrell’s Law, WEL is a research-stage selection framework. In Collapse Aware AI, it is part of the broader engineering roadmap around continuity, memory weighting, governor-mediated selection, and drift control.
 
-WEL is retained as a core concept.
+WEL is retained as a core concept. Public materials should not imply that every future WEL capability is already present in the Phase-1 Gold Build Core unless separately demonstrated.
 
 ---
 
