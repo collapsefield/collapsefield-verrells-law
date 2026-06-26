@@ -3,8 +3,8 @@
 **Author:** Marcos Verrell Moss Ross (M.R.)  
 **Organisation:** Inappropriate Media Limited / Collapse Aware AI  
 **Status:** Public clarification note  
-**Version:** VL-CAAI-BOUNDARY-001  
-**Date:** 2026-06-02
+**Version:** VL-CAAI-BOUNDARY-002  
+**Date:** 2026-06-27
 
 ---
 
@@ -19,20 +19,23 @@ Verrell's Law = research framework
 
 This distinction is important because Collapse Aware AI does not require the full physical interpretation of Verrell's Law to be proven in order to function as software.
 
+It is also important because public discussion around AI memory, continuity, agency, and runtime behaviour is becoming more crowded. CAAI should be evaluated by its specific engineering mechanism, not by broad claims about memory in general.
+
 ---
 
 ## 2. Collapse Aware AI Is Engineering
 
-Collapse Aware AI (CAAI) is an applied middleware architecture for memory-weighted, governor-constrained behavioural continuity.
+Collapse Aware AI (CAAI) is an applied middleware architecture for governed retained-state behavioural selection.
 
 Its practical claims are engineering claims:
 
 - retained interaction history can influence later behaviour
-- memory weights can alter selection pressure
+- retained state can alter behavioural selection pressure
 - anchors can stabilise continuity
-- governor logic can restrict unstable or unwanted output
+- governor logic can restrict unstable or unwanted output paths
 - drift can be measured, reduced, or routed
 - prior events can be carried forward as structured state
+- persistence and recall can be tested across runtime sessions
 
 These claims are testable through runtime behaviour, logs, demonstrations, benchmarks, and controlled software comparisons.
 
@@ -64,11 +67,11 @@ This boundary prevents two common errors.
 
 ### Error 1: Treating CAAI as dependent on speculative physics
 
-CAAI does not need a universal memory field to be true in order to work. It only needs retained state, weighted memory, continuity logic, and governor control to affect future behaviour.
+CAAI does not need a universal memory field to be true in order to work. It only needs retained state, weighted influence, continuity logic, and governor control to affect future behaviour.
 
 ### Error 2: Treating useful software evidence as proof of universal physics
 
-A working CAAI demonstration would support the usefulness of memory-weighted behavioural selection. It would not, by itself, prove a new physical law.
+A working CAAI demonstration would support the usefulness of governed retained-state behavioural selection. It would not, by itself, prove a new physical law.
 
 ---
 
@@ -76,7 +79,7 @@ A working CAAI demonstration would support the usefulness of memory-weighted beh
 
 The clean public position is:
 
-> Collapse Aware AI is an engineering implementation of memory-weighted behavioural selection. Verrell's Law is the wider research framework investigating retained information, weighting, observation, and selection across systems.
+> Collapse Aware AI is engine-agnostic middleware for governed retained-state behavioural selection. Verrell's Law is the wider research framework investigating retained information, weighting, observation, and selection across systems.
 
 This makes the project clearer, stronger, and easier to test.
 
@@ -88,11 +91,12 @@ Studios, researchers, or enterprise users do not need to accept the full theoret
 
 They can evaluate CAAI directly:
 
-- Does it improve continuity?
-- Does it reduce drift?
-- Does it preserve character state?
-- Does it make behaviour more stable across sessions?
-- Does the governor produce measurable control?
+- Does retained state influence later behaviour?
+- Does persistence survive restart?
+- Does recall behave as expected?
+- Does the governor constrain selection?
+- Does the diagnostic trace explain the selected behaviour?
+- Can the runtime be integrated through a clean API?
 
 Those are software questions.
 
