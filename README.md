@@ -24,6 +24,38 @@ Within this framework, **bias** means directional weighting, not automatically e
 
 ---
 
+## Foundational Mechanism Position — 27 June 2026
+
+The current cornerstone mechanism statement is:
+
+> **Information does not need to exist as a separate substance or free-floating field. Information becomes active when a prior interaction leaves a persistent state-change, and that changed state constrains or biases future outcomes.**
+
+Verrell’s Law now treats **retained state** as the primary mechanism.
+
+Electromagnetic fields may participate in biological, computational, photonic, phononic, and measurement systems, but the law does not require memory to be stored as a non-local electromagnetic field.
+
+The clarified mechanism is:
+
+```text
+Observation / Interaction
+        ↓
+State change
+        ↓
+Retained information
+        ↓
+Weighting / bias
+        ↓
+Altered future selection
+        ↓
+Path-dependent outcome
+```
+
+Start here for the current substrate/mechanism boundary:
+
+- [Retained-State Mechanism and Field Boundary](RETAINED_STATE_MECHANISM_AND_FIELD_BOUNDARY.md)
+
+---
+
 ## Current Public Position
 
 Verrell’s Law is **not presented as established physics**.
@@ -111,6 +143,7 @@ If no repeatable divergence is observed when \(\Delta B \ne 0\), the AIW claim f
 Start here first:
 
 - [Public Reader Start Here](PUBLIC_READER_START_HERE.md)
+- [Retained-State Mechanism and Field Boundary](RETAINED_STATE_MECHANISM_AND_FIELD_BOUNDARY.md)
 - [CAAI Engineering and Verrell’s Law Research Boundary](CAAI_ENGINEERING_AND_VERRELLS_LAW_RESEARCH_BOUNDARY.md)
 - [What We Know vs What We Are Investigating](WHAT_WE_KNOW_VS_WHAT_WE_ARE_INVESTIGATING.md)
 - [Common Criticisms and Responses](COMMON_CRITICISMS_AND_RESPONSES.md)
@@ -130,6 +163,7 @@ Start here first:
 
 ### Conceptual and research boundary documents
 
+- [Retained-State Mechanism and Field Boundary](RETAINED_STATE_MECHANISM_AND_FIELD_BOUNDARY.md)
 - [CAAI Engineering and Verrell’s Law Research Boundary](CAAI_ENGINEERING_AND_VERRELLS_LAW_RESEARCH_BOUNDARY.md)
 - [What We Know vs What We Are Investigating](WHAT_WE_KNOW_VS_WHAT_WE_ARE_INVESTIGATING.md)
 - [Common Criticisms and Responses](COMMON_CRITICISMS_AND_RESPONSES.md)
@@ -190,6 +224,7 @@ This repository uses explicit claim boundaries:
 - **Reduction:** the model must recover memoryless statistics at \(\lambda = 0\).
 - **Prior art:** existing statistical and machine-learning methods are acknowledged.
 - **Status:** λ, WEL decomposition, and memory-bias decay are testable hypotheses.
+- **Substrate boundary:** electromagnetic fields may participate in retained-state effects, but Verrell’s Law does not require non-local electromagnetic memory storage.
 
 The public materials are intended to clarify what is being claimed, what is being tested, what remains speculative, and what belongs to engineering rather than physics.
 
