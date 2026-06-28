@@ -24,7 +24,7 @@ Within this framework, **bias** means directional weighting, not automatically e
 
 ---
 
-## Foundational Mechanism Position — 27 June 2026
+## Foundational Mechanism Position 
 
 The current cornerstone mechanism statement is:
 
