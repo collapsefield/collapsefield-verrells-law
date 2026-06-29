@@ -28,15 +28,14 @@ This separation is enforced section by section. Where a claim is conjectural, it
 
 A quantum system before measurement is described by a wavefunction representing a superposition of possible outcome states:
 
-∣ψ⟩=∑ici ∣si⟩|\psi\rangle = \sum_i c_i\,|s_i\rangle∣ψ⟩=i∑​ci​∣si​⟩
-where ∣si⟩|s_i\rangle
-∣si​⟩ is a possible outcome and cic_i
-ci​ is its complex amplitude.
+|ψ⟩ = Σ_i c_i |s_i⟩
 
-The Born rule gives the probability of observing outcome sis_i
-si​ as:
+where |s_i⟩ is a possible outcome and c_i is its complex amplitude.
 
-P(si)=∣ci∣2P(s_i) = |c_i|^2P(si​)=∣ci​∣2
+The Born rule gives the probability of observing outcome s_i as:
+
+P(s_i) = |c_i|²
+
 This rule is empirically extraordinary. It is also incomplete in a specific sense: it predicts the distribution of outcomes across many trials, but does not specify a physical mechanism that selects one realised outcome on any individual trial. That gap is the measurement problem.
 
 Verrell's Law does not attempt to overturn the Born rule. It asks whether the rule is the complete description, or whether structured probability deviations exist under specific observer–memory–field conditions.
@@ -62,15 +61,15 @@ It does not initially modify Schrödinger evolution. It proposes a conditional m
 
 3. Core Premise
 
-Verrell's Law proposes that retained informational structure can bias future state-selection. Concretely, the probability of collapse into a particular outcome may depend not only on the present amplitudes cic_i
-ci​, but also on:
+Verrell's Law proposes that retained informational structure can bias future state-selection. Concretely, the probability of collapse into a particular outcome may depend not only on the present amplitudes c_i, but also on:
 
-SymbolMeaningMM
-Mmemory-weighted bias / history of prior outcomes within the relevant contextOO
-Oobserver-state / observation couplingΦ\Phi
-Φfield persistence from prior interactionsRR
-Rrecursive symbolic or cognitive loadτ\tau
-τtemporal persistence and decay
+
+M — memory-weighted bias / history of prior outcomes within the relevant context
+O — observer-state / observation coupling
+Φ — field persistence from prior interactions
+R — recursive symbolic or cognitive load
+τ — temporal persistence and decay
+
 
 The premise can be stated cleanly:
 
@@ -86,24 +85,21 @@ This places the observer inside the total system rather than treating observatio
 
 The standard probability rule is:
 
-P(si)=∣ci∣2P(s_i) = |c_i|^2P(si​)=∣ci​∣2
+P(s_i) = |c_i|²
+
 The proposed Verrell-biased rule is:
 
-PV(si∣M,O,Φ,R,τ)=∣ci∣2 eβBi∑j∣cj∣2 eβBjP_V(s_i \mid M, O, \Phi, R, \tau) = \frac{|c_i|^2\, e^{\beta B_i}}{\sum_j |c_j|^2\, e^{\beta B_j}}PV​(si​∣M,O,Φ,R,τ)=∑j​∣cj​∣2eβBj​∣ci​∣2eβBi​​
-where BiB_i
-Bi​ is the collapse-bias score for outcome sis_i
-si​ and β\beta
-β is a coupling sensitivity.
+                         |c_i|² · exp(β · B_i)
+P_V(s_i | M,O,Φ,R,τ)  =  ─────────────────────────
+                         Σ_j |c_j|² · exp(β · B_j)
+
+where B_i is the collapse-bias score for outcome s_i and β is a coupling sensitivity.
 
 This functional form is an ansatz, not a derivation. It is justified on three grounds:
 
 
-Maximum-entropy reweighting. The exponential form is the unique distribution that updates the Born baseline subject to a constraint on the expected value of BB
-B while otherwise minimally distorting the prior. This is the same logic that justifies softmax in statistical mechanics and inference.
-Reduction to Born. When β=0\beta = 0
-β=0 or all Bi=0B_i = 0
-Bi​=0, the rule reduces exactly to P(si)=∣ci∣2P(s_i) = |c_i|^2
-P(si​)=∣ci​∣2.
+Maximum-entropy reweighting. The exponential form is the unique distribution that updates the Born baseline subject to a constraint on the expected value of B while otherwise minimally distorting the prior. This is the same logic that justifies softmax in statistical mechanics and inference.
+Reduction to Born. When β = 0 or all B_i = 0, the rule reduces exactly to P(s_i) = |c_i|².
 Bounded perturbation. The bias multiplies rather than replaces the amplitude term, ensuring that outcomes with vanishing amplitude remain forbidden.
 
 
@@ -114,13 +110,11 @@ Alternative functional forms are possible, including additive, polynomial, and t
 
 The bias score is written as:
 
-Bi(M,O,Φ,R,τ)=αm μi(M)+αo θi(O)+αϕ ϕi(Φ)+αr ρi(R)−λτ ΔtB_i(M,O,\Phi,R,\tau) = \alpha_m\,\mu_i(M) + \alpha_o\,\theta_i(O) + \alpha_\phi\,\phi_i(\Phi) + \alpha_r\,\rho_i(R) - \lambda_\tau\,\Delta tBi​(M,O,Φ,R,τ)=αm​μi​(M)+αo​θi​(O)+αϕ​ϕi​(Φ)+αr​ρi​(R)−λτ​Δt
-where αm,αo,αϕ,αr\alpha_m, \alpha_o, \alpha_\phi, \alpha_r
-αm​,αo​,αϕ​,αr​ are coupling strengths and λτ\lambda_\tau
-λτ​ is a decay constant.
+B_i(M,O,Φ,R,τ)  =  α_m · μ_i(M)  +  α_o · θ_i(O)  +  α_φ · φ_i(Φ)  +  α_r · ρ_i(R)  −  λ_τ · Δt
 
-The honest position on this function is as follows. The components μi,θi,ϕi,ρi\mu_i, \theta_i, \phi_i, \rho_i
-μi​,θi​,ϕi​,ρi​ are currently named placeholders rather than operationally defined functions. To progress beyond a labelling exercise, each requires a constructive definition that maps measurable quantities to a numerical bias contribution.
+where α_m, α_o, α_φ, α_r are coupling strengths and λ_τ is a decay constant.
+
+The honest position on this function is as follows. The components μ_i, θ_i, φ_i, ρ_i are currently named placeholders rather than operationally defined functions. To progress beyond a labelling exercise, each requires a constructive definition that maps measurable quantities to a numerical bias contribution.
 
 Examples of measurable quantities may include:
 
@@ -139,8 +133,7 @@ Three open research tasks follow from this:
 
 Operational definitions. Each component must be specified as an explicit functional form computable from accessible observables.
 Symmetry constraints. Permutation, time-reversal, and Lorentz-frame considerations should constrain the allowable forms.
-Identifiability. The decomposition into four separate terms is only meaningful if the terms can be experimentally distinguished. Otherwise the function reduces to a single effective bias BiB_i
-Bi​.
+Identifiability. The decomposition into four separate terms is only meaningful if the terms can be experimentally distinguished. Otherwise the function reduces to a single effective bias B_i.
 
 
 This is acknowledged as a research programme, not a finished result. The framework's mathematical scaffolding is honest about where definition ends and conjecture begins.
@@ -154,12 +147,9 @@ Any modification to the Born rule must be checked against the structural results
 
 If two distant observers measure entangled subsystems, the marginal distribution at each side must not depend on what the other observer chose to measure. This is a hard constraint, not a preference.
 
-Evaluating the bias BB
-B locally — within each laboratory frame, decaying with proper time — is necessary for consistency but is not by itself sufficient. The proposed rule normalises over an outcome set, and for a joint measurement on an entangled pair that normalising denominator can couple the two wings even when each BiB_i
-Bi​ is locally defined: a change of measurement basis at one detector can shift the partition function and therefore the marginal distribution at the other. This is the same mechanism by which nonlinear modifications of quantum probability rules generically permit superluminal signalling.
+Evaluating the bias B locally — within each laboratory frame, decaying with proper time — is necessary for consistency but is not by itself sufficient. The proposed rule normalises over an outcome set, and for a joint measurement on an entangled pair that normalising denominator can couple the two wings even when each B_i is locally defined: a change of measurement basis at one detector can shift the partition function and therefore the marginal distribution at the other. This is the same mechanism by which nonlinear modifications of quantum probability rules generically permit superluminal signalling.
 
-The framework therefore treats no-signalling not as automatically secured by locality, but as a constraint that bounds the construction. It holds in the regime where β⋅B\beta \cdot B
-β⋅B is small relative to typical amplitude separations, and any full physical embedding must demonstrate it explicitly. This requirement is currently open.
+The framework therefore treats no-signalling not as automatically secured by locality, but as a constraint that bounds the construction. It holds in the regime where β · B is small relative to typical amplitude separations, and any full physical embedding must demonstrate it explicitly. This requirement is currently open.
 
 6.2 Linearity in the Density Matrix
 
@@ -169,48 +159,37 @@ Care is required. The modified rule must eventually be embedded in a local hidde
 
 6.3 Bell-Type Bounds
 
-Any local hidden-variable extension is subject to Bell inequalities. A memory-bias mechanism that preserves quantum mechanics' correlations in the high-statistics limit must reduce to Born statistics in the regime where Bell tests are conducted. This is achieved when β⋅B\beta \cdot B
-β⋅B is small relative to typical amplitude separations, which sets an upper bound on the realisable magnitude of β\beta
-β.
+Any local hidden-variable extension is subject to Bell inequalities. A memory-bias mechanism that preserves quantum mechanics' correlations in the high-statistics limit must reduce to Born statistics in the regime where Bell tests are conducted. This is achieved when β · B is small relative to typical amplitude separations, which sets an upper bound on the realisable magnitude of β.
 
-In summary: the framework can be made consistent with the structural pillars of quantum mechanics only if β⋅B\beta \cdot B
-β⋅B is small in regimes where those pillars have been tested, and only if no-signalling is secured rather than assumed. This is a constraint on the theory, not a counter-argument against it.
+In summary: the framework can be made consistent with the structural pillars of quantum mechanics only if β · B is small in regimes where those pillars have been tested, and only if no-signalling is secured rather than assumed. This is a constraint on the theory, not a counter-argument against it.
 
 
 7. Collapse Threshold — Optional Mechanism
 
 A complementary picture treats collapse as a threshold-crossing event:
 
-C(t)=∫0tB(M,O,Φ,R,τ) dt′with collapse whenC(t)≥ΘcC(t) = \int_0^t B(M,O,\Phi,R,\tau)\,dt' \qquad\text{with collapse when}\qquad C(t) \ge \Theta_cC(t)=∫0t​B(M,O,Φ,R,τ)dt′with collapse whenC(t)≥Θc​
-This reframes selection as the moment accumulated bias pressure exceeds a context-dependent threshold Θc\Theta_c
-Θc​. The threshold view is conceptually compatible with the modified Born rule but is not strictly required by it. It is presented as an interpretive option, not a separate claim.
+C(t) = ∫[0→t] B(M,O,Φ,R,τ) dt'        collapse when   C(t) ≥ Θ_c
+
+This reframes selection as the moment accumulated bias pressure exceeds a context-dependent threshold Θ_c. The threshold view is conceptually compatible with the modified Born rule but is not strictly required by it. It is presented as an interpretive option, not a separate claim.
 
 
 8. The Ψμν Extension — Candidate Theoretical Extension
 
 A broader candidate theoretical extension proposes that informational pressure could enter the gravitational field equations through an additional term:
 
-Gμν=κ Tμν+λ ΨμνG_{\mu\nu} = \kappa\,T_{\mu\nu} + \lambda\,\Psi_{\mu\nu}Gμν​=κTμν​+λΨμν​
-where Ψμν\Psi_{\mu\nu}
-Ψμν​ is a symmetric rank-2 tensor representing informational stress, and λ\lambda
-λ is a coupling constant.
+G_μν = κ · T_μν + λ · Ψ_μν
+
+where Ψ_μν is a symmetric rank-2 tensor representing informational stress, and λ is a coupling constant.
 
 This is a candidate theoretical extension, not a derivation. Three serious gaps must be acknowledged:
 
 
-Construction. No explicit construction of Ψμν\Psi_{\mu\nu}
-Ψμν​ from informational variables (M,O,Φ,RM, O, \Phi, R
-M,O,Φ,R) is offered here. Without one, the equation is a placeholder.
-Bianchi consistency. Any additional tensor coupled to GμνG_{\mu\nu}
-Gμν​ must satisfy ∇μΨμν=0\nabla^\mu \Psi_{\mu\nu} = 0
-∇μΨμν​=0, or an equivalent conservation condition, to preserve the contracted Bianchi identity and energy–momentum conservation. There is no current proof that an information-derived tensor would satisfy this.
-Empirical scale. The coupling λ\lambda
-λ must be experimentally derived. Existing precision tests of general relativity place strong upper bounds on any non-TμνT_{\mu\nu}
-Tμν​ source.
+Construction. No explicit construction of Ψ_μν from informational variables (M, O, Φ, R) is offered here. Without one, the equation is a placeholder.
+Bianchi consistency. Any additional tensor coupled to G_μν must satisfy ∇^μ Ψ_μν = 0, or an equivalent conservation condition, to preserve the contracted Bianchi identity and energy–momentum conservation. There is no current proof that an information-derived tensor would satisfy this.
+Empirical scale. The coupling λ must be experimentally derived. Existing precision tests of general relativity place strong upper bounds on any non-T_μν source.
 
 
-The Ψμν\Psi_{\mu\nu}
-Ψμν​ proposal is included because it indicates the direction of a deeper theory, but it is explicitly flagged as beyond what the bias-rule discussion can currently support. A reader should treat sections 4–7 and section 8 as having different epistemic status.
+The Ψ_μν proposal is included because it indicates the direction of a deeper theory, but it is explicitly flagged as beyond what the bias-rule discussion can currently support. A reader should treat sections 4–7 and section 8 as having different epistemic status.
 
 
 9. Existing Empirical Constraints
@@ -223,9 +202,7 @@ Global Consciousness Project — tracks correlations between worldwide random nu
 Standard QRNG calibration — routinely places tight upper bounds on systematic biases in quantum random number generators used for cryptography. These bounds are real and constrain the magnitude of any unmodelled bias.
 
 
-The honest implication is this: any nonzero β\beta
-β proposed by Verrell's Law must be consistent with existing QRNG bias bounds. That places β⋅B\beta \cdot B
-β⋅B below current detection thresholds for standard, observer-neutral conditions.
+The honest implication is this: any nonzero β proposed by Verrell's Law must be consistent with existing QRNG bias bounds. That places β · B below current detection thresholds for standard, observer-neutral conditions.
 
 The framework's testable prediction is therefore not "QRNG output is biased in general" — that is already constrained. The sharper prediction is:
 
@@ -262,8 +239,7 @@ Field-persistence condition — varied time-since-last-collapse interval.
 
 The prediction is not that outcomes become deterministic or that gross statistical deviations will be observed. The prediction is that probability distributions may show small but structured, repeatable deviations from baseline under specific bias conditions, with an effect size consistent with current QRNG bounds.
 
-A null result at progressively tighter bounds places upper limits on β\beta
-β and the coupling constants. A positive structured result, replicated, is evidence for the framework. Both outcomes are informative.
+A null result at progressively tighter bounds places upper limits on β and the coupling constants. A positive structured result, replicated, is evidence for the framework. Both outcomes are informative.
 
 
 11. CAAI as Software Analogue — Scope-Limited
@@ -306,8 +282,7 @@ Verrell's Law proposes a falsifiable, parameterised modification to the Born rul
 
 
 The modification reduces exactly to the standard Born rule in the zero-bias limit.
-It is constrained by no-signalling, which holds in the small-β\beta
-β regime and which any full physical embedding must secure explicitly.
+It is constrained by no-signalling, which holds in the small-β regime and which any full physical embedding must secure explicitly.
 It is bounded above by existing QRNG calibration data.
 Its non-trivial parameters can be tested by comparing baseline quantum randomness against controlled memory- and observer-conditioned protocols.
 
@@ -324,8 +299,7 @@ Collapse is probabilistic state-selection under memory-weighted informational bi
 
 
 
-This reframes the observer as a participating variable inside the system rather than an external spectator. It introduces a small number of bias parameters that are, in principle, experimentally accessible. It is consistent with no-signalling in the small-β\beta
-β regime, with full consistency an open requirement on any physical embedding, and it is constrained from above by existing QRNG and Bell-test data.
+This reframes the observer as a participating variable inside the system rather than an external spectator. It introduces a small number of bias parameters that are, in principle, experimentally accessible. It is consistent with no-signalling in the small-β regime, with full consistency an open requirement on any physical embedding, and it is constrained from above by existing QRNG and Bell-test data.
 
 The framework does not handwave collapse. It does not claim more than its mathematics supports. It identifies a specific, testable region of parameter space in which the standard rule may be incomplete, and it commits to either evidence or upper bounds as the empirical answer.
 
