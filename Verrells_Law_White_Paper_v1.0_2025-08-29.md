@@ -1,12 +1,14 @@
-> **Version note — archived v1.0 framing**
+> **Archive status — original v1.0 exploratory white paper**
 >
-> This document is preserved as the original v1.0 white paper for authorship, version history, and research-continuity purposes.
+> This document is preserved as the original v1.0 white paper for authorship, version history, and research-continuity purposes. It is intentionally kept in the public archive rather than removed.
 >
-> Some terminology and framing in this version reflects an earlier exploratory stage of Verrell’s Law, including stronger language around field-indexed consciousness, resonance, and collapse bias.
+> Some terminology and framing in this version reflects an earlier exploratory stage of Verrell’s Law, including stronger language around field-indexed consciousness, resonance, non-local information, gamma-wave tuning, and collapse bias.
 >
-> The current preferred framing is more cautious: Verrell’s Law is treated as a developing hypothesis around memory, information, observation, weighting, reconstruction, and selection behaviour. Any physical-field or consciousness-related language in this document should be read as speculative research framing, not as a final scientific claim.
+> The current preferred framing is more cautious and technically bounded: Verrell’s Law is treated as a developing retained-state selection framework around memory, information, observation, weighting, reconstruction, and path-dependent selection behaviour.
 >
-> Later GitHub notes and working papers should be treated as the more current direction of the framework.
+> Any physical-field, consciousness-related, non-local memory, gamma-wave, or quantum-collapse language in this document should be read as speculative research framing from the earlier development trail, not as a final scientific claim, completed proof, or required basis for Collapse Aware AI.
+>
+> For the current public position, see `PUBLIC_READER_START_HERE.md`, `ARCHIVED_DOCUMENT_STATUS.md`, `VERRELLS_LAW_WHITE_PAPER_v2.0_RETAINED_STATE_SELECTION.md`, and `CAAI_ENGINEERING_AND_VERRELLS_LAW_RESEARCH_BOUNDARY.md`.
 
 # Verrell’s Law: A White Paper (v1.0)
 Toward Collapse-Aware Systems and Field-Indexed Consciousness
@@ -145,7 +147,7 @@ Jahn, R. G., and Dunne, B. J. 1987. Margins of Reality: The Role of Consciousnes
 
 Loftus, E. F. 1996. Eyewitness Testimony. Harvard University Press.
 
-Lutz, A., Greischar, L. L., Rawlings, N. B., Ricard, M., and Davidson, R. J. 2004. Long-term meditators self-induce high-amplitude gamma synchrony during mental practice. Proceedings of the National Academy of Sciences, 101(46): 16369–16373.
+Lutz, A., Greischar, G. L., Rawlings, N. B., Ricard, M., and Davidson, R. J. 2004. Long-term meditators self-induce high-amplitude gamma synchrony during mental practice. Proceedings of the National Academy of Sciences, 101(46): 16369–16373.
 
 McFadden, J. 2020. Life is Simple: How Occam’s Razor Set Science Free and Shapes the Universe. Basic Books.
 
