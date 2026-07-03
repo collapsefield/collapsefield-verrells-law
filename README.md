@@ -77,6 +77,18 @@ Recommended distinction:
 
 ---
 
+## Archive Status
+
+This repository intentionally preserves earlier documents, older mathematical attempts, speculative field-memory notes, and development-stage wording.
+
+Those materials are retained for authorship, provenance, and research-continuity reasons. They should be read in historical context, not treated as the current strongest public position where later documents have narrowed or clarified the framework.
+
+Start here for archive interpretation:
+
+- [Archived Document Status](ARCHIVED_DOCUMENT_STATUS.md)
+
+---
+
 ## CAAI Engineering Distinction
 
 The wider AI field is increasingly discussing memory, agency, continual learning, biological robustness, and runtime intelligence. That trend supports the relevance of the problem space, but it is not the same as the CAAI implementation.
@@ -143,6 +155,7 @@ If no repeatable divergence is observed when \(\Delta B \ne 0\), the AIW claim f
 Start here first:
 
 - [Public Reader Start Here](PUBLIC_READER_START_HERE.md)
+- [Archived Document Status](ARCHIVED_DOCUMENT_STATUS.md)
 - [Retained-State Mechanism and Field Boundary](RETAINED_STATE_MECHANISM_AND_FIELD_BOUNDARY.md)
 - [CAAI Engineering and Verrell’s Law Research Boundary](CAAI_ENGINEERING_AND_VERRELLS_LAW_RESEARCH_BOUNDARY.md)
 - [What We Know vs What We Are Investigating](WHAT_WE_KNOW_VS_WHAT_WE_ARE_INVESTIGATING.md)
@@ -163,6 +176,7 @@ Start here first:
 
 ### Conceptual and research boundary documents
 
+- [Archived Document Status](ARCHIVED_DOCUMENT_STATUS.md)
 - [Retained-State Mechanism and Field Boundary](RETAINED_STATE_MECHANISM_AND_FIELD_BOUNDARY.md)
 - [CAAI Engineering and Verrell’s Law Research Boundary](CAAI_ENGINEERING_AND_VERRELLS_LAW_RESEARCH_BOUNDARY.md)
 - [What We Know vs What We Are Investigating](WHAT_WE_KNOW_VS_WHAT_WE_ARE_INVESTIGATING.md)
