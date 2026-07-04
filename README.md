@@ -8,33 +8,41 @@
 
 ---
 
-## Overview
+## Current Status
 
-**Verrell’s Law** is a testable research framework proposing that the evolution of systems — biological, cognitive, computational, physical, and artificial — may be influenced not only by present conditions and inputs, but also by retained information from prior states.
+Verrell’s Law is currently presented as a **falsifiable retained-state selection framework**, not as established physics.
 
-In this framework, observation is treated as the entry point through which information enters a system. Retained information can then function as a bias term in selection dynamics: memory can weight future probabilities, shape behavioural selection, and produce path-dependent divergence between systems that otherwise share the same present-state inputs.
+The core claim is:
 
-The core chain is:
+> Prior interactions can leave persistent state changes. Those retained changes can bias future selection, producing path-dependent divergence even when present inputs appear similar or unchanged.
 
-```text
-Observation → Information → Memory → Weighting → Bias → Selection → Outcome
-```
+Shortest form:
 
-Within this framework, **bias** means directional weighting, not automatically error. Observation does not have to mean mystical consciousness; it can mean measurement, interaction, attention, input, or state update depending on the system being discussed.
+> Memory shapes weighting.  
+> Weighting shapes selection.  
+> Selection shapes what follows.
+
+The framework does not depend on memory being stored in a universal electromagnetic field. Fields may participate in some systems where measurable, but retained state is primary.
+
+Collapse Aware AI is the engineering track connected to this framework. It does not prove new physics. It tests the engineering analogue: governed retained-state influence over behavioural selection.
 
 ---
 
-## Foundational Mechanism Position 
+## What Is New Here
 
-The current cornerstone mechanism statement is:
+The mathematics used in the current public framework is deliberately standard.
 
-> **Information does not need to exist as a separate substance or free-floating field. Information becomes active when a prior interaction leaves a persistent state-change, and that changed state constrains or biases future outcomes.**
+Verrell’s Law does not claim to invent softmax, logit selection, leaky memory, hysteresis, Bayesian updating, reinforcement learning, Markov processes, or state-dependent dynamics.
 
-Verrell’s Law now treats **retained state** as the primary mechanism.
+The contribution is narrower and more defensible:
 
-Electromagnetic fields may participate in biological, computational, photonic, phononic, and measurement systems, but the law does not require memory to be stored as a non-local electromagnetic field.
+> retained-state influence is treated as an explicit, governable, measurable selection-bias term, with a pre-committed route for estimating whether retained history contributes measurable divergence beyond present input.
 
-The clarified mechanism is:
+That is the public hardening position.
+
+---
+
+## Core Process
 
 ```text
 Observation / Interaction
@@ -50,30 +58,85 @@ Altered future selection
 Path-dependent outcome
 ```
 
-Start here for the current substrate/mechanism boundary:
-
-- [Retained-State Mechanism and Field Boundary](RETAINED_STATE_MECHANISM_AND_FIELD_BOUNDARY.md)
+Within this framework, **bias** means directional weighting, not automatically error. Observation can mean measurement, interaction, attention, input, or state update depending on the system being discussed.
 
 ---
 
-## Current Public Position
+## Collapse Means Selection Resolution
 
-Verrell’s Law is **not presented as established physics**.
+In this repository, **collapse** should be read in the engineering/systems sense unless a document explicitly says otherwise.
 
-It is presented as a falsifiable memory-weighted selection framework with computational analogues, engineering implementations, and proposed physical tests.
+Collapse means:
 
-**Collapse Aware AI should be evaluated as engineering.**  
-**Verrell’s Law should be evaluated as research.**
+> the resolution of competing candidate outcomes into a selected outcome under present input, retained state, and governing constraints.
 
-This separation is deliberate. Collapse Aware AI does not depend on Verrell’s Law being proven as physics. It is an engineering application of retained-state behavioural selection, continuity, governor logic, persistence, and drift reduction.
+It does not require quantum wave-function collapse, consciousness collapse, or a new physics claim.
 
-Recommended CAAI wording:
+---
 
-> Collapse Aware AI is engine-agnostic middleware for governed retained-state behavioural selection.
+## Current Core Documents
 
-Recommended distinction:
+Start here for the current retained-state framework:
 
-> CAAI is not memory storage. It is a runtime mechanism for governing how retained state affects future behaviour.
+1. [Retained-State Selection Framework](RETAINED_STATE_SELECTION_FRAMEWORK.md) — canonical current framework and mathematical spine.
+2. [Verrell’s Law Mathematical Reference v1.3](VERRELLS_LAW_MATHEMATICAL_REFERENCE_v1.3.md) — notation, equations, baseline condition, operational `S_t` / `M_t` boundary, and identifiability notes.
+3. [A Falsifiable Estimator for Memory-Biased Selection](FALSIFIABLE_MEMORY_BIAS_ESTIMATOR.md) — estimation machinery for retained-state influence.
+4. [Falsification Conditions](FALSIFICATION_CONDITIONS.md) — failure conditions and null-verdict language.
+5. [Speculative Extensions](SPECULATIVE_EXTENSIONS.md) — quarantined field, consciousness, and physical-extension discussion.
+
+Supporting files:
+
+- [Canonical Notation v1.0](CANONICAL_NOTATION_v1.0.md)
+- [Active Information Weight (AIW)](ACTIVE_INFORMATION_WEIGHT_AIW.md)
+- [WEL as Verrell’s Law Selection Bridge](WEL_AS_VERRELLS_LAW_SELECTION_BRIDGE.md)
+- [Retained-State Mechanism and Field Boundary](RETAINED_STATE_MECHANISM_AND_FIELD_BOUNDARY.md)
+- [CAAI Engineering and Verrell’s Law Research Boundary](CAAI_ENGINEERING_AND_VERRELLS_LAW_RESEARCH_BOUNDARY.md)
+
+---
+
+## Minimal Mathematical Spine
+
+For candidate outcome `y_i`, define a candidate score/logit:
+
+```math
+z_i = U(y_i; S_t, O_t) + \lambda B(y_i; M_t)
+```
+
+Selection probability:
+
+```math
+P(y_i \mid S_t,O_t,M_t)
+=
+\frac{e^{z_i}}{\sum_j e^{z_j}}
+```
+
+Equivalent baseline form:
+
+```math
+P(y_i \mid S_t,O_t,M_t)
+=
+\frac{P_0(y_i \mid S_t,O_t)e^{\lambda W(M_t,y_i)}}{\sum_j P_0(y_j \mid S_t,O_t)e^{\lambda W(M_t,y_j)}}
+```
+
+These forms are equivalent with `U(y_i;S_t,O_t) = log P_0(y_i | S_t,O_t)` up to an additive constant, and `B = W`.
+
+The baseline condition must be defined before testing. In an engineering test, it may be the same system with retained-state weighting disabled, ablated, randomised, or held neutral.
+
+---
+
+## Falsifiable Claim
+
+Otherwise similar systems with different retained histories should show measurable divergence under matched present input if retained-state weighting is active.
+
+If no repeatable divergence appears under controlled conditions, or if the fitted retained-state influence is indistinguishable from the pre-registered null condition, the claim is not supported in that tested regime.
+
+The correct null wording is:
+
+> refuted in the tested regime.
+
+Not:
+
+> disproven everywhere.
 
 ---
 
@@ -87,146 +150,44 @@ Start here for archive interpretation:
 
 - [Archived Document Status](ARCHIVED_DOCUMENT_STATUS.md)
 
+The v1.2 mathematical reference has been superseded by `VERRELLS_LAW_MATHEMATICAL_REFERENCE_v1.3.md`.
+
 ---
 
-## CAAI Engineering Distinction
+## Relationship to Collapse Aware AI
 
-The wider AI field is increasingly discussing memory, agency, continual learning, biological robustness, and runtime intelligence. That trend supports the relevance of the problem space, but it is not the same as the CAAI implementation.
-
-CAAI is narrower and more practical:
+Verrell’s Law and Collapse Aware AI are connected but separate.
 
 ```text
-Candidate behaviours
-        ↓
-Retained-state influence
-        ↓
-Governor constraints
-        ↓
-Selected behaviour
-        ↓
-Diagnostic evidence
+Verrell’s Law = retained-state selection research framework
+Collapse Aware AI = engineering track for governed retained-state behavioural selection
 ```
+
+Collapse Aware AI does not prove Verrell’s Law as physics.
+
+It tests the engineering analogue:
+
+> Can retained weighted state influence future behavioural selection in a governed, measurable, inspectable runtime without retraining the underlying model?
 
 A technical reviewer can reject the broader research framework and still evaluate CAAI as software through runtime demonstrations, persistence evidence, selection behaviour, integration contracts, and diagnostic output.
 
----
+Recommended CAAI wording:
 
-## Mathematical Reference v1.2
+> Collapse Aware AI is engine-agnostic middleware for governed retained-state behavioural selection.
 
-The latest public mathematical reference defines the current notation and falsifiability spine of the framework:
+Recommended distinction:
 
-- Canonical Selection Equation
-- Weighted Emergence Layering (WEL)
-- Active Information Weight (AIW)
-- Memory-Bias Decay
-- Path-Dependent Divergence
-- λ Recovery and Falsifiability
-- Claim boundaries: no-signalling, reduction, prior art, and research status
-
-Start here for the current mathematical framing:
-
-- [Verrell’s Law — Mathematical Reference v1.2](VERRELLS_LAW_MATHEMATICAL_REFERENCE_v1.2.md)
-- [Canonical Notation v1.0](CANONICAL_NOTATION_v1.0.md)
-- [Active Information Weight (AIW)](ACTIVE_INFORMATION_WEIGHT_AIW.md)
-- [WEL as Verrell’s Law Selection Bridge](WEL_AS_VERRELLS_LAW_SELECTION_BRIDGE.md)
-
-Core selection equation:
-
-$$
-P(y_i \mid S_t, O_t, M_t) =
-\frac{\exp\!\left( U(y_i; S_t, O_t) + \lambda\, B(y_i; M_t) \right)}
-{\sum_j \exp\!\left( U(y_j; S_t, O_t) + \lambda\, B(y_j; M_t) \right)}
-$$
-
-Where \(B(y_i; M_t)\) is the **memory-derived bias term; encodes Active Information Weight (AIW)**.
-
-The central falsifiable claim is that otherwise identical systems with different retained histories can diverge in future selection probability:
-
-$$
-\Delta P(y_i) \propto \lambda \cdot \left[B(y_i; M_t^A)-B(y_i; M_t^B)\right]
-$$
-
-If no repeatable divergence is observed when \(\Delta B \ne 0\), the AIW claim fails in that regime.
+> CAAI is not memory storage. It is a runtime mechanism for governing how retained state affects future behaviour.
 
 ---
 
-## New Readers
-
-Start here first:
-
-- [Public Reader Start Here](PUBLIC_READER_START_HERE.md)
-- [Archived Document Status](ARCHIVED_DOCUMENT_STATUS.md)
-- [Retained-State Mechanism and Field Boundary](RETAINED_STATE_MECHANISM_AND_FIELD_BOUNDARY.md)
-- [CAAI Engineering and Verrell’s Law Research Boundary](CAAI_ENGINEERING_AND_VERRELLS_LAW_RESEARCH_BOUNDARY.md)
-- [What We Know vs What We Are Investigating](WHAT_WE_KNOW_VS_WHAT_WE_ARE_INVESTIGATING.md)
-- [Common Criticisms and Responses](COMMON_CRITICISMS_AND_RESPONSES.md)
-- [Information, Memory, Weighting and Bias](INFORMATION_MEMORY_WEIGHTING_AND_BIAS.md)
-- [WEL as Verrell’s Law Selection Bridge](WEL_AS_VERRELLS_LAW_SELECTION_BRIDGE.md)
-
----
-
-## Key Documents
-
-### Core notation and mathematical framing
-
-- [Verrell’s Law — Mathematical Reference v1.2](VERRELLS_LAW_MATHEMATICAL_REFERENCE_v1.2.md)
-- [Canonical Notation v1.0](CANONICAL_NOTATION_v1.0.md)
-- [Verrell’s Law Core Mathematical Scaffold](verrells-law-core-mathematical-scaffold.md)
-- [Updated Math Renders](UPDATED_MATH_RENDERS.md)
-
-### Conceptual and research boundary documents
-
-- [Archived Document Status](ARCHIVED_DOCUMENT_STATUS.md)
-- [Retained-State Mechanism and Field Boundary](RETAINED_STATE_MECHANISM_AND_FIELD_BOUNDARY.md)
-- [CAAI Engineering and Verrell’s Law Research Boundary](CAAI_ENGINEERING_AND_VERRELLS_LAW_RESEARCH_BOUNDARY.md)
-- [What We Know vs What We Are Investigating](WHAT_WE_KNOW_VS_WHAT_WE_ARE_INVESTIGATING.md)
-- [Common Criticisms and Responses](COMMON_CRITICISMS_AND_RESPONSES.md)
-- [Information, Memory, Weighting and Bias](INFORMATION_MEMORY_WEIGHTING_AND_BIAS.md)
-- [Verrell’s Law Position on Memory Storage](VERRELLS_LAW_POSITION_ON_MEMORY_STORAGE.md)
-
-### Active Information Weight and WEL
-
-- [Active Information Weight (AIW)](ACTIVE_INFORMATION_WEIGHT_AIW.md)
-- [WEL as Verrell’s Law Selection Bridge](WEL_AS_VERRELLS_LAW_SELECTION_BRIDGE.md)
-- [Memory Tuning and Distributed Retrieval](MEMORY_TUNING_AND_DISTRIBUTED_RETRIEVAL.md)
-
-### Testing, validation, and experimental material
-
-- [Verrell Law Test Protocols Phase 1 v1.0](Verrell_Law_Test_Protocols_Phase_1_v1.0.md)
-- [Memory-Biased Collapse Measurement Problem](MEMORY_BIASED_COLLAPSE_MEASUREMENT_PROBLEM.md)
-- [VL Optics Experiment Note v1](VL-Optics-Experiment-Note_v1.md)
-- [VL Optics Experiment Note v1.1](VL-Optics-Experiment-Note_v1.1.md)
-
-### Authorship, provenance, and priority record
-
-- [Provenance](PROVENANCE.md)
-- [Provenance and Priority Position](PROVENANCE_AND_PRIORITY_POSITION.md)
-- [Prior Art and Authorship Position](PRIOR_ART_AND_AUTHORSHIP_POSITION.md)
-- [IP Notice](IP_NOTICE.md)
-
----
-
-## Weighted Emergence Layering (WEL)
-
-**Weighted Emergence Layering (WEL)** is the public bridge between Verrell’s Law and Collapse Aware AI.
-
-WEL describes how retained information becomes structured influence over future selection without requiring retraining of the underlying system. In Verrell’s Law, WEL is a research-stage selection framework. In Collapse Aware AI, it is part of the broader engineering roadmap around continuity, memory weighting, governor-mediated selection, and drift control.
-
-WEL is retained as a core concept. Public materials should not imply that every future WEL capability is already present in the Phase-1 Gold Build Core unless separately demonstrated.
-
----
-
-## Active Information Weight (AIW)
+## Active Information Weight and WEL
 
 **Active Information Weight (AIW)** is the measurable influence of retained prior information on future selection probability.
 
-In the current notation, AIW is encoded through the memory-derived bias term:
+**Weighted Emergence Layering (WEL)** is the public bridge between Verrell’s Law and Collapse Aware AI. WEL describes how retained information becomes structured influence over future selection without requiring retraining of the underlying system.
 
-$$
-B(y_i; M_t)
-$$
-
-The framework does not claim that softmax, Bayesian updating, reinforcement learning, or Markov processes are new inventions. The narrower claim is that retained informational history can be treated as an active, measurable probabilistic weighting on future selection, producing path-dependent divergence.
+Public materials should not imply that every future WEL capability is already present in the Phase-1 Gold Build Core unless separately demonstrated.
 
 ---
 
@@ -234,13 +195,16 @@ The framework does not claim that softmax, Bayesian updating, reinforcement lear
 
 This repository uses explicit claim boundaries:
 
-- **No-signalling:** any physical application requires local evaluation of the bias term.
-- **Reduction:** the model must recover memoryless statistics at \(\lambda = 0\).
-- **Prior art:** existing statistical and machine-learning methods are acknowledged.
-- **Status:** λ, WEL decomposition, and memory-bias decay are testable hypotheses.
-- **Substrate boundary:** electromagnetic fields may participate in retained-state effects, but Verrell’s Law does not require non-local electromagnetic memory storage.
+- Verrell’s Law is not presented as established physics.
+- The current framework does not depend on a universal electromagnetic memory field.
+- Fields may participate where measurable, but retained state is primary.
+- General relativity is not modified by the current public framework.
+- Simulation theory is not required.
+- Non-local personal memory is not claimed as established.
+- Collapse Aware AI is evaluated as engineering, not proof of new physics.
+- Proprietary Crown internals, production scoring, thresholds, schemas, and implementation mechanics are not disclosed.
 
-The public materials are intended to clarify what is being claimed, what is being tested, what remains speculative, and what belongs to engineering rather than physics.
+Public materials are intended to clarify what is being claimed, what is being tested, what remains speculative, and what belongs to engineering rather than physics.
 
 ---
 
@@ -257,3 +221,8 @@ Collapse Aware AI is the engineering track. Verrell’s Law is the research fram
 Copyright © Marcos Verrell Moss Ross (M.R.) / Inappropriate Media Limited.
 
 Protected under Verrell-Solace Sovereignty Protocol. Intellectual and emergent rights reserved.
+
+---
+
+**README version:** retained-state hardening pass  
+**Date:** 2026-07-04
