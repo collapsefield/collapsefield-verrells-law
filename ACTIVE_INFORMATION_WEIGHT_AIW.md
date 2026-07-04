@@ -1,11 +1,11 @@
 # Active Information Weight (AIW)
 
-**Subtitle:** A Measurement Principle for Retained-Information Influence in Future Selection
-**Author:** Marcos Verrell Moss Ross (M.R.)
-**Organisation:** Inappropriate Media Limited / Collapse Aware AI
-**Status:** Public theory-side provenance note
-**First published publicly:** 2026-05-13
-**Version:** AIW-PROV-001
+**Subtitle:** A Measurement Principle for Retained-Information Influence in Future Selection  
+**Author:** Marcos Verrell Moss Ross (M.R.)  
+**Organisation:** Inappropriate Media Limited / Collapse Aware AI  
+**Status:** Public theory-side provenance note  
+**First published publicly:** 2026-05-13  
+**Version:** AIW-v1.0
 
 ---
 
@@ -355,3 +355,8 @@ Copyright © 2026 Marcos Verrell Moss Ross / Inappropriate Media Limited.
 All rights reserved unless otherwise stated in the repository license.
 
 This public note is provided for technical provenance, research discussion, and theory/middleware boundary clarification. It does not grant permission to reproduce, commercialise, rebrand, or incorporate the AIW framework into third-party systems without written permission.
+
+---
+
+**Update:** PROV-001 marker removed from public-facing version label.  
+**Date:** 2026-07-04
