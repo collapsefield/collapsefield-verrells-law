@@ -6,6 +6,18 @@
 
 ---
 
+## Framework Link
+
+This estimator is the measurement machinery for the retained-state selection framework defined in:
+
+> `RETAINED_STATE_SELECTION_FRAMEWORK.md`
+
+The estimator should be used to test whether retained history contributes measurable selection divergence beyond the baseline condition.
+
+The key public claim is not that the selection equation is mathematically novel. The claim is that retained-state influence can be pre-defined, measured, governed, and tested against a null baseline.
+
+---
+
 This note specifies a single, testable claim: that retained history exerts a measurable bias on a system's selection behaviour, over and above what its present-state utility predicts. It gives the model, the identification step that makes the effect recoverable, the closed-form estimator, the two confounds that must be controlled, and a pre-committed decision rule for support or refutation. The note concerns *measurement of behaviour only*. It does not describe, and is independent of, any mechanism for producing or governing such bias in an engineered system.
 
 ## 1. The selection model
@@ -17,6 +29,18 @@ P(y_i \mid S_t, O_t, M_t) = \frac{\exp\left(U_i + \lambda B_i\right)}{\sum_{j} \
 $$
 
 The scalar $\lambda$ is the *memory-bias coupling strength*: the quantity the whole protocol exists to estimate. If $\lambda = 0$, the equation collapses to a standard utility-only choice rule and history has no role.
+
+## Identifiability Note
+
+Only the product of retained-state influence and retained-state bias enters the selection score:
+
+```math
+\lambda B(y_i;M_t)
+```
+
+Therefore `λ` should not be interpreted without a pre-defined baseline, retained-state feature, candidate set, and estimation rule.
+
+The valid test is not post-hoc fitting. The valid test is pre-committed divergence against a controlled baseline.
 
 ## 2. Identification: recovering λ
 
@@ -87,3 +111,10 @@ The thresholds $N_{\min}$ and $r_{\min}$ are to be fixed by a power analysis pri
 This is a measurement protocol, not a physical claim. A reproducible non-zero $\lambda$ establishes a path-dependent, history-correlated bias in observed selection; it does not by itself establish any field mechanism, nor does it require one. All quantities above are defined over observable choice behaviour. The protocol is offered for adversarial testing: the conditions under which it would fail are stated as plainly as the conditions under which it would succeed.
 
 A result of $\lambda \approx 0$ in any single test is *refuted in the tested regime* only — it constrains that specific setup and does not falsify the broader framework, which must be assessed across many regimes, proxies, and utility specifications.
+
+---
+
+**Version:** retained-state framework link update  
+**Date:** 2026-07-04  
+**Author:** Marcos Verrell Moss Ross (M.R.) / Inappropriate Media Limited  
+**Repository target:** `collapsefield/collapsefield-verrells-law`
