@@ -92,6 +92,17 @@ Supporting files:
 - [Retained-State Mechanism and Field Boundary](RETAINED_STATE_MECHANISM_AND_FIELD_BOUNDARY.md)
 - [CAAI Engineering and Verrell’s Law Research Boundary](CAAI_ENGINEERING_AND_VERRELLS_LAW_RESEARCH_BOUNDARY.md)
 
+## Working Paper: Memory-Weighted Selection
+
+The engineering reference paper now has a dedicated public repository:
+
+- [Memory-Weighted Selection — repository](https://github.com/collapsefield/memory-weighted-selection)
+- [Read the compiled paper](https://github.com/collapsefield/memory-weighted-selection/blob/main/Memory-Weighted-Selection.pdf)
+- [Inspect the LaTeX source and figures](https://github.com/collapsefield/memory-weighted-selection/tree/main/paper_source)
+- [Read the bounded quantum-memory and carbon evidence note](https://github.com/collapsefield/memory-weighted-selection/blob/main/research_notes/QUANTUM_MEMORY_AND_CARBON_ADJACENT_EVIDENCE.md)
+
+The paper formalises middleware-level memory-weighted candidate selection under explicit governor constraints. It remains a narrow engineering paper: it does not claim quantum implementation, consciousness, new physics, or disclosure of proprietary Crown internals.
+
 ---
 
 ## Minimal Mathematical Spine
