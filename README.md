@@ -10,7 +10,7 @@
 
 ## Current Status
 
-Verrell’s Law is currently presented as a **falsifiable retained-state selection framework**, not as established physics.
+Verrell’s Law is currently presented as a **falsifiable retained-state selection framework**
 
 The core claim is:
 
