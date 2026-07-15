@@ -198,7 +198,7 @@ Recommended distinction:
 
 **Weighted Emergence Layering (WEL)** is the public bridge between Verrell’s Law and Collapse Aware AI. WEL describes how retained information becomes structured influence over future selection without requiring retraining of the underlying system.
 
-The Phase-1 Core Gold Build is complete as the demonstrated engineering foundation. Broader WEL and Phase-2 capabilities remain mapped development work and must not be represented as features of the current build unless separately implemented and demonstrated.
+The Phase-1 Core Gold Build is complete as the demonstrated engineering foundation. Broader WEL and Phase-2 development is now in progress through controlled, incremental slices. Those developing capabilities must not be represented as features of the current build unless separately implemented and demonstrated.
 
 ---
 
