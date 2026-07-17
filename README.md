@@ -10,11 +10,13 @@
 
 ## Current Status
 
-Verrell’s Law is currently presented as a **falsifiable retained-state selection framework**
+Verrell’s Law is currently presented as a **falsifiable retained-state selection framework**.
 
-The core claim is:
+The non-trivial core claim is:
 
-> Prior interactions can leave persistent state changes. Those retained changes can bias future selection, producing path-dependent divergence even when present inputs appear similar or unchanged.
+> Under controlled conditions, changes in selection log-odds are predicted by a preregistered retained-state compatibility score through a stable, directional coupling within a declared test regime.
+
+This is narrower than the generic statement that memory affects behaviour. The framework predicts a specific quantitative structure, not merely outcome variation after context changes.
 
 Shortest form:
 
@@ -28,6 +30,39 @@ Collapse Aware AI is the engineering track connected to this framework. It does 
 
 ---
 
+## Canonical Mathematical Specification
+
+The primary public mathematical reference is:
+
+### [Verrell’s Law — Mathematical Foundations and Falsification Protocol, Canonical Specification v1.0](VERRELLS_LAW_MATHEMATICAL_FOUNDATIONS_AND_FALSIFICATION_PROTOCOL_v1.0.md)
+
+This document defines:
+
+- the principal retained-state selection hypothesis;
+- all core variables and sign conventions;
+- score normalization and the identifiability boundary for `λ`;
+- probabilistic and deterministic observables;
+- binary and multinomial estimation procedures;
+- preregistration requirements;
+- controlled twin-run design;
+- intercept, residual and out-of-sample diagnostics;
+- explicit falsification conditions;
+- the boundary between Verrell’s Law, Collapse Aware AI and physical interpretation.
+
+It supersedes earlier mathematical summaries wherever they conflict. Earlier documents remain preserved as part of the public authorship and development trail.
+
+Canonical first-order form:
+
+```math
+\Delta L = \lambda\Delta R,
+\qquad
+\lambda>0
+```
+
+Here, `ΔL` is the change in candidate-relative selection log-odds and `ΔR` is the preregistered, normalized retained-state compatibility difference. The coupling `λ` is interpreted only within a declared test regime and scoring convention.
+
+---
+
 ## What Is New Here
 
 The mathematics used in the current public framework is deliberately standard.
@@ -36,7 +71,7 @@ Verrell’s Law does not claim to invent softmax, logit selection, leaky memory,
 
 The contribution is narrower and more defensible:
 
-> retained-state influence is treated as an explicit, governable, measurable selection-bias term, with a pre-committed route for estimating whether retained history contributes measurable divergence beyond present input.
+> retained-state influence is treated as an explicit, governable, measurable selection-bias term, with a preregistered route for testing whether retained history contributes structured, directional and predictive divergence beyond present input.
 
 That is the public hardening position.
 
@@ -78,11 +113,12 @@ It does not require quantum wave-function collapse, consciousness collapse, or a
 
 Start here for the current retained-state framework:
 
-1. [Retained-State Selection Framework](RETAINED_STATE_SELECTION_FRAMEWORK.md) — canonical current framework and mathematical spine.
-2. [Verrell’s Law Mathematical Reference v1.3](VERRELLS_LAW_MATHEMATICAL_REFERENCE_v1.3.md) — notation, equations, baseline condition, operational `S_t` / `M_t` boundary, and identifiability notes.
-3. [A Falsifiable Estimator for Memory-Biased Selection](FALSIFIABLE_MEMORY_BIAS_ESTIMATOR.md) — estimation machinery for retained-state influence.
-4. [Falsification Conditions](FALSIFICATION_CONDITIONS.md) — failure conditions and null-verdict language.
-5. [Speculative Extensions](SPECULATIVE_EXTENSIONS.md) — quarantined field, consciousness, and physical-extension discussion.
+1. [Mathematical Foundations and Falsification Protocol v1.0](VERRELLS_LAW_MATHEMATICAL_FOUNDATIONS_AND_FALSIFICATION_PROTOCOL_v1.0.md) — canonical mathematical specification and primary citable claim.
+2. [Retained-State Selection Framework](RETAINED_STATE_SELECTION_FRAMEWORK.md) — broader framework and conceptual spine.
+3. [Verrell’s Law Mathematical Reference v1.3](VERRELLS_LAW_MATHEMATICAL_REFERENCE_v1.3.md) — supporting notation, equations, baseline condition, operational `S_t` / `M_t` boundary, and identifiability notes.
+4. [A Falsifiable Estimator for Memory-Biased Selection](FALSIFIABLE_MEMORY_BIAS_ESTIMATOR.md) — supporting estimation machinery.
+5. [Falsification Conditions](FALSIFICATION_CONDITIONS.md) — supporting failure conditions and null-verdict language.
+6. [Speculative Extensions](SPECULATIVE_EXTENSIONS.md) — quarantined field, consciousness, and physical-extension discussion.
 
 Supporting files:
 
@@ -131,19 +167,27 @@ P(y_i \mid S_t,O_t,M_t)
 
 These forms are equivalent with `U(y_i;S_t,O_t) = log P_0(y_i | S_t,O_t)` up to an additive constant, and `B = W`.
 
-The baseline condition must be defined before testing. In an engineering test, it may be the same system with retained-state weighting disabled, ablated, randomised, or held neutral.
+The baseline, compatibility scoring, normalization, observable extraction and analysis procedure must be declared before testing. `λ` has no scale-independent meaning unless the scale of the retained-state score is fixed.
 
 ---
 
 ## Falsifiable Claim
 
-Otherwise similar systems with different retained histories should show measurable divergence under matched present input if retained-state weighting is active.
+Otherwise matched trials with different retained histories should show a positive, quantitatively structured relationship between normalized retained-state compatibility and change in selection log-odds if Verrell’s Law is supported in that regime.
 
-If no repeatable divergence appears under controlled conditions, or if the fitted retained-state influence is indistinguishable from the pre-registered null condition, the claim is not supported in that tested regime.
+The confirmatory model is:
+
+```math
+\Delta L_k = \alpha + \lambda\Delta R_k + \varepsilon_k
+```
+
+A valid regime should support `α ≈ 0`, `λ > 0`, residuals uncorrelated with `ΔR`, stability across repetitions, and prediction on held-out trials.
+
+If those conditions fail, or if the fitted retained-state influence is indistinguishable from the preregistered null, the claim is not supported in that tested regime.
 
 The correct null wording is:
 
-> refuted in the tested regime.
+> rejected or not supported in the tested regime.
 
 Not:
 
@@ -161,7 +205,7 @@ Start here for archive interpretation:
 
 - [Archived Document Status](ARCHIVED_DOCUMENT_STATUS.md)
 
-The v1.2 mathematical reference has been superseded by `VERRELLS_LAW_MATHEMATICAL_REFERENCE_v1.3.md`.
+The canonical v1.0 protocol is now the primary mathematical authority. The v1.3 mathematical reference remains a supporting document. The v1.2 mathematical reference is superseded.
 
 ---
 
@@ -170,8 +214,9 @@ The v1.2 mathematical reference has been superseded by `VERRELLS_LAW_MATHEMATICA
 Verrell’s Law and Collapse Aware AI are connected but separate.
 
 ```text
-Verrell’s Law = retained-state selection research framework
+Verrell’s Law = retained-state selection research hypothesis
 Collapse Aware AI = engineering track for governed retained-state behavioural selection
+Physical interpretation = separate research layer requiring independent evidence
 ```
 
 Collapse Aware AI does not prove Verrell’s Law as physics.
@@ -235,5 +280,5 @@ Protected under Verrell-Solace Sovereignty Protocol. Intellectual and emergent r
 
 ---
 
-**README version:** Core Gold Build status clarification  
-**Date:** 2026-07-15
+**README version:** Canonical mathematical protocol integration  
+**Date:** 2026-07-17
