@@ -3,40 +3,48 @@
 **Verrell’s Law — Public Orientation Note**  
 **Author:** Marcos Verrell Moss Ross (M.R.)  
 **Maintainer:** Inappropriate Media Ltd (t/a Collapse Aware AI)  
-**Status:** Testable hypothesis under active investigation  
+**Status:** Falsifiable hypothesis under active investigation  
 **Repository role:** Public theory archive, authorship record, and research index
 
 ---
 
 ## 1. What Verrell’s Law Is
 
-Verrell’s Law is a testable framework proposing that the evolution of a system may be influenced not only by its present state and current input, but also by retained information from prior states.
+Verrell’s Law is a testable retained-state selection hypothesis.
 
-In simple terms:
+It proposes that the evolution of a system may depend not only on present state and current input, but also on structured information retained from prior states.
 
-> The past is not always neutral.  
-> Retained information may bias what happens next.
+The non-trivial claim is not simply that memory can change behaviour. It is that, under controlled conditions, a preregistered retained-state compatibility score should predict a stable, directional change in later selection log-odds within a declared test regime.
 
-The core idea is that memory, treated as structured retained information, can act as a bias term in selection dynamics. This may allow two systems with the same present conditions to diverge if their histories are different.
+In compact form:
 
-This repository preserves the public research record, authorship trail, formal notes, experimental concepts, and related documentation for Verrell’s Law.
+> Retained history changes weighting.  
+> Changed weighting changes selection.  
+> The predicted relationship must survive controlled measurement.
 
 ---
 
-## 2. The Core Claim
+## 2. Canonical Mathematical Reference
 
-At its most compact, Verrell’s Law proposes:
+The primary mathematical authority for the current public framework is:
 
-> Retained information from prior states can influence future state selection, producing history-conditioned divergence even when present inputs are held constant.
+### [Verrell’s Law — Mathematical Foundations and Falsification Protocol, Canonical Specification v1.0](VERRELLS_LAW_MATHEMATICAL_FOUNDATIONS_AND_FALSIFICATION_PROTOCOL_v1.0.md)
 
-The key components are:
+Its first-order claim is:
 
-- **Present state** — what the system is now.
-- **Current input or observation** — what the system is currently receiving.
-- **Memory state** — retained structured information from prior states.
-- **Selection bias** — the influence that retained memory may exert over future outcomes.
+```math
+\Delta L=\lambda\Delta R,
+\qquad
+\lambda>0
+```
 
-This is usually framed as a memory-weighted selection model, where future outcomes are shaped by both immediate utility and historical bias.
+where:
+
+- `ΔL` is the change in candidate-relative selection log-odds;
+- `ΔR` is the preregistered, normalized retained-state compatibility difference;
+- `λ` is a regime-specific coupling interpreted only under the declared scoring convention.
+
+The document defines the null hypothesis, normalization, observables, estimators, preregistration requirements, controls, uncertainty procedure, and explicit falsification conditions.
 
 ---
 
@@ -46,145 +54,130 @@ Verrell’s Law does **not** claim that it has already been experimentally prove
 
 It does **not** claim that consciousness or sentience has been proven in any system.
 
-It does **not** deny established neuroscience, synaptic plasticity, engrams, or biological memory storage.
+It does **not** replace established neuroscience or physics.
 
-It does **not** claim that all memories are stored outside the brain.
+It does **not** require quantum collapse, a universal electromagnetic memory field, non-local personal memory, or a supernatural mechanism.
 
-It does **not** replace established physics.
+It does **not** treat Collapse Aware AI as proof that the wider hypothesis is true in nature.
 
-It does **not** require a mystical or supernatural mechanism.
-
-The current position is narrower and more defensible:
-
-> Biological memory exists.  
-> Verrell’s Law asks whether some memory, recall, or measurement processes may also involve field-coupled informational bias.
+Physical, biological, field-based and consciousness interpretations remain separate research layers requiring separate evidence.
 
 ---
 
-## 4. Memory Position
+## 4. What Makes the Claim Falsifiable
 
-Verrell’s Law accepts that the brain stores memory through physical and biological mechanisms, including synaptic plasticity, distributed neural activity, and stabilised memory traces.
+Generic context effects predict only that outputs may vary when history varies.
 
-The extended hypothesis asks whether neural, physical, or informational systems may also generate short-lived field structures or retained traces that influence later outcomes.
+Verrell’s Law predicts a narrower structure:
 
-A useful working line is:
+- the compatibility score is defined before testing;
+- its scale and sign convention are fixed;
+- retained-state-on and retained-state-off conditions are controlled;
+- the coupling is expected to be positive and stable within the declared regime;
+- residual errors should not remain correlated with the retained-state score;
+- the fitted relationship should predict held-out trials.
 
-> Automatic memory is locally stored; effortful recall is a tuning event.
+The confirmatory model is:
 
-This means ordinary memory can be understood as brain-based and local, while some forms of effortful recall, reconstruction, or high-focus retrieval may involve a broader tuning or biasing process.
+```math
+\Delta L_k=\alpha+\lambda\Delta R_k+\varepsilon_k
+```
 
-This remains a hypothesis, not an established fact.
+A valid regime should support `α ≈ 0`, `λ > 0`, stability under repetition, and out-of-sample prediction.
+
+The hypothesis is rejected or not supported in a tested regime when those conditions fail or when the preregistered falsification conditions are met.
 
 ---
 
 ## 5. Relation to Collapse Aware AI
 
-Collapse Aware AI (CAAI) is the engineering branch associated with this framework.
+Verrell’s Law and Collapse Aware AI are connected but separate.
 
-Verrell’s Law provides the conceptual and mathematical basis.
+```text
+Verrell’s Law
+= empirical retained-state selection hypothesis
 
-Collapse Aware AI applies the principle as software middleware.
+Collapse Aware AI
+= engineering implementation of governed retained-state behavioural selection
 
-In CAAI, retained memory, weighted moments, anchors, and governor logic influence behavioural selection over time. This allows a system to behave with more continuity than a stateless generator.
+Physical interpretation
+= separate research layer requiring independent evidence
+```
 
-Important distinction:
+Collapse Aware AI may demonstrate that governed retained-state selection can be engineered, measured and evaluated in software. It does not independently prove that the same mechanism occurs naturally in biological or physical systems.
 
-> Collapse Aware AI is an engineering instantiation of memory-weighted selection.  
-> It is not, by itself, proof that the full theoretical form of Verrell’s Law is true in nature.
-
-This distinction matters.
-
-CAAI may demonstrate that the logic is computationally useful, coherent, and testable, while the broader physical claims of Verrell’s Law still require independent experimental validation.
+Proprietary production scoring, thresholds, schemas and implementation mechanics are not disclosed in the public mathematical specification.
 
 ---
 
 ## 6. Evidence Status
 
-Current evidence includes:
+Current public materials include:
 
-- internal simulations
-- symbolic collapse tests
-- software demonstrations
-- formal mathematical notes
-- public timestamped authorship records
-- experimental blueprints for future testing
+- mathematical specifications;
+- formal falsification conditions;
+- experimental blueprints;
+- software demonstrations and engineering evidence;
+- public timestamped authorship records.
 
-These support plausibility and structure.
+These establish a defined and testable framework. They do not yet constitute independent scientific confirmation of Verrell’s Law as a natural law.
 
-They do not yet constitute independent scientific proof.
-
-External experimental validation remains required.
-
-Until controlled, blinded, independently repeatable experiments confirm the predicted effects, Verrell’s Law should be treated as:
-
-> a structured, testable hypothesis under active development.
+External replication and peer review remain separate milestones.
 
 ---
 
-## 7. Testability
+## 7. Suggested Reading Order
 
-Verrell’s Law is intended to be falsifiable.
+New readers should use this order:
 
-A valid test should compare systems with:
+1. [Mathematical Foundations and Falsification Protocol v1.0](VERRELLS_LAW_MATHEMATICAL_FOUNDATIONS_AND_FALSIFICATION_PROTOCOL_v1.0.md)  
+   The canonical mathematical claim, observables, estimators, controls and falsification protocol.
 
-- matched present-state conditions
-- different retained histories
-- declared memory-bias terms
-- a memory-off or λ = 0 baseline
-- fixed update rules
-- pre-declared measurement criteria
+2. [Retained-State Selection Framework](RETAINED_STATE_SELECTION_FRAMEWORK.md)  
+   The broader conceptual framework.
 
-The framework fails in a target domain if retained memory produces no measurable difference over a matched present-state model, or if the supposed memory effect can be fully absorbed into ordinary present-state utility.
+3. [Verrell’s Law Mathematical Reference v1.3](VERRELLS_LAW_MATHEMATICAL_REFERENCE_v1.3.md)  
+   Supporting notation and state-update mathematics.
 
-In other words:
+4. [A Falsifiable Estimator for Memory-Biased Selection](FALSIFIABLE_MEMORY_BIAS_ESTIMATOR.md)  
+   Supporting estimation detail.
 
-> If history does not measurably matter under controlled conditions, the claim fails in that domain.
+5. [Falsification Conditions](FALSIFICATION_CONDITIONS.md)  
+   Supporting failure and null-verdict language.
 
----
+6. [Speculative Extensions](SPECULATIVE_EXTENSIONS.md)  
+   Quarantined physical, field and consciousness extensions.
 
-## 8. Suggested Reading Order
-
-New readers should start here, then read:
-
-1. `VERRELLS_LAW_CANONICAL.md`  
-   The clean public definition and claim boundaries.
-
-2. `VERRELLS_LAW_POSITION_ON_MEMORY_STORAGE.md`  
-   Clarifies the relationship between biological memory and the field-access hypothesis.
-
-3. `Verrells_Law_Conference_Clean_Formal_Note_v2.md`  
-   The formal mathematical note, including selection law, memory dynamics, and falsifiability criteria.
-
-4. `MEMORY_TUNING_AND_DISTRIBUTED_RETRIEVAL.md`  
-   The refined memory model: local storage, reconstructive recall, and field-tuned retrieval.
-
-5. `VL-Optics-Experiment-Note_v1.1.md`  
-   Experimental design notes for testing history-conditioned bias signatures.
+7. [Archived Document Status](ARCHIVED_DOCUMENT_STATUS.md)  
+   Guidance for interpreting older material preserved in the repository.
 
 ---
 
-## 9. Public Summary
+## 8. Public Summary
 
-Verrell’s Law is a testable hypothesis proposing that retained information from prior states can bias future state selection. It treats memory as structured information that may influence probability, behaviour, or measurement outcomes over time. The framework accepts biological memory and established physics while exploring whether additional field-coupled informational effects may exist. Collapse Aware AI is the engineering application of the same principle as memory-weighted, governor-constrained behavioural middleware.
+> Verrell’s Law is a falsifiable retained-state selection hypothesis. It predicts that, within a declared and controlled regime, candidate-relative retained-state compatibility produces a positive, quantitatively structured change in selection log-odds relative to a present-state baseline. The hypothesis is rejected for a tested regime when that coupling is zero, negative under the declared sign convention, unstable, non-predictive, or attributable to uncontrolled variables.
 
 ---
 
-## 10. Attribution
-
-Credit:
+## 9. Attribution
 
 **Marcos Verrell Moss Ross (M.R.)**  
 Author and originator of Verrell’s Law  
 Maintained by **Inappropriate Media Ltd (t/a Collapse Aware AI)**
 
-For licensing, attribution, or technical enquiries, contact the rights holder through the contact details provided in the main repository README.
+For licensing, attribution, or technical enquiries, use the contact details in the main repository README.
 
 ---
 
-## 11. Rights Notice
+## 10. Rights Notice
 
 All materials in this repository are proprietary unless explicitly stated otherwise.
 
 No permission is granted to reproduce, modify, distribute, publish, sublicense, create derivative works from, or commercially exploit repository contents without prior written permission from the rights holder.
 
 © 2023–2026 Marcos Verrell Moss Ross (M.R.) / Inappropriate Media Ltd. All rights reserved.
+
+---
+
+**Version:** Canonical mathematical protocol integration  
+**Date:** 2026-07-17
