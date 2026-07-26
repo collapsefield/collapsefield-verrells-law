@@ -128,6 +128,7 @@ Supporting files:
 - [Retained-State Mechanism and Field Boundary](RETAINED_STATE_MECHANISM_AND_FIELD_BOUNDARY.md)
 - [CAAI Engineering and Verrell’s Law Research Boundary](CAAI_ENGINEERING_AND_VERRELLS_LAW_RESEARCH_BOUNDARY.md)
 - [Atomic Structure, Field Interaction and Resonance — Conceptual Research Note](research_notes/ATOMIC_STRUCTURE_FIELDS_AND_RESONANCE_CONCEPTUAL_NOTE.md) — exploratory physics note; explicitly non-canonical and not evidence for the Principal Hypothesis.
+- [Frequency-Coupled Retained-State Extension — Exploratory Mathematics v0.1](research_notes/FREQUENCY_COUPLED_RETAINED_STATE_EXPLORATORY_MATHEMATICS_v0.1.md) — early mathematical formalisation of possible frequency-sensitive coupling or persistence; non-canonical and unvalidated.
 
 ## Working Paper: Memory-Weighted Selection
 
