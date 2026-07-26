@@ -6,6 +6,8 @@
 **Authored by:** M.R. (Marcos Verrell Moss Ross), Author of Verrell’s Law  
 **Maintainer:** Inappropriate Media Limited (t/a Collapse Aware AI)  
 
+> **Priority-status note — 26 July 2026:** The title above is preserved as part of the historical public development trail. It should not be read as a completed exhaustive legal or scholarly determination that no earlier system anywhere used symbolic cues, JSON, memory, history-dependent selection, or related mechanisms. Later prior-art review confirms substantial older work on history-dependent choice, symbolic cue weighting, non-Markovian systems and memory-influenced behaviour selection. The narrower current priority position concerns the specific Verrell’s Law / CAAI synthesis and is recorded in `PRIOR_ART_AND_PRIORITY_NOTE_RETAINED_STATE_SELECTION.md`.
+
 ---
 
 ## Overview
@@ -124,6 +126,7 @@ Relevant later references include:
 - memory-weighted selection law materials
 - current middleware architecture notes
 - future public demonstrations of Collapse Aware AI
+- `PRIOR_ART_AND_PRIORITY_NOTE_RETAINED_STATE_SELECTION.md`
 
 ---
 
