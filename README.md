@@ -54,9 +54,9 @@ It supersedes earlier mathematical summaries wherever they conflict. Earlier doc
 Canonical first-order form:
 
 ```math
-\Delta L = \lambda\Delta R,
+ΔL = λΔR,
 \qquad
-\lambda>0
+λ>0
 ```
 
 Here, `ΔL` is the change in candidate-relative selection log-odds and `ΔR` is the preregistered, normalized retained-state compatibility difference. The coupling `λ` is interpreted only within a declared test regime and scoring convention.
@@ -127,6 +127,7 @@ Supporting files:
 - [WEL as Verrell’s Law Selection Bridge](WEL_AS_VERRELLS_LAW_SELECTION_BRIDGE.md)
 - [Retained-State Mechanism and Field Boundary](RETAINED_STATE_MECHANISM_AND_FIELD_BOUNDARY.md)
 - [CAAI Engineering and Verrell’s Law Research Boundary](CAAI_ENGINEERING_AND_VERRELLS_LAW_RESEARCH_BOUNDARY.md)
+- [Atomic Structure, Field Interaction and Resonance — Conceptual Research Note](research_notes/ATOMIC_STRUCTURE_FIELDS_AND_RESONANCE_CONCEPTUAL_NOTE.md) — exploratory physics note; explicitly non-canonical and not evidence for the Principal Hypothesis.
 
 ## Working Paper: Memory-Weighted Selection
 
@@ -146,7 +147,7 @@ The paper formalises middleware-level memory-weighted candidate selection under 
 For candidate outcome `y_i`, define a candidate score/logit:
 
 ```math
-z_i = U(y_i; S_t, O_t) + \lambda B(y_i; M_t)
+z_i = U(y_i; S_t, O_t) + λ B(y_i; M_t)
 ```
 
 Selection probability:
@@ -162,7 +163,7 @@ Equivalent baseline form:
 ```math
 P(y_i \mid S_t,O_t,M_t)
 =
-\frac{P_0(y_i \mid S_t,O_t)e^{\lambda W(M_t,y_i)}}{\sum_j P_0(y_j \mid S_t,O_t)e^{\lambda W(M_t,y_j)}}
+\frac{P_0(y_i \mid S_t,O_t)e^{λ W(M_t,y_i)}}{\sum_j P_0(y_j \mid S_t,O_t)e^{λ W(M_t,y_j)}}
 ```
 
 These forms are equivalent with `U(y_i;S_t,O_t) = log P_0(y_i | S_t,O_t)` up to an additive constant, and `B = W`.
@@ -178,7 +179,7 @@ Otherwise matched trials with different retained histories should show a positiv
 The confirmatory model is:
 
 ```math
-\Delta L_k = \alpha + \lambda\Delta R_k + \varepsilon_k
+ΔL_k = α + λΔR_k + ε_k
 ```
 
 A valid regime should support `α ≈ 0`, `λ > 0`, residuals uncorrelated with `ΔR`, stability across repetitions, and prediction on held-out trials.
@@ -280,5 +281,5 @@ Protected under Verrell-Solace Sovereignty Protocol. Intellectual and emergent r
 
 ---
 
-**README version:** Canonical mathematical protocol integration  
-**Date:** 2026-07-17
+**README version:** Canonical mathematical protocol integration + exploratory research-note index  
+**Date:** 2026-07-26
