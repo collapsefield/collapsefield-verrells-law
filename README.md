@@ -128,7 +128,8 @@ Supporting files:
 - [Retained-State Mechanism and Field Boundary](RETAINED_STATE_MECHANISM_AND_FIELD_BOUNDARY.md)
 - [CAAI Engineering and Verrell’s Law Research Boundary](CAAI_ENGINEERING_AND_VERRELLS_LAW_RESEARCH_BOUNDARY.md)
 - [Atomic Structure, Field Interaction and Resonance — Conceptual Research Note](research_notes/ATOMIC_STRUCTURE_FIELDS_AND_RESONANCE_CONCEPTUAL_NOTE.md) — exploratory physics note; explicitly non-canonical and not evidence for the Principal Hypothesis.
-- [Frequency-Coupled Retained-State Extension — Exploratory Mathematics v0.1](research_notes/FREQUENCY_COUPLED_RETAINED_STATE_EXPLORATORY_MATHEMATICS_v0.1.md) — early mathematical formalisation of possible frequency-sensitive coupling or persistence; non-canonical and unvalidated.
+- [Frequency-Coupled Retained-State Extension — Exploratory Mathematics v0.2](research_notes/FREQUENCY_COUPLED_RETAINED_STATE_EXPLORATORY_MATHEMATICS_v0.2.md) — current review-hardened exploratory mathematics; separates coupling from retention, corrects unknown-peak inference, adds predictive validation, artifact controls and the on/off/on discriminator.
+- [Frequency-Coupled Retained-State Extension — Exploratory Mathematics v0.1](research_notes/FREQUENCY_COUPLED_RETAINED_STATE_EXPLORATORY_MATHEMATICS_v0.1.md) — preserved development version; superseded by v0.2 for current exploratory use.
 
 ## Working Paper: Memory-Weighted Selection
 
@@ -283,4 +284,4 @@ Protected under Verrell-Solace Sovereignty Protocol. Intellectual and emergent r
 ---
 
 **README version:** Canonical mathematical protocol integration + exploratory research-note index  
-**Date:** 2026-07-26
+**Date:** 2026-07-27
