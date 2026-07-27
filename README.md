@@ -36,7 +36,13 @@ The primary public mathematical reference is:
 
 ### [Verrell’s Law — Mathematical Foundations and Falsification Protocol, Canonical Specification v1.0](VERRELLS_LAW_MATHEMATICAL_FOUNDATIONS_AND_FALSIFICATION_PROTOCOL_v1.0.md)
 
-This document defines:
+Canonical empirical-identification companion:
+
+### [Verrell’s Law — Empirical Identification Clarification v1.0](VERRELLS_LAW_EMPIRICAL_IDENTIFICATION_CLARIFICATION_v1.0.md)
+
+The clarification distinguishes an independent empirical test from an engineering conformance test using a selector’s own internal score, and from proxy-based inference where the proxy-to-`R` mapping has not been independently identified.
+
+The canonical specification defines:
 
 - the principal retained-state selection hypothesis;
 - all core variables and sign conventions;
@@ -60,6 +66,8 @@ Canonical first-order form:
 ```
 
 Here, `ΔL` is the change in candidate-relative selection log-odds and `ΔR` is the preregistered, normalized retained-state compatibility difference. The coupling `λ` is interpreted only within a declared test regime and scoring convention.
+
+For independent empirical evidence, the rule producing `ΔR` must be frozen independently of the confirmatory selection outcome. Reusing the same internal score that mechanically drives a selector is an engineering conformance test unless an independent analysis route is provided.
 
 ---
 
@@ -114,11 +122,12 @@ It does not require quantum wave-function collapse, consciousness collapse, or a
 Start here for the current retained-state framework:
 
 1. [Mathematical Foundations and Falsification Protocol v1.0](VERRELLS_LAW_MATHEMATICAL_FOUNDATIONS_AND_FALSIFICATION_PROTOCOL_v1.0.md) — canonical mathematical specification and primary citable claim.
-2. [Retained-State Selection Framework](RETAINED_STATE_SELECTION_FRAMEWORK.md) — broader framework and conceptual spine.
-3. [Verrell’s Law Mathematical Reference v1.3](VERRELLS_LAW_MATHEMATICAL_REFERENCE_v1.3.md) — supporting notation, equations, baseline condition, operational `S_t` / `M_t` boundary, and identifiability notes.
-4. [A Falsifiable Estimator for Memory-Biased Selection](FALSIFIABLE_MEMORY_BIAS_ESTIMATOR.md) — supporting estimation machinery.
-5. [Falsification Conditions](FALSIFICATION_CONDITIONS.md) — supporting failure conditions and null-verdict language.
-6. [Speculative Extensions](SPECULATIVE_EXTENSIONS.md) — quarantined field, consciousness, and physical-extension discussion.
+2. [Empirical Identification Clarification v1.0](VERRELLS_LAW_EMPIRICAL_IDENTIFICATION_CLARIFICATION_v1.0.md) — canonical clarification of what `R`/`ΔR` mean in empirical testing and how independent evidence differs from selector-internal conformance testing or proxy inference.
+3. [Retained-State Selection Framework](RETAINED_STATE_SELECTION_FRAMEWORK.md) — broader framework and conceptual spine.
+4. [Verrell’s Law Mathematical Reference v1.3](VERRELLS_LAW_MATHEMATICAL_REFERENCE_v1.3.md) — supporting notation, equations, baseline condition, operational `S_t` / `M_t` boundary, and identifiability notes.
+5. [A Falsifiable Estimator for Memory-Biased Selection](FALSIFIABLE_MEMORY_BIAS_ESTIMATOR.md) — supporting estimation machinery.
+6. [Falsification Conditions](FALSIFICATION_CONDITIONS.md) — supporting failure conditions and null-verdict language.
+7. [Speculative Extensions](SPECULATIVE_EXTENSIONS.md) — quarantined field, consciousness, and physical-extension discussion.
 
 Supporting files:
 
@@ -128,10 +137,11 @@ Supporting files:
 - [Retained-State Mechanism and Field Boundary](RETAINED_STATE_MECHANISM_AND_FIELD_BOUNDARY.md)
 - [CAAI Engineering and Verrell’s Law Research Boundary](CAAI_ENGINEERING_AND_VERRELLS_LAW_RESEARCH_BOUNDARY.md)
 - [Atomic Structure, Field Interaction and Resonance — Conceptual Research Note](research_notes/ATOMIC_STRUCTURE_FIELDS_AND_RESONANCE_CONCEPTUAL_NOTE.md) — exploratory physics note; explicitly non-canonical and not evidence for the Principal Hypothesis.
-- [Frequency-Coupled Retained-State Extension — Exploratory Mathematics v0.4 Experimental Identification Addendum](research_notes/FREQUENCY_COUPLED_RETAINED_STATE_EXPLORATORY_MATHEMATICS_v0.4_EXPERIMENTAL_IDENTIFICATION_ADDENDUM.md) — current strict experimental-control supplement; adds per-trial state reset, snapshot-scope controls, response-phase boundaries, preregistered robustness/pass rules, nested held-out search and reactive-probe controls. Explicitly non-canonical and unvalidated.
-- [Frequency-Coupled Retained-State Extension — Exploratory Mathematics v0.3 Control Addendum](research_notes/FREQUENCY_COUPLED_RETAINED_STATE_EXPLORATORY_MATHEMATICS_v0.3_CONTROL_ADDENDUM.md) — retained-state conditioning and software start-phase/clock-alignment controls; read together with v0.4 for the current experimental-control position.
+- [Frequency-Coupled Retained-State Extension — Exploratory Mathematics v0.5 Preregistration, Power and Mechanism Boundary](research_notes/FREQUENCY_COUPLED_RETAINED_STATE_EXPLORATORY_MATHEMATICS_v0.5_PREREGISTRATION_AND_MECHANISM_BOUNDARY.md) — current top-level experimental-design supplement; clarifies the regressed quantity, restores the bounded minimum-phase phase test, selects B1 for the first evidence programme, adds mechanism-prior language, power/MDE requirements, nested search rules and a timeboxed runtime-feasibility gate. Explicitly non-canonical and unvalidated.
+- [Frequency-Coupled Retained-State Extension — Exploratory Mathematics v0.4 Experimental Identification Addendum](research_notes/FREQUENCY_COUPLED_RETAINED_STATE_EXPLORATORY_MATHEMATICS_v0.4_EXPERIMENTAL_IDENTIFICATION_ADDENDUM.md) — per-trial state reset, snapshot-scope controls, response-phase boundaries, preregistered robustness/pass rules, nested held-out search and reactive-probe controls.
+- [Frequency-Coupled Retained-State Extension — Exploratory Mathematics v0.3 Control Addendum](research_notes/FREQUENCY_COUPLED_RETAINED_STATE_EXPLORATORY_MATHEMATICS_v0.3_CONTROL_ADDENDUM.md) — retained-state conditioning and software start-phase/clock-alignment controls.
 - [Frequency-Coupled Retained-State Extension — Exploratory Mathematics v0.2](research_notes/FREQUENCY_COUPLED_RETAINED_STATE_EXPLORATORY_MATHEMATICS_v0.2.md) — review-hardened exploratory base mathematics; separates coupling from retention, corrects unknown-peak inference, adds predictive validation, artifact controls and the on/off/on discriminator.
-- [Frequency-Coupled Retained-State Extension — Exploratory Mathematics v0.1](research_notes/FREQUENCY_COUPLED_RETAINED_STATE_EXPLORATORY_MATHEMATICS_v0.1.md) — preserved development version; superseded by v0.2 plus the v0.3/v0.4 control addenda for current exploratory use.
+- [Frequency-Coupled Retained-State Extension — Exploratory Mathematics v0.1](research_notes/FREQUENCY_COUPLED_RETAINED_STATE_EXPLORATORY_MATHEMATICS_v0.1.md) — preserved development version; superseded by v0.2 plus the v0.3–v0.5 control addenda for current exploratory use.
 
 ## Working Paper: Memory-Weighted Selection
 
@@ -210,7 +220,7 @@ Start here for archive interpretation:
 
 - [Archived Document Status](ARCHIVED_DOCUMENT_STATUS.md)
 
-The canonical v1.0 protocol is now the primary mathematical authority. The v1.3 mathematical reference remains a supporting document. The v1.2 mathematical reference is superseded.
+The canonical v1.0 protocol remains the primary mathematical authority, read together with the canonical empirical-identification clarification. The v1.3 mathematical reference remains a supporting document. The v1.2 mathematical reference is superseded.
 
 ---
 
@@ -285,5 +295,5 @@ Protected under Verrell-Solace Sovereignty Protocol. Intellectual and emergent r
 
 ---
 
-**README version:** Canonical mathematical protocol integration + exploratory research-note index + v0.4 experimental-identification controls  
+**README version:** Canonical mathematical protocol + empirical-identification clarification + exploratory research index through v0.5  
 **Date:** 2026-07-27
