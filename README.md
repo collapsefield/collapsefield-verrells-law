@@ -128,9 +128,10 @@ Supporting files:
 - [Retained-State Mechanism and Field Boundary](RETAINED_STATE_MECHANISM_AND_FIELD_BOUNDARY.md)
 - [CAAI Engineering and Verrell’s Law Research Boundary](CAAI_ENGINEERING_AND_VERRELLS_LAW_RESEARCH_BOUNDARY.md)
 - [Atomic Structure, Field Interaction and Resonance — Conceptual Research Note](research_notes/ATOMIC_STRUCTURE_FIELDS_AND_RESONANCE_CONCEPTUAL_NOTE.md) — exploratory physics note; explicitly non-canonical and not evidence for the Principal Hypothesis.
-- [Frequency-Coupled Retained-State Extension — Exploratory Mathematics v0.3 Control Addendum](research_notes/FREQUENCY_COUPLED_RETAINED_STATE_EXPLORATORY_MATHEMATICS_v0.3_CONTROL_ADDENDUM.md) — current control supplement; adds retained-state conditioning controls and software phase/clock-alignment checks. Explicitly non-canonical, unvalidated and not a physical-resonance claim.
-- [Frequency-Coupled Retained-State Extension — Exploratory Mathematics v0.2](research_notes/FREQUENCY_COUPLED_RETAINED_STATE_EXPLORATORY_MATHEMATICS_v0.2.md) — review-hardened exploratory base mathematics; separates coupling from retention, corrects unknown-peak inference, adds predictive validation, artifact controls and the on/off/on discriminator. Read together with the v0.3 control addendum for current exploratory experimental control.
-- [Frequency-Coupled Retained-State Extension — Exploratory Mathematics v0.1](research_notes/FREQUENCY_COUPLED_RETAINED_STATE_EXPLORATORY_MATHEMATICS_v0.1.md) — preserved development version; superseded by v0.2 plus the v0.3 control addendum for current exploratory use.
+- [Frequency-Coupled Retained-State Extension — Exploratory Mathematics v0.4 Experimental Identification Addendum](research_notes/FREQUENCY_COUPLED_RETAINED_STATE_EXPLORATORY_MATHEMATICS_v0.4_EXPERIMENTAL_IDENTIFICATION_ADDENDUM.md) — current strict experimental-control supplement; adds per-trial state reset, snapshot-scope controls, response-phase boundaries, preregistered robustness/pass rules, nested held-out search and reactive-probe controls. Explicitly non-canonical and unvalidated.
+- [Frequency-Coupled Retained-State Extension — Exploratory Mathematics v0.3 Control Addendum](research_notes/FREQUENCY_COUPLED_RETAINED_STATE_EXPLORATORY_MATHEMATICS_v0.3_CONTROL_ADDENDUM.md) — retained-state conditioning and software start-phase/clock-alignment controls; read together with v0.4 for the current experimental-control position.
+- [Frequency-Coupled Retained-State Extension — Exploratory Mathematics v0.2](research_notes/FREQUENCY_COUPLED_RETAINED_STATE_EXPLORATORY_MATHEMATICS_v0.2.md) — review-hardened exploratory base mathematics; separates coupling from retention, corrects unknown-peak inference, adds predictive validation, artifact controls and the on/off/on discriminator.
+- [Frequency-Coupled Retained-State Extension — Exploratory Mathematics v0.1](research_notes/FREQUENCY_COUPLED_RETAINED_STATE_EXPLORATORY_MATHEMATICS_v0.1.md) — preserved development version; superseded by v0.2 plus the v0.3/v0.4 control addenda for current exploratory use.
 
 ## Working Paper: Memory-Weighted Selection
 
@@ -284,5 +285,5 @@ Protected under Verrell-Solace Sovereignty Protocol. Intellectual and emergent r
 
 ---
 
-**README version:** Canonical mathematical protocol integration + exploratory research-note index + v0.3 control addendum  
+**README version:** Canonical mathematical protocol integration + exploratory research-note index + v0.4 experimental-identification controls  
 **Date:** 2026-07-27
