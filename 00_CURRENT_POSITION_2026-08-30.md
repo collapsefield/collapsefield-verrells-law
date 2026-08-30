@@ -3,7 +3,7 @@
 **Date:** 30 August 2026  
 **Status:** Current public interpretation / terminology boundary
 
-This note exists to prevent older archived language from being mistaken for the current research or commercial position.
+This note defines the current research and commercial position.
 
 ---
 
@@ -123,13 +123,22 @@ This is an engineering/evaluation method. It does not itself validate Verrell’
 
 ---
 
-## 5. WEL and AIW Status
+## 5. Weighted Emergence Layering and Active Information Weight
 
-Older material may use **Weighted Emergence Layering (WEL)** and **Active Information Weight (AIW)** as bridge concepts or research vocabulary.
+**Weighted Emergence Layering (WEL)** and **Active Information Weight (AIW)** remain live CAAI concepts and continue to inform the Evolution 2 engineering model.
 
-Those terms remain part of the historical/research record where useful, but they are **not the current top-level commercial hierarchy** and should not override the current Retained-State Selection / Governed Retained-State Selection terminology.
+They are not being abandoned or reclassified as obsolete terminology.
 
-Where older WEL/AIW wording conflicts with the current category, CAAI engineering or evidence boundary, this current note and the later canonical files take precedence.
+For public/commercial communication, they sit **inside** the CAAI architecture rather than replacing the simpler top-level buyer language of Retained-State Selection and Governed Retained-State Selection.
+
+Public-safe interpretation:
+
+- **WEL** describes the layered organisation through which retained information can become structured influence over later behaviour/selection.
+- **AIW** describes the effective influence or weight that retained information is permitted to exert in selection context.
+
+The exact scoring implementation, private weighting mechanics, thresholds, interactions and tuning remain proprietary.
+
+In Evolution 2, WEL/AIW should therefore be understood as active architectural/behavioural concepts beneath the governed retained-state selection layer—not as discarded historical labels and not as a separate claim of physical mechanism.
 
 ---
 
@@ -137,16 +146,9 @@ Where older WEL/AIW wording conflicts with the current category, CAAI engineerin
 
 Possible unknown biological or physical information mechanisms remain research hypotheses unless independently measured.
 
-The current framework does not treat the following as established merely because they have appeared in historical or exploratory material:
+The current framework does not treat universal electromagnetic memory, non-local personal memory storage, consciousness as a required selection mechanism, quantum collapse as the operating explanation of CAAI, modification of general relativity, or CAAI software behaviour as proof of new physics as established facts.
 
-- universal electromagnetic memory;
-- non-local personal memory storage;
-- consciousness as a required selection mechanism;
-- quantum collapse as the operating explanation of CAAI;
-- modification of general relativity;
-- CAAI software behaviour as proof of new physics.
-
-Historical and exploratory research files remain preserved for provenance and authorship but do not override the current canonical claim boundary.
+Ongoing exploratory work may continue, but it remains separate from current software evidence and commercial claims unless independently demonstrated.
 
 ---
 
@@ -160,12 +162,10 @@ They do not publish proprietary Crown/Core source, private scoring implementatio
 
 ## 8. Interpretation Rule
 
-When reading this repository:
+For current interpretation:
 
 1. Use the canonical mathematical specification for the current Verrell’s Law claim.
 2. Use the empirical-identification clarification for what counts as independent evidence.
-3. Use the retained-state category note and benchmark for the broader technical process/testing language.
+3. Use the retained-state category note and benchmark for broader technical process/testing language.
 4. Use the CAAI Public Proof Pack for current engineering/commercial status.
-5. Treat older speculative documents as provenance unless explicitly reaffirmed by a later canonical/current source.
-
-This preserves the authorship trail without allowing historical wording to silently become a present claim.
+5. Treat WEL and AIW as active CAAI/Evolution 2 concepts within the current governed-selection architecture.
