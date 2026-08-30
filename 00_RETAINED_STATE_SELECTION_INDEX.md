@@ -76,7 +76,29 @@ The benchmark is non-canonical and open to refinement.
 
 ---
 
-## 5. Measurement limits / future detector discipline
+## 5. Cross-domain worked examples
+
+[Retained-State Selection — Cross-Domain Worked Examples v0.1](RETAINED_STATE_SELECTION_CROSS_DOMAIN_WORKED_EXAMPLES_v0.1.md)
+
+Shows how the same abstract test question can be instantiated in:
+
+- AI agents;
+- robotics;
+- runtime governance;
+- regulated customer operations;
+- adaptive training and simulation;
+- game/NPC behaviour;
+- judicial precedent and institutional path dependence;
+- cognition and human behaviour;
+- biological systems;
+- materials / hysteresis;
+- unknown physical or biosignal mechanisms only under a strict evidence boundary.
+
+The examples are analytical bridges, not claims that every domain shares one physical mechanism.
+
+---
+
+## 6. Measurement limits / future detector discipline
 
 [Measurement Limits and the Detection Horizon — Research Note](research_notes/MEASUREMENT_LIMITS_AND_DETECTION_HORIZON_2026-08-30.md)
 
