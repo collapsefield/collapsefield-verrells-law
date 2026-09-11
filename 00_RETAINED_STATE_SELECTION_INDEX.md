@@ -1,8 +1,8 @@
 # Retained-State Selection — Research Index
 
-**Verrell’s Law public research index**  
-**Updated:** 30 August 2026  
-**Author:** Marcos Verrell Moss Ross (M.R.) / Inappropriate Media Limited
+**Public research index**  
+**Updated:** 11 September 2026  
+**Author / originator:** Marcos Verrell Moss Ross (M.R.)
 
 ---
 
@@ -10,43 +10,41 @@
 
 > **Retained-State Selection is the controlled study or process by which information preserved from prior states is permitted to influence selection among presently available candidate outcomes.**
 
-The general concept of retained state is not claimed as original.
+The general ideas of retained state, memory, path dependence, hysteresis, stateful computation and candidate scoring are not claimed as original.
 
-The narrower Verrell’s Law research question is whether a declared retained-state difference predicts a structured, directional and intervention-sensitive change in later candidate-relative selection under controlled present conditions.
+The narrower research question is whether a declared retained-state difference predicts a structured, directional and intervention-sensitive change in later selection under controlled present conditions.
 
 ---
 
 # Start Here
 
-## 1. Category / terminology
+## 1. Public orientation
+
+[Public Reader Start Here](PUBLIC_READER_START_HERE.md)
+
+A concise statement of the current claim, evidence boundary and recommended reading order.
+
+---
+
+## 2. Category / terminology
 
 [Retained-State Selection — Category and Terminology Note v1.0](RETAINED_STATE_SELECTION_CATEGORY_NOTE_v1.0.md)
 
-Defines:
-
-- retained state;
-- retained-state selection;
-- Verrell’s Law;
-- governed retained-state selection;
-- Collapse Aware AI;
-- originality / prior-art boundary;
-- independent convergence around adjacent research.
+Defines retained state, retained-state selection, the broader research framework, governed retained-state selection and the originality / prior-art boundary.
 
 ---
 
-## 2. Canonical mathematical claim
+## 3. Canonical retained-state mathematical claim
 
-[Verrell’s Law — Mathematical Foundations and Falsification Protocol v1.0](VERRELLS_LAW_MATHEMATICAL_FOUNDATIONS_AND_FALSIFICATION_PROTOCOL_v1.0.md)
+[Mathematical Foundations and Falsification Protocol v1.0](VERRELLS_LAW_MATHEMATICAL_FOUNDATIONS_AND_FALSIFICATION_PROTOCOL_v1.0.md)
 
-This remains the primary canonical mathematical specification.
+This remains the primary canonical mathematical specification for the general retained-state selection claim.
 
----
+Read together with:
 
-## 3. Empirical-identification boundary
+[Empirical Identification Clarification v1.0](VERRELLS_LAW_EMPIRICAL_IDENTIFICATION_CLARIFICATION_v1.0.md)
 
-[Verrell’s Law — Empirical Identification Clarification v1.0](VERRELLS_LAW_EMPIRICAL_IDENTIFICATION_CLARIFICATION_v1.0.md)
-
-Separates:
+which separates:
 
 - independent empirical scoring;
 - selector-internal engineering conformance;
@@ -54,7 +52,23 @@ Separates:
 
 ---
 
-## 4. Public benchmark proposal
+## 4. September 2026 physics-facing technical edition
+
+[Verrell’s Law — A Framework for Non-Markovian Information Paths](VERRELLS_LAW_NON_MARKOVIAN_INFORMATION_PATHS_TECHNICAL_EDITION_2026-09.md)
+
+This is a separate physics-facing formulation using information thermodynamics and non-Markovian open-system dynamics.
+
+Its status is explicit:
+
+> **Proposed theoretical model. Not established physics and not experimentally confirmed.**
+
+Its distinctive question is whether a predeclared physical weighting variable identifies an additional, reproducible, intervention-sensitive history-dependent contribution beyond the best conventional open-system memory model.
+
+Established non-Markovianity, hysteresis and information-erasure thermodynamics are scientific baselines, not automatic evidence for the proposed extension.
+
+---
+
+## 5. Public benchmark proposal
 
 [Retained-State Selection Benchmark v0.1](RETAINED_STATE_SELECTION_BENCHMARK_v0.1.md)
 
@@ -76,130 +90,96 @@ The benchmark is non-canonical and open to refinement.
 
 ---
 
-## 5. Cross-domain worked examples
+## 6. Cross-domain worked examples
 
 [Retained-State Selection — Cross-Domain Worked Examples v0.1](RETAINED_STATE_SELECTION_CROSS_DOMAIN_WORKED_EXAMPLES_v0.1.md)
 
-Shows how the same abstract test question can be instantiated in:
+Shows how the abstract test question can be instantiated across engineered systems, cognition, biology, institutions, materials and explicitly bounded physical hypotheses.
 
-- AI agents;
-- robotics;
-- runtime governance;
-- regulated customer operations;
-- adaptive training and simulation;
-- game/NPC behaviour;
-- judicial precedent and institutional path dependence;
-- cognition and human behaviour;
-- biological systems;
-- materials / hysteresis;
-- unknown physical or biosignal mechanisms only under a strict evidence boundary.
-
-The examples are analytical bridges, not claims that every domain shares one physical mechanism.
+Cross-domain similarity does not imply one shared mechanism.
 
 ---
 
-## 6. Measurement limits / future detector discipline
+## 7. Measurement limits / detector discipline
 
 [Measurement Limits and the Detection Horizon — Research Note](research_notes/MEASUREMENT_LIMITS_AND_DETECTION_HORIZON_2026-08-30.md)
 
-Clarifies that insufficient measurement sensitivity is a legitimate experimental constraint but **not** evidence that an undetected mechanism exists and not protection against null results.
+Insufficient measurement sensitivity is a legitimate experimental constraint but **not** evidence that an undetected mechanism exists and not protection against a null result.
 
 ---
 
 # Minimal Mathematical Spine
 
-Current canonical first-order relationship:
+A current canonical first-order relationship is:
 
 ```math
-ΔL = λΔR + ε
+\Delta L = \lambda\Delta R + \varepsilon
 ```
 
-with the stronger confirmatory form allowing an intercept term and requiring the scoring/normalisation/test regime to be frozen appropriately before confirmatory analysis.
+with confirmatory analysis requiring the scoring, normalisation, baseline and test regime to be frozen appropriately before outcomes are inspected.
 
-The mathematics is deliberately built from standard statistical/selection machinery.
+The mathematics is deliberately built from standard statistical and selection machinery.
 
-The research contribution is the explicit candidate-relative retained-state variable, identification boundary and falsification route — not invention of softmax, logits, memory, Markov state, hysteresis or other established mathematics.
+The research contribution is the explicit retained-state variable, identification boundary and falsification route — not invention of softmax, logits, memory, Markov state, hysteresis or other established mathematics.
 
 ---
 
 # Evidence Ladder
 
-## Conceptual / mathematical
+## General retained-state research
 
-A coherent formal model or worked example.
+1. Conceptual / mathematical coherence
+2. Engineering conformance where deliberately implemented
+3. Independent empirical support
+4. Intervention / causal support
+5. Cross-domain generalisation
 
-## Engineering conformance
+No lower stage should be represented as automatically establishing a higher one.
 
-A deliberately built retained-state selector behaves as designed.
+## Physics-facing September 2026 ladder
 
-## Independent empirical support
+1. Formal identifiability
+2. Controlled history divergence
+3. Intervention and ablation
+4. Metrological and thermal convergence
+5. Independent replication
 
-A separately frozen retained-state measure predicts later selection beyond the matched present baseline.
-
-## Intervention / causal support
-
-Manipulating retained history changes selection as preregistered.
-
-## Cross-domain generalisation
-
-Independent replication across materially different systems with separately defensible measurements.
-
-No lower stage should be presented as if it automatically establishes a higher one.
+Possible verdicts should remain disciplined: **not supported**, **compatible**, **provisional support**, or **independent support** according to the evidence achieved.
 
 ---
 
-# Relationship to Collapse Aware AI
+# Engineering Boundary
 
-Collapse Aware AI (CAAI) is the separate proprietary engineering track.
+Engineered retained-state selection systems can demonstrate that such behaviour can be deliberately implemented, governed and evaluated in software.
 
-CAAI demonstrates that governed retained-state selection can be deliberately implemented and evaluated in software.
+That is useful engineering evidence about the engineered system.
 
-That is useful engineering evidence.
-
-It does not, by construction, prove that an equivalent retained-state effect exists independently in biology, cognition, institutions or physics.
-
-Current CAAI engineering/evaluation source:
-
-https://github.com/collapsefield/collapse-aware-ai-public-proof-pack
-
-Current commercial/evaluation index:
-
-https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/00_RETAINED_STATE_SELECTION_COMMERCIAL_INDEX.md
-
----
-
-# Independent Convergence
-
-Several recent systems independently address neighbouring pieces of the same problem: history-aware candidate verification, path-dependent runtime governance, external action authority, bounded action vocabularies and selective long-horizon memory.
-
-Current comparison note:
-
-https://github.com/collapsefield/memory-weighted-selection/blob/main/research_notes/INDEPENDENT_CONVERGENCE_MAP_2026-08-30.md
-
-These are treated as **convergence around the problem space**, not as validation of Verrell’s Law or proof of global CAAI uniqueness.
+It does not, by construction, establish that an equivalent retained-state mechanism exists independently in biology, cognition or physics.
 
 ---
 
 # Scope Boundary
 
-The current Verrell’s Law framework does not require established:
+The current framework does not require established:
 
-- electromagnetic memory;
+- universal electromagnetic memory;
 - external storage of personal memory;
 - observer-controlled physical collapse;
 - consciousness as a universal selection mechanism;
 - modification of general relativity;
-- quantum implementation of CAAI;
+- one physical carrier shared across all domains;
 - software behaviour as proof of a law of nature.
 
-Those ideas may exist in historical or explicitly speculative material, but they do not override the current canonical specification.
+Historical or explicitly speculative material remains preserved for provenance but does not override the current claim boundaries.
 
 ---
 
-# Website
+# Archive Guidance
 
-https://www.verrellslaw.org/
+Older documents remain available as part of the public development record.
+
+Use [Archived Document Status](ARCHIVED_DOCUMENT_STATUS.md) before treating historical wording as current.
 
 ---
 
-**Index status:** current public research map as of 30 August 2026.
+**Index status:** current public research map as of 11 September 2026.
