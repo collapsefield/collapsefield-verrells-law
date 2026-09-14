@@ -2,7 +2,7 @@
 
 **Status:** Exploratory methodology note; non-canonical  
 **Date:** 30 August 2026  
-**Author:** Marcos Verrell Moss Ross (M.R.) / Inappropriate Media Limited
+**Author / originator:** Marcos Verrell Moss Ross (M.R.)
 
 ---
 
@@ -159,11 +159,11 @@ This ordering protects the research programme from becoming mechanism-first spec
 
 ---
 
-## Relevance to CAAI
+## Relevance to Collapse Aware AI™
 
-Collapse Aware AI does not require any unknown physical detector.
+Collapse Aware AI™ does not require any unknown physical detector.
 
-CAAI is deliberately engineered so retained-state influence, ablation/reference conditions, selection outcomes and evidence can be inspected directly in software.
+CAAI is deliberately engineered so retained-state influence, reference/ablation conditions, selection outcomes and evidence can be inspected directly in software.
 
 That makes it an engineering test environment for retained-state selection, not evidence of an unknown biological or physical signal.
 
@@ -184,4 +184,7 @@ That makes it an engineering test environment for retained-state selection, not 
 
 ---
 
-**Status:** exploratory methodology note; not evidence for an unknown physical, biological or electromagnetic mechanism.
+**Status:** exploratory methodology note; not evidence for an unknown physical, biological or electromagnetic mechanism.  
+**Research attribution refresh:** 14 September 2026
+
+Copyright © 2026 Marcos Verrell Moss Ross (M.R.).
