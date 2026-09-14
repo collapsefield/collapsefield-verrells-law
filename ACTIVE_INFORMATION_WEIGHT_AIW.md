@@ -1,362 +1,129 @@
 # Active Information Weight (AIW)
 
 **Subtitle:** A Measurement Principle for Retained-Information Influence in Future Selection  
-**Author:** Marcos Verrell Moss Ross (M.R.)  
-**Organisation:** Inappropriate Media Limited / Collapse Aware AI  
-**Status:** Public theory-side provenance note  
-**First published publicly:** 2026-05-13  
-**Version:** AIW-v1.0
+**Author / originator:** Marcos Verrell Moss Ross (M.R.)  
+**Status:** Public research / terminology note  
+**First published publicly:** 13 May 2026  
+**Updated:** 14 September 2026
 
 ---
 
-## 1. Purpose
+## Definition
 
-**Active Information Weight (AIW)** is the Verrell's Law measurement principle for describing how retained prior information can measurably influence future selection probability.
+**Active Information Weight (AIW)** is a project term for the effective measurable influence that retained prior information exerts on later selection within a declared test context.
 
-AIW gives a name to the measurable effect of retained informational history when it changes the probability of future outcomes compared with a matched memoryless or differently weighted baseline.
+Short form:
 
-Canonical short definition:
+> **Stored information is not automatically active. It becomes active, in this sense, when it measurably changes later selection.**
 
-> Active Information Weight is the measurable influence of retained prior information on future selection probability.
+AIW is not presented as a new fundamental physical quantity and does not replace established probability, statistics, learning or control theory.
 
 ---
 
-## 2. Core Claim
-
-Given two systems with the same present input and the same present candidate set, different retained histories may produce different future selection probabilities.
-
-In compact form:
+## Core test pattern
 
 ```text
-same present input
+same present condition
 + same candidate set
-+ different retained information
-= different future selection probabilities
++ different retained history
+→ test for measurable selection difference
 ```
 
-AIW is the measurable weighting term that captures that difference.
+A second comparison disables or removes the retained-state contribution to establish a reference condition.
+
+The current framework therefore treats AIW as a measurement-facing description of retained-state influence, not as proof that a particular storage mechanism or physical carrier exists.
 
 ---
 
-## 3. Relationship to Verrell's Law
+## Mathematical context
 
-Verrell's Law proposes that retained information from prior states can bias future state selection.
+An illustrative candidate-selection form is:
 
-AIW is the measurement-facing expression of that principle.
+```math
+P(y_i \mid S_t,O_t,M_t)
+=\frac{\exp(U(y_i;S_t,O_t)+\lambda B(y_i;M_t))}
+{\sum_j \exp(U(y_j;S_t,O_t)+\lambda B(y_j;M_t))}
+```
+
+where:
+
+- `U` represents the present-state / baseline contribution;
+- `B` represents a retained-state compatibility or bias term;
+- `λ` represents coupling under a declared scoring convention.
+
+The later canonical retained-state specification focuses on candidate-relative log-odds and independently frozen retained-state measures. The value of `λ` has no scale-independent meaning unless the retained-state score scale is fixed.
+
+---
+
+## Baseline and divergence
+
+A simple descriptive comparison can be written as:
+
+```math
+AIW(y_i)=P_M(y_i)-P_0(y_i)
+```
+
+where `P_M` is a retained-history condition and `P_0` is a declared reference condition.
+
+For two histories:
+
+```math
+\Delta P(y_i)=P_A(y_i)-P_B(y_i)
+```
+
+These quantities are useful descriptions of observed selection change. They do not by themselves identify causality. Stronger evidence requires controlled history preparation, held-out prediction and intervention / ablation.
+
+---
+
+## Relationship to current terminology
 
 ```text
-Verrell's Law = retained information can bias future selection
-AIW = measurable influence of that retained information
-WEL = layered mechanism carrying that influence forward
-Collapse Aware AI = middleware implementation branch using governed memory-weighted selection
+Retained-State Selection
+= technical process / test category
+
+AIW
+= project term for effective retained-information influence
+
+WEL
+= project term for layered organisation of retained influence
+
+Collapse Aware AI™
+= separate engineering programme for governed retained-state selection
 ```
 
-AIW therefore sits between theory and measurement.
-
-It does not replace probability theory. It identifies a specific kind of probabilistic influence: retained-information weighting across time.
+Engineering behaviour does not establish a universal physical law.
 
 ---
 
-## 4. Generalized Selection Form
+## Evidence boundary
 
-The generalized selection form is:
+AIW does **not** establish that:
 
-$$
-P(y_i \mid S_t, O_t, M_t) = \frac{\exp(U(y_i; S_t, O_t) + \lambda B(y_i; M_t))}{\sum_j \exp(U(y_j; S_t, O_t) + \lambda B(y_j; M_t))}
-$$
+- Verrell's Law is confirmed as a natural law;
+- consciousness causes physical collapse;
+- AI systems are conscious;
+- retained information uses a universal electromagnetic carrier;
+- a private software score is automatically an independent empirical variable.
 
-Where:
-
-- `y_i` = candidate future output, behaviour, state, or selection possibility
-- `S_t` = current system/runtime state
-- `O_t` = current observation or input
-- `M_t` = retained informational history or memory state
-- `U(y_i; S_t, O_t)` = present-state utility or base preference
-- `B(y_i; M_t)` = retained-information bias term
-- `λ` = coupling strength controlling the influence of retained information
-
-AIW is expressed through the measurable contribution of the retained-information bias term to the final selection probability.
+For independent empirical evidence, the retained-state variable and analysis route must be identified independently of the confirmatory outcome or otherwise preregistered in a way that prevents circular confirmation.
 
 ---
 
-## 5. Memoryless Baseline
+## Current references
 
-AIW requires comparison against a baseline.
+For the current mathematical and empirical-identification rules, use:
 
-The simplest baseline is a memoryless or zero-coupling condition:
-
-$$
-\lambda = 0
-$$
-
-In that case:
-
-$$
-P_0(y_i \mid S_t, O_t) = \frac{\exp(U(y_i; S_t, O_t))}{\sum_j \exp(U(y_j; S_t, O_t))}
-$$
-
-This represents selection based on present-state utility alone.
-
-When retained information is active:
-
-$$
-\lambda > 0
-$$
-
-selection becomes:
-
-$$
-P_M(y_i \mid S_t, O_t, M_t) = \frac{\exp(U(y_i; S_t, O_t) + \lambda B(y_i; M_t))}{\sum_j \exp(U(y_j; S_t, O_t) + \lambda B(y_j; M_t))}
-$$
+- [Mathematical Foundations and Falsification Protocol v1.0](VERRELLS_LAW_MATHEMATICAL_FOUNDATIONS_AND_FALSIFICATION_PROTOCOL_v1.0.md)
+- [Empirical Identification Clarification v1.0](VERRELLS_LAW_EMPIRICAL_IDENTIFICATION_CLARIFICATION_v1.0.md)
+- [Retained-State Selection Framework](RETAINED_STATE_SELECTION_FRAMEWORK.md)
 
 ---
 
-## 6. AIW as Measurable Probability Shift
+## Attribution
 
-A simple observable AIW effect can be written as:
+Active Information Weight (AIW) is retained as terminology within the Verrell's Law research and associated engineering lineage.
 
-$$
-AIW(y_i) = P_M(y_i \mid S_t, O_t, M_t) - P_0(y_i \mid S_t, O_t)
-$$
+**Marcos Verrell Moss Ross (M.R.)**  
+Author / originator
 
-Where:
-
-- `P_M` = memory-weighted selection probability
-- `P_0` = memoryless baseline probability
-- `AIW(y_i)` = measured probability shift attributable to retained-information weighting
-
-Positive AIW means retained information increased the probability of candidate `y_i`.
-
-Negative AIW means retained information reduced the probability of candidate `y_i`.
-
-Near-zero AIW means retained information had little or no measurable effect under the tested condition.
-
----
-
-## 7. Comparative AIW Between Two Histories
-
-AIW can also compare two systems with identical present conditions but different retained histories:
-
-$$
-\Delta P(y_i) = P_A(y_i \mid S_t, O_t, M_t^A) - P_B(y_i \mid S_t, O_t, M_t^B)
-$$
-
-Where:
-
-- `M_t^A` = retained history of system A
-- `M_t^B` = retained history of system B
-- `ΔP(y_i)` = divergence in selection probability caused by different retained histories
-
-This is the operational test of path-dependent divergence.
-
-If the present state and input are held constant while the retained history differs, any stable probability divergence becomes candidate evidence for retained-information weighting.
-
----
-
-## Core AIW Metrics
-
-**Absolute AIW Shift (vs. Memoryless Baseline):**
-
-$$
-AIW(y_i) = P_M - P_0
-$$
-
-**Path-Dependent Divergence (History A vs. History B):**
-
-$$
-\Delta P(y_i) = P_A - P_B
-$$
-
-These two measurements separate baseline influence testing from comparative history-divergence testing.
-
----
-
-## 8. Relationship to Weighted Emergence Layering
-
-AIW and WEL are connected but not identical.
-
-```text
-AIW = what is measured
-WEL = how retained influence is layered and carried forward
-```
-
-WEL may organise retained information into layers such as:
-
-- recency
-- salience
-- anchors
-- recurrence traces
-- continuity pressure
-- governed persistence
-
-AIW measures whether those retained layers produce a detectable shift in future selection probability.
-
----
-
-## 9. Relationship to Bias
-
-In this framework, bias means directional weighting.
-
-Bias is not automatically an error.
-
-A retained-information bias can be useful when it improves continuity, stability, recognition, or prediction. It can be harmful when it creates distortion, overfitting, hallucination, false confirmation, or unjustified preference.
-
-AIW is therefore neutral as a measurement principle.
-
-It asks:
-
-```text
-How much did retained information shift the selection probability?
-```
-
-It does not automatically say the shift was good, bad, true, false, safe, or unsafe.
-
-Those judgements require separate evaluation and governance.
-
----
-
-## 10. Worked Minimal Example
-
-Assume one candidate `y_i` has present-state utility:
-
-$$
-U(y_i) = 0.7
-$$
-
-Memory coupling:
-
-$$
-\lambda = 0.8
-$$
-
-Two systems have different retained-information bias values:
-
-$$
-B_A(y_i; M_t^A) = 0.5
-$$
-
-$$
-B_B(y_i; M_t^B) = 0.1
-$$
-
-The memory-weighted scores become:
-
-$$
-Score_A = 0.7 + (0.8 \times 0.5) = 1.1
-$$
-
-$$
-Score_B = 0.7 + (0.8 \times 0.1) = 0.78
-$$
-
-Even with the same present utility, the retained histories create different future selection pressure.
-
-The difference is not caused by the present input. It is caused by different retained informational weighting.
-
----
-
-## 11. Prior-Art Boundary
-
-AIW does not claim to invent:
-
-- probability theory
-- softmax functions
-- Bayesian updating
-- reinforcement learning
-- Markov processes
-- attention mechanisms
-- memory systems
-- utility scoring
-
-Those existed before this framework.
-
-The narrower claim is:
-
-> Active Information Weight names and formalises the measurable influence of retained informational history on future selection probability within the Verrell's Law framework.
-
-AIW is a retained-information influence principle, not a replacement for existing mathematical or computational tools.
-
----
-
-## 12. Public Claim Boundary
-
-This note does not claim that:
-
-- Verrell's Law is established physical law
-- consciousness has been proven to collapse physical states
-- AI sentience has been created
-- the quantum measurement problem has been experimentally solved
-- retained information can steer arbitrary outcomes at will
-- Collapse Aware AI Crown internals are disclosed
-- private production scoring, thresholds, schemas, or implementation details are public
-
-The correct public framing is:
-
-> AIW is a measurable retained-information weighting principle within Verrell's Law, used to describe how prior informational history can alter future selection probability under controlled comparison.
-
----
-
-## 13. Testing and Measurement Direction
-
-AIW can be tested by comparing matched systems or matched runs where present inputs are held constant and retained histories differ.
-
-A minimal valid AIW test requires at least two matched runs: one with retained history active and one with `λ = 0`, with all other inputs held constant.
-
-Candidate measurements include:
-
-- probability shift against memoryless baseline
-- divergence between differently weighted histories
-- decay of retained-information influence over time
-- reactivation after repeated exposure
-- salience-weighted probability change
-- continuity signature prediction above baseline
-
-The key requirement is controlled comparison.
-
-Without a baseline, AIW becomes vague. With a baseline, AIW becomes measurable.
-
----
-
-## 14. Relationship to Collapse Aware AI
-
-Collapse Aware AI provides an applied software testbed for memory-weighted selection.
-
-In public-safe terms:
-
-```text
-prior interaction history
-→ retained memory weight
-→ altered candidate scoring
-→ governed selection
-→ measurable behavioural divergence
-```
-
-AIW describes the measurable influence of retained history.
-
-WEL describes the layered architecture carrying that influence.
-
-The private Crown kernel, production weighting rules, thresholds, schemas, and implementation mechanics remain proprietary and are not disclosed by this note.
-
----
-
-## 15. Provenance Statement
-
-This document records Active Information Weight (AIW) as a core measurement principle of Verrell's Law, developed by Marcos Verrell Moss Ross (M.R.) through the Verrell's Law / Collapse Aware AI project lineage and Inappropriate Media Limited.
-
-First published publicly as a standalone provenance note: 2026-05-13.
-
-AIW was previously referenced in public Verrell's Law and Collapse Aware AI materials before this standalone note. This file consolidates the definition, notation, measurement role, and claim boundary into one canonical public reference.
-
----
-
-## 16. Copyright and Use
-
-Copyright © 2026 Marcos Verrell Moss Ross / Inappropriate Media Limited.
-All rights reserved unless otherwise stated in the repository license.
-
-This public note is provided for technical provenance, research discussion, and theory/middleware boundary clarification. It does not grant permission to reproduce, commercialise, rebrand, or incorporate the AIW framework into third-party systems without written permission.
-
----
-
-**Update:** PROV-001 marker removed from public-facing version label.  
-**Date:** 2026-07-04
+Copyright © 2026 Marcos Verrell Moss Ross (M.R.).
