@@ -1,34 +1,15 @@
-# Verrell's Law Mathematical Reference v1.2 — Deprecated
+# Verrell's Law Mathematical Reference v1.2 — Historical Reference
 
-**Status:** Superseded archive stub  
-**Superseded by:** `VERRELLS_LAW_MATHEMATICAL_REFERENCE_v1.3.md`  
-**Date superseded:** 2026-07-04
+**Status:** Superseded by [v1.3](VERRELLS_LAW_MATHEMATICAL_REFERENCE_v1.3.md) and the canonical mathematical specification.  
+**Author / originator:** Marcos Verrell Moss Ross (M.R.)  
+**Archive refresh:** 14 September 2026
 
----
+This file name is preserved for chronology and inbound links. The original v1.2 text remains available in Git history.
 
-This file is no longer the current mathematical reference for Verrell's Law.
+For current interpretation use:
 
-The current public mathematical framework is:
+- [Mathematical Foundations and Falsification Protocol v1.0](VERRELLS_LAW_MATHEMATICAL_FOUNDATIONS_AND_FALSIFICATION_PROTOCOL_v1.0.md)
+- [Empirical Identification Clarification v1.0](VERRELLS_LAW_EMPIRICAL_IDENTIFICATION_CLARIFICATION_v1.0.md)
+- [Mathematical Reference v1.3](VERRELLS_LAW_MATHEMATICAL_REFERENCE_v1.3.md)
 
-- `RETAINED_STATE_SELECTION_FRAMEWORK.md`
-- `VERRELLS_LAW_MATHEMATICAL_REFERENCE_v1.3.md`
-- `FALSIFIABLE_MEMORY_BIAS_ESTIMATOR.md`
-- `FALSIFICATION_CONDITIONS.md`
-- `SPECULATIVE_EXTENSIONS.md`
-
-Version v1.2 is retained only as a historical pointer for repository continuity. It should not be cited as the current canonical mathematical framing.
-
-The current position is:
-
-> Verrell's Law is a falsifiable retained-state selection framework. Its mathematics deliberately uses standard state-update and selection formalisms. The framework's claim is the measurability and governability of retained-state influence, not the novelty of the selection equation.
-
-For the active reference, use:
-
-> `VERRELLS_LAW_MATHEMATICAL_REFERENCE_v1.3.md`
-
----
-
-**Version:** v1.2 deprecation stub  
-**Date:** 2026-07-04  
-**Author:** Marcos Verrell Moss Ross (M.R.) / Inappropriate Media Limited  
-**Repository target:** `collapsefield/collapsefield-verrells-law`
+Copyright © 2026 Marcos Verrell Moss Ross (M.R.).
