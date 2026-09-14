@@ -2,10 +2,10 @@
 ## Mathematical Foundations and Falsification Protocol
 ### Canonical Specification v1.0
 
-**Author:** Marcos Verrell Moss Ross (M.R.)  
-**Maintainer:** Inappropriate Media Limited (t/a Collapse Aware AI)  
+**Author / originator:** Marcos Verrell Moss Ross (M.R.)  
 **Status:** Canonical public mathematical specification  
-**Date:** 2026-07-17
+**Date:** 2026-07-17  
+**Research attribution refresh:** 2026-09-14
 
 ---
 
@@ -410,9 +410,9 @@ Each of those would require additional hypotheses, controls and independent evid
 
 ---
 
-## 15. Relationship to Collapse Aware AI
+## 15. Relationship to Collapse Aware AI™
 
-Collapse Aware AI is an engineering track inspired by retained-state selection principles.
+Collapse Aware AI™ is a separate engineering programme inspired by retained-state selection principles.
 
 It can demonstrate that governed retained-state influence can be implemented, measured and evaluated in software. It does not independently prove that the same mechanism occurs naturally in biological or physical systems.
 
@@ -422,8 +422,8 @@ The separation is:
 Verrell's Law
 = empirical retained-state selection hypothesis
 
-Collapse Aware AI
-= engineering implementation of governed retained-state behavioural selection
+Collapse Aware AI™
+= engineering implementation of governed retained-state selection
 
 Physical interpretation
 = separate research layer requiring independent evidence
@@ -478,8 +478,8 @@ The purpose of this specification is not to establish Verrell's Law as true. It 
 
 ## Citation
 
-**Ross, M. V. M. (2026). _Verrell's Law: Mathematical Foundations and Falsification Protocol — Canonical Specification v1.0_. Inappropriate Media Limited.**
+**Ross, M. V. M. (2026). _Verrell's Law: Mathematical Foundations and Falsification Protocol — Canonical Specification v1.0_.**
 
 ---
 
-Copyright © 2026 Marcos Verrell Moss Ross (M.R.) / Inappropriate Media Limited. All rights reserved.
+Copyright © 2026 Marcos Verrell Moss Ross (M.R.).
