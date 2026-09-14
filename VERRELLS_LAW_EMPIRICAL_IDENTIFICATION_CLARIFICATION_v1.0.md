@@ -3,8 +3,8 @@
 
 **Status:** Canonical clarification supplement to the Mathematical Foundations and Falsification Protocol v1.0  
 **Date:** 27 July 2026  
-**Author:** M.R. (Marcos Verrell Moss Ross), Author of Verrell’s Law  
-**Maintainer:** Inappropriate Media Limited (t/a Collapse Aware AI)
+**Author / originator:** Marcos Verrell Moss Ross (M.R.)  
+**Research attribution refresh:** 14 September 2026
 
 > **Purpose:** Resolve what quantity is actually regressed in empirical tests of `ΔL = λΔR`, and distinguish an independent empirical test from an engineering conformance test of a selector that already uses the same retained-state score internally.
 
@@ -106,15 +106,15 @@ It can test:
 - implementation correctness;
 - calibration;
 - routing/instrumentation consistency;
-- whether the observed runtime output conforms to the declared selector equation.
+- whether observed runtime output conforms to the declared selector equation.
 
 It is **not, by itself, independent empirical evidence that an externally occurring system obeys Verrell’s Law**, because the tested software was constructed to apply the same score to selection.
 
-For Collapse Aware AI, such a test is properly described as an **engineering conformance / implementation validation** unless `R` is supplied by an independent frozen analysis route or the test system is not mechanically forced to obey the equation being evaluated.
+For Collapse Aware AI™, such a test is properly described as an **engineering conformance / implementation validation** unless `R` is supplied by an independent frozen analysis route or the test system is not mechanically forced to obey the equation being evaluated.
 
 ### Route C — Independently measured proxy for retained state
 
-Sometimes the experiment cannot observe canonical `R` directly and instead measures a proxy `X` for retained state.
+Sometimes an experiment cannot observe canonical `R` directly and instead measures a proxy `X` for retained state.
 
 If:
 
@@ -178,13 +178,9 @@ A regime-level claim should therefore test multiple preregistered retained-state
 
 Heterogeneity across snapshots should be reported rather than silently pooled.
 
-This is a scope/generalisation requirement; it does not redefine canonical `λ` as a derivative of the memory-bias function.
-
 ---
 
 ## 6. Minimum Evidence Labels
-
-Public or internal evidence should use one of these labels:
 
 ### Independent empirical test
 
@@ -200,13 +196,13 @@ Use when an independently measured proxy stands in for `R`; report the proxy map
 
 ---
 
-## 7. Relationship to Collapse Aware AI
+## 7. Relationship to Collapse Aware AI™
 
-Collapse Aware AI can provide strong engineering evidence that retained-state influence is implemented, governed, inspectable, replayable and behaviorally consequential.
+Collapse Aware AI™ can provide engineering evidence that retained-state influence is implemented, governed, inspectable, replayable and behaviorally consequential.
 
-That is commercially and scientifically useful evidence about the software.
+That evidence concerns the software.
 
-It should not be presented as independent proof that Verrell’s Law holds generally merely because CAAI was designed around retained-state weighting.
+It should not be presented as independent proof that Verrell’s Law holds generally merely because the software was designed around retained-state weighting.
 
 A stronger Verrell’s Law test requires an independent frozen `R` construction or a system whose observed selection relation is not mechanically guaranteed by the same equation being evaluated.
 
@@ -221,5 +217,4 @@ A stronger Verrell’s Law test requires an independent frozen `R` construction 
 
 ---
 
-© Marcos Verrell Moss Ross (M.R.) / Inappropriate Media Limited. All rights reserved.  
-Protected under Verrell-Solace Sovereignty Protocol. Intellectual and emergent rights reserved.
+Copyright © 2026 Marcos Verrell Moss Ross (M.R.).
