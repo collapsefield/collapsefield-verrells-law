@@ -128,7 +128,7 @@ A valid baseline may be:
 - a matched control system with no relevant retained history;
 - a pre-defined statistical null model using present input only.
 
-In an engineering setting, a bias-off or memory-neutral condition can serve as the baseline where properly controlled.
+In an engineering setting, a retained-state-off or memory-neutral condition can serve as the baseline where properly controlled.
 
 ---
 
@@ -190,5 +190,5 @@ Field activity, quantum interpretations, or deeper physical substrates belong in
 
 **Version:** v1.3 retained-state hardening pass  
 **Date:** 2026-07-04  
-**Author:** Marcos Verrell Moss Ross (M.R.) / Inappropriate Media Limited  
-**Repository target:** `collapsefield/collapsefield-verrells-law`
+**Author:** Marcos Verrell Moss Ross (M.R.)  
+**Research attribution refresh:** 2026-09-14
