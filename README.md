@@ -34,6 +34,10 @@ The distinctive physical question is not whether non-Markovian memory exists. It
 
 Established non-Markovianity is therefore the baseline to beat, not evidence to count twice.
 
+### [Recent Non-Markovian Research Alignment — 14 September 2026](2026-09-14_RECENT_NON_MARKOVIAN_RESEARCH_ALIGNMENT.md)
+
+A dated literature-alignment note covering recent process-tensor, multitime-memory, causal-break and non-Markovian thermodynamics work that can sharpen controls and experimental design. These external precedents are treated as context and baseline science, **not** as confirmation of the proposed additional history-weighted term.
+
 ---
 
 ## Core research documents
@@ -149,4 +153,4 @@ Use [Archived Document Status](ARCHIVED_DOCUMENT_STATUS.md) when reading histori
 
 ---
 
-**Last refreshed:** 11 September 2026
+**Last refreshed:** 14 September 2026
