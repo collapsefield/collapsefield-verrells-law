@@ -1,69 +1,68 @@
 # Provenance and Priority Position
 
-This repository forms part of the public historical and authorship record for Verrell's Law and its associated engineering branch, Collapse Aware AI (CAAI).
+**Author / originator:** Marcos Verrell Moss Ross (M.R.)  
+**Status:** Public authorship and development-history record  
+**Updated:** 14 September 2026
 
-The repository documents the progressive development of a memory-weighted selection framework proposing that retained informational history can influence future state selection and behavioural divergence.
+This repository forms part of the public historical and authorship record for Verrell's Law and related retained-state selection research.
+
+It documents the progressive development of a framework proposing that retained informational history can influence later selection and path-dependent divergence.
 
 ## Publicly Timestamped Concepts
 
 This archive contains timestamped public records relating to:
 
-- memory-weighted selection
-- Active Information Weight (AIW)
-- path-dependent divergence
-- informational bias terms
-- memory-biased collapse proposals
-- observer-weighted selection framing
-- continuity-weighted behavioural emergence
-- Weighted Emergence Layering (WEL)
-- Verrell's Law to middleware translation
-- governed behavioural continuity architectures
+- retained-state / memory-weighted selection;
+- Active Information Weight (AIW) terminology;
+- path-dependent divergence;
+- informational bias terms;
+- continuity-weighted behavioural emergence;
+- Weighted Emergence Layering (WEL) terminology;
+- governed retained-state selection;
+- mathematical and falsification protocols.
 
-These records predate many later public discussions using similar collapse, drift, continuity, or memory-weighting language in AI contexts.
+Timestamped publication establishes provenance for the wording and framework development recorded here. It does not imply ownership of general concepts such as memory, probability, path dependence, Bayesian updating, reinforcement learning, stateful computation or AI governance.
 
-## Important Boundary Clarification
+## Current boundary
 
-This repository does not claim ownership over probability theory, memory systems, reinforcement learning, Bayesian updating, or AI governance generally.
+The current research programme and Collapse Aware AI™ engineering programme are connected historically but evaluated separately.
 
-The narrower claim is that Verrell's Law and Collapse Aware AI together establish a distinct, timestamped framework combining:
+```text
+Verrell's Law
+= proposed falsifiable retained-state selection research framework
 
-- retained-information weighting
-- memory-biased future selection
-- continuity-aware behavioural governance
-- structured informational bias modelling
-- middleware-level governed collapse selection
-- Weighted Emergence Layering terminology and architecture
+Collapse Aware AI™
+= separate engineering programme for governed retained-state selection
+```
+
+Engineering conformance is not independent scientific validation of the wider research hypothesis.
 
 ## Why This Repository Exists
 
 The repository exists to:
 
-- preserve authorship chronology
-- establish public provenance
-- document canonical terminology and notation
-- separate public-safe concepts from sealed implementation layers
-- support due diligence and future technical review
-- provide a stable historical reference if overlapping derivative systems later appear
+- preserve authorship chronology;
+- establish public provenance;
+- document terminology and notation changes;
+- preserve superseded and exploratory branches transparently;
+- support technical review and falsification;
+- provide a stable historical reference for the development trail.
 
 ## Public Provenance Anchors
 
 Current provenance anchors include:
 
-- GitHub timestamps and commit history
-- Zenodo DOI deposits
-- canonical notation releases
-- public proof packs
-- cross-linked theory and middleware archives
-- public mathematical notes
-- structured validation protocols
-- linked external publications
+- GitHub timestamps and commit history;
+- Zenodo DOI deposits where applicable;
+- canonical notation and mathematical releases;
+- public research notes;
+- falsification and experimental-design protocols;
+- linked external publications where relevant.
 
-## Public Position
+## Scientific position
 
-Verrell's Law remains a developing and testable framework, not established scientific consensus.
+Verrell's Law remains a developing and testable research framework, not established scientific consensus.
 
-Collapse Aware AI is the practical middleware branch associated with the framework.
+Current claims should be judged through the latest mathematical specification, evidence-identification rules, controlled tests and independent replication—not through authorship provenance alone.
 
-Both should be evaluated through the timestamped public record, mathematical structure, engineering continuity, and future falsifiable testing.
-
-© 2024–2026 Marcos Verrell Moss Ross (M.R.) / Inappropriate Media Limited. All rights reserved.
+Copyright © 2024–2026 Marcos Verrell Moss Ross (M.R.).
