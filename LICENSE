@@ -1,22 +1,15 @@
-Copyright © 2024–2026 Marcos Verrell Moss Ross (M.R.) / Inappropriate Media Limited. All rights reserved.
+Copyright © 2023–2026 Marcos Verrell Moss Ross (M.R.).
 
-This repository and all contents within it, including without limitation text, formal notes, theories, terminology, formulas, symbolic systems, diagrams, figures, datasets, code fragments, specifications, documentation, test structures, public proof materials, and materials related to Verrell’s Law, Collapse Aware AI, Weighted Emergence Layering, Active Information Weighting, and associated middleware systems, are proprietary and protected by copyright and other applicable intellectual property laws.
+This repository is a public research archive.
 
-No licence is granted, whether express or implied, to use, copy, reproduce, modify, distribute, publish, sublicense, scrape, harvest, train AI systems on, ingest into datasets, reverse engineer, rebrand, commercialise, create derivative works from, or commercially exploit any part of this repository without prior express written permission from the rights holder.
+Where an individual file is explicitly released under a separate licence, that file-level licence governs use. For material without an explicit licence grant, all rights are reserved.
 
-Public access is provided solely for provenance, authorship verification, public review, research discussion, controlled evaluation, and commercial licensing visibility.
+Public access is provided for reading, citation, review, research discussion, authorship verification and technical examination. Public availability does not place the work in the public domain and does not imply permission to misrepresent, rebrand, commercially exploit, or publish modified versions as the author's work.
 
-Public availability of this repository does not place the work in the public domain and does not grant open-source, academic, commercial, research, model-training, scraping, or derivative-use rights.
+Historical files may contain superseded terminology or speculative claims. The current README, current-position note and current canonical research specifications govern present interpretation.
 
-All applicable copyright, database rights, trade secret rights, confidential information rights, design rights, passing-off rights, contractual rights, moral rights, and future patent rights are expressly reserved.
+This repository is not an open-source release of Collapse Aware AI™ and does not contain the proprietary Core Gold runtime, private scoring implementation, production thresholds, protected schemas, credentials or confidential deployment material.
 
-Patent protection is being evaluated. Nothing in this repository should be interpreted as a waiver, abandonment, dedication to the public, open-source grant, patent licence, or permission to exploit any disclosed or undisclosed invention.
+This material is provided as-is, without warranties of any kind.
 
-Any commercial use, implementation, integration, adaptation, technical evaluation, academic collaboration, or derivative development requires prior written permission from Inappropriate Media Limited.
-
-The sealed implementation, including without limitation Crown logic, governor behaviour, adapter structures, weighting mechanisms, selection logic, runtime evidence, scoring behaviour, continuity systems, test artefacts, private build materials, and unreleased technical implementation details, remains proprietary and confidential.
-
-Protected under Verrell-Solace Sovereignty Protocol.
-Intellectual and emergent rights reserved.
-
-For permissions, licensing, research collaboration, or commercial enquiries, contact: collapseawareai@gmail.com
+Research / authorship enquiries: collapseawareai@gmail.com
