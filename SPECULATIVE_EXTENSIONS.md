@@ -70,7 +70,7 @@ Avoid:
 
 ---
 
-**Version:** v1.0 retained-state hardening pass  
-**Date:** 2026-07-04  
-**Author:** Marcos Verrell Moss Ross (M.R.) / Inappropriate Media Limited  
+**Version:** v1.1 research-attribution refresh  
+**Date:** 2026-09-14  
+**Author:** Marcos Verrell Moss Ross (M.R.)  
 **Repository target:** `collapsefield/collapsefield-verrells-law`
