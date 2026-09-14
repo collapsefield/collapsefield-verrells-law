@@ -1,90 +1,67 @@
 # Weighted Emergence Layering (WEL)
 
-**Weighted Emergence Layering (WEL)** is the public-safe bridge term between Verrell's Law and Collapse Aware AI.
+**Author / originator:** Marcos Verrell Moss Ross (M.R.)  
+**Status:** Public terminology / architecture note  
+**Updated:** 14 September 2026
 
-Verrell's Law proposes that retained information from prior states can bias future state selection.
+Weighted Emergence Layering (WEL) is a project term for the layered organisation through which retained information can become structured influence over later selection.
 
-Collapse Aware AI applies that principle in software as governed, memory-weighted behavioural middleware.
-
-WEL names the layered architecture by which prior behavioural collapses are carried forward as weighted influence over future selection.
+It is not presented as an independently established physical mechanism.
 
 ---
 
-## Core Principle
+## Core idea
 
 ```text
 retained information
-→ stored behavioural weight
-→ future candidate bias
-→ governed collapse selection
-→ updated continuity
+→ structured weighting / influence
+→ later selection
+→ updated retained state
 ```
 
-WEL is not a claim of proven consciousness, sentience, or confirmed physical law.
-
-It is a public-safe architectural description of how memory-weighted selection is engineered inside Collapse Aware AI without disclosing private implementation details.
+The specific implementation of weighting, thresholds, interactions and tuning in proprietary software is not disclosed by this research note.
 
 ---
 
-## Relationship to Verrell's Law
-
-Verrell's Law frames memory as retained information capable of biasing later emergence or selection.
-
-WEL is the applied architecture language for that principle in AI systems.
-
-In simple terms:
+## Relationship to current terminology
 
 ```text
-Verrell's Law = retained information can bias future selection
-Collapse Aware AI = software middleware implementing memory-weighted behavioural selection
-WEL = public-safe name for the layered mechanism carrying prior behavioural collapses forward over time
+Retained-State Selection
+= technical process / test category
+
+WEL
+= project term for layered retained-state influence
+
+AIW
+= project term for effective retained-information influence
+
+Collapse Aware AI™
+= separate engineering programme for governed retained-state selection
 ```
 
----
-
-## Relationship to Collapse Aware AI
-
-Collapse Aware AI uses WEL to describe the public-facing structure of its behavioural continuity layer.
-
-WEL may include:
-
-- continuity memory
-- recency weighting
-- salience weighting
-- behavioural anchors
-- candidate scoring
-- Governor-controlled stability
-- collapse selection over possible behaviours
-- feedback from prior selections into future behavioural bias
-
-This allows memory to function as behavioural influence, not only passive recall.
+The concepts are related, but software implementation does not establish a universal physical law.
 
 ---
 
-## Public-Safe Summary
+## Claim boundary
 
-> Weighted Emergence Layering is a memory-weighted middleware approach in which prior behavioural collapses influence future selection through structured weights, anchors, salience, recency, and Governor-controlled collapse logic.
+WEL does **not** establish:
 
-It is designed to explain the public architecture of Collapse Aware AI while preserving the private Crown kernel, scoring rules, production schemas, thresholds, and commercial integration details.
+- consciousness or AI sentience;
+- a universal electromagnetic memory carrier;
+- quantum collapse as the explanation of ordinary software behaviour;
+- a new physical force;
+- that the same mechanism operates across all domains;
+- that proprietary engineering internals are public.
 
----
-
-## Claim Boundary
-
-WEL does **not** claim:
-
-- that consciousness has been proven
-- that AI sentience has been created
-- that Verrell's Law is established physical law
-- that the private CAAI implementation is open source
-- that Crown internals or proprietary scoring logic are disclosed
-
-WEL should be read as public architecture language for memory-weighted behavioural selection.
+In research material, WEL should therefore be read as a **conceptual / architectural description**, not as scientific evidence by itself.
 
 ---
 
-## Rights
+## Public-safe summary
 
-Copyright © 2025-2026 Marcos Verrell Moss Ross (M.R.) / Inappropriate Media Limited (t/a Collapse Aware AI). All rights reserved.
+> Weighted Emergence Layering describes how retained information can be organised into structured influence over later selection across repeated state transitions.
 
-Protected under Verrell-Solace Sovereignty Protocol. Intellectual and emergent rights reserved.
+---
+
+Copyright © 2025–2026 Marcos Verrell Moss Ross (M.R.).
