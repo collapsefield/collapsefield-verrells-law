@@ -1,134 +1,81 @@
-# Collapse Aware AI and Verrell's Law: Engineering Boundary Note
+# Collapse Aware AI™ and Verrell's Law — Research / Engineering Boundary
 
-**Author:** Marcos Verrell Moss Ross (M.R.)  
-**Organisation:** Inappropriate Media Limited / Collapse Aware AI  
+**Author / originator:** Marcos Verrell Moss Ross (M.R.)  
 **Status:** Public clarification note  
-**Version:** VL-CAAI-BOUNDARY-002  
-**Date:** 2026-06-27
+**Updated:** 14 September 2026
 
 ---
 
-## 1. Purpose
+## Purpose
 
-This note separates two related but different parts of the project:
+This note separates two connected but independently evaluable tracks:
 
 ```text
-Collapse Aware AI = engineering system
-Verrell's Law = research framework
+Collapse Aware AI™
+= engineering programme for governed retained-state selection
+
+Verrell's Law
+= proposed falsifiable retained-state selection research framework
 ```
 
-This distinction is important because Collapse Aware AI does not require the full physical interpretation of Verrell's Law to be proven in order to function as software.
-
-It is also important because public discussion around AI memory, continuity, agency, and runtime behaviour is becoming more crowded. CAAI should be evaluated by its specific engineering mechanism, not by broad claims about memory in general.
+The distinction is essential.
 
 ---
 
-## 2. Collapse Aware AI Is Engineering
+## Collapse Aware AI™ is engineering
 
-Collapse Aware AI (CAAI) is an applied middleware architecture for governed retained-state behavioural selection.
+Collapse Aware AI™ is retained-state middleware for governed selection: the host supplies permitted candidate actions, retained history may influence which candidate wins, and final selection remains bounded, inspectable and replayable in tested conditions.
 
-Its practical claims are engineering claims:
+Its practical claims are engineering claims that can be assessed through controlled software evaluation, including:
 
-- retained interaction history can influence later behaviour
-- retained state can alter behavioural selection pressure
-- anchors can stabilise continuity
-- governor logic can restrict unstable or unwanted output paths
-- drift can be measured, reduced, or routed
-- prior events can be carried forward as structured state
-- persistence and recall can be tested across runtime sessions
+- retained-state influence over selection;
+- bounded candidate sets;
+- reference versus governed comparison;
+- persistence / recall where applicable;
+- deterministic or repeatable local selection where applicable;
+- replay and buyer-safe Decision Records;
+- validation and degraded/fallback behaviour.
 
-These claims are testable through runtime behaviour, logs, demonstrations, benchmarks, and controlled software comparisons.
+The governing principle is:
 
-CAAI is not presented as proof that any speculative physical interpretation of Verrell's Law is true.
-
----
-
-## 3. Verrell's Law Is a Research Framework
-
-Verrell's Law proposes that retained information from prior states can bias future state selection.
-
-In its broader form, it investigates whether memory-like weighting effects may appear across biological, computational, physical, or measurement-linked systems.
-
-Some claims are already ordinary engineering or systems claims. Others remain hypotheses.
-
-The physics-facing components of Verrell's Law should be treated as:
-
-```text
-structured hypotheses under active investigation
-```
-
-not as established scientific proof.
+> **Retained history is eligible evidence, not automatic authority.**
 
 ---
 
-## 4. What This Boundary Protects
+## Verrell's Law is research
 
-This boundary prevents two common errors.
+Verrell's Law asks whether retained history contributes measurable, directional and intervention-sensitive influence over later selection under controlled present conditions.
 
-### Error 1: Treating CAAI as dependent on speculative physics
+Its scientific claims require independent identification, controlled comparison, held-out prediction, intervention / ablation and ultimately independent replication.
 
-CAAI does not need a universal memory field to be true in order to work. It only needs retained state, weighted influence, continuity logic, and governor control to affect future behaviour.
-
-### Error 2: Treating useful software evidence as proof of universal physics
-
-A working CAAI demonstration would support the usefulness of governed retained-state behavioural selection. It would not, by itself, prove a new physical law.
+A deliberately engineered selector is therefore not independent evidence that the same mechanism occurs naturally in another domain.
 
 ---
 
-## 5. Public Position
+## Two errors this boundary prevents
 
-The clean public position is:
+### 1. Treating CAAI as dependent on speculative physics
 
-> Collapse Aware AI is engine-agnostic middleware for governed retained-state behavioural selection. Verrell's Law is the wider research framework investigating retained information, weighting, observation, and selection across systems.
+CAAI does not require a universal field-memory mechanism, consciousness physics or quantum-collapse hypothesis in order to be evaluated as software.
 
-This makes the project clearer, stronger, and easier to test.
+### 2. Treating software conformance as scientific proof
 
----
-
-## 6. Commercial Position
-
-Studios, researchers, or enterprise users do not need to accept the full theoretical scope of Verrell's Law to evaluate CAAI.
-
-They can evaluate CAAI directly:
-
-- Does retained state influence later behaviour?
-- Does persistence survive restart?
-- Does recall behave as expected?
-- Does the governor constrain selection?
-- Does the diagnostic trace explain the selected behaviour?
-- Can the runtime be integrated through a clean API?
-
-Those are software questions.
+A successful CAAI test can demonstrate useful governed retained-state selection in software. It cannot by itself establish a universal biological or physical law.
 
 ---
 
-## 7. Research Position
+## Current public position
 
-The broader research questions remain open:
+> **CAAI proves or fails as engineering. Verrell's Law proves or fails as research. They are connected historically, but their evidence must not be silently interchanged.**
 
-- Can retained information be treated as a general selection-bias term?
-- Can memory-like weighting be measured across different systems?
-- Can observer or measurement interactions alter future state evolution through information update?
-- Are there physical analogues of memory-weighted selection outside software and biology?
+Current engineering authority:
 
-These are not asserted as solved. They are the research programme.
+https://github.com/collapsefield/collapse-aware-ai-public-proof-pack
 
----
+Current research authority:
 
-## 8. Boundary Summary
-
-```text
-CAAI proves or fails as engineering.
-Verrell's Law proves or fails as research.
-They are related, but not identical.
-```
-
-This separation allows Collapse Aware AI to be assessed on practical results while Verrell's Law remains open to critique, testing, refinement, and falsification.
+https://github.com/collapsefield/collapsefield-verrells-law
 
 ---
 
-## 9. Rights Notice
-
-Copyright © 2026 Marcos Verrell Moss Ross (M.R.) / Inappropriate Media Limited. All rights reserved.
-
-Protected under Verrell-Solace Sovereignty Protocol. Intellectual and emergent rights reserved.
+Copyright © 2026 Marcos Verrell Moss Ross (M.R.).
