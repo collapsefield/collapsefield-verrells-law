@@ -2,9 +2,9 @@
 
 ## Status
 
-This document defines the failure conditions for the retained-state form of Verrell's Law.
+This document defines failure conditions for the retained-state form of Verrell's Law.
 
-Verrell's Law is currently presented as a falsifiable retained-state selection framework, not as established physics.
+Verrell's Law is presented as a falsifiable retained-state selection framework, not as established physics.
 
 The central testable claim is:
 
@@ -27,15 +27,11 @@ A valid test should define, before measurement:
 9. the known confounds to be checked;
 10. the exact null-verdict wording.
 
-The estimator route should be cross-referenced to:
-
-> `FALSIFIABLE_MEMORY_BIAS_ESTIMATOR.md`
+The estimator route should be cross-referenced to `FALSIFIABLE_MEMORY_BIAS_ESTIMATOR.md` and the later canonical mathematical specification.
 
 ---
 
 ## Main Failure Conditions
-
-The retained-state claim fails in a tested regime where one or more of the following hold.
 
 ### 1. No measurable divergence
 
@@ -43,15 +39,15 @@ Systems with different retained histories do not show measurable divergence unde
 
 ### 2. Retained-state influence is indistinguishable from null
 
-The fitted retained-state influence is statistically or operationally indistinguishable from the pre-registered null condition.
+The fitted retained-state influence is statistically or operationally indistinguishable from the preregistered null condition.
 
-Because `λ` and `B(y_i;M_t)` are not separately identifiable without a pre-defined bias function, this condition should be evaluated using the pre-committed estimator and baseline definition, not an after-the-fact fitted explanation.
+Because coupling and retained-state score are not separately identifiable without a fixed scoring convention, this condition must be evaluated using the precommitted estimator and baseline rather than an after-the-fact fitted explanation.
 
 ### 3. Divergence is explained by pre-enumerated confounds
 
-Observed divergence is fully explained by known confounds that were listed before the test.
+Observed divergence is fully explained by known confounds fixed before the verdict.
 
-Examples may include, depending on the regime:
+Examples may include:
 
 - prompt/input mismatch;
 - candidate-set mismatch;
@@ -63,23 +59,19 @@ Examples may include, depending on the regime:
 - measurement artefact;
 - ordinary stimulus-response effects not requiring retained-state weighting.
 
-The confound list should be specific to the test and fixed before verdict.
+### 4. Retained-state-on and reference conditions do not diverge
 
-### 4. Bias-off and bias-on conditions do not diverge
+Disabling, ablating, randomising or neutralising retained-state influence produces no measurable difference from enabling it where the framework predicts a difference.
 
-Disabling, ablating, randomising, or neutralising retained-state weighting produces no measurable difference from enabling it.
+### 5. Retained-state intervention does not alter later selection
 
-In the CAAI engineering analogue, this corresponds to comparing a retained-state-influenced condition against a controlled baseline condition without disclosing private implementation internals.
-
-### 5. Memory/state perturbation does not alter later selection
-
-A defined perturbation to retained state does not alter later selection in the predicted direction, under matched present input and fixed candidate conditions.
+A defined perturbation to retained state does not alter later selection in the preregistered direction under matched present input and fixed candidate conditions.
 
 ---
 
 ## Locked Null Wording
 
-If the retained-state claim fails under the defined test, the correct verdict is:
+If the retained-state claim fails under the defined test, appropriate verdicts include:
 
 > Verrell's Law was not supported in this tested regime.
 
@@ -87,15 +79,7 @@ or:
 
 > The retained-state selection claim was refuted in this tested regime.
 
-Avoid global overstatements such as:
-
-> Verrell's Law is impossible.
-
-or:
-
-> Retained state never matters.
-
-A failed test refutes the claim only within the tested regime unless the test is designed to generalise further.
+Avoid global overstatements such as “retained state never matters” unless the design genuinely supports such a generalisation.
 
 ---
 
@@ -105,31 +89,23 @@ Evidence supports the retained-state framework in a tested regime where:
 
 1. matched present inputs produce divergent outcomes across different retained-history conditions;
 2. the divergence follows the predicted retained-state direction;
-3. the effect survives pre-enumerated confound checks;
-4. the retained-state term improves prediction beyond baseline input alone;
-5. disabling or neutralising retained-state influence reduces or removes the divergence.
+3. the effect survives preregistered confound checks;
+4. retained history improves prediction beyond the declared baseline;
+5. disabling or neutralising retained-state influence reduces or removes the predicted divergence;
+6. the result generalises to held-out trials.
 
 Support in one regime does not automatically establish the claim in all regimes.
 
 ---
 
-## CAAI Boundary
+## Engineering Boundary
 
-Collapse Aware AI is the engineering track for governed retained-state behavioural selection.
+Collapse Aware AI™ is a separate engineering programme for governed retained-state selection.
 
-CAAI evidence may demonstrate an engineering analogue of the retained-state framework, such as:
-
-- bias-off/bias-on divergence;
-- persistence across restart;
-- candidate selection under retained-state influence;
-- governor-constrained selection;
-- diagnostic traceability.
-
-CAAI evidence should not be presented as proof of new physics.
+Engineering tests may demonstrate intentionally implemented retained-state behaviour, replay and evidence. They should not be presented as independent proof that the same mechanism occurs naturally in physics or biology.
 
 ---
 
-**Version:** v1.0 retained-state hardening pass  
-**Date:** 2026-07-04  
-**Author:** Marcos Verrell Moss Ross (M.R.) / Inappropriate Media Limited  
-**Repository target:** `collapsefield/collapsefield-verrells-law`
+**Version:** v1.1 research-attribution refresh  
+**Date:** 2026-09-14  
+**Author:** Marcos Verrell Moss Ross (M.R.)
