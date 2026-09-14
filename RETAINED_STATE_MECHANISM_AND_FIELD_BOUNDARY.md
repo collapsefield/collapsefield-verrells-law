@@ -1,319 +1,139 @@
 # Verrell’s Law — Retained-State Mechanism and Field Boundary
 
-**Status:** Public cornerstone clarification and mechanism statement.  
-**Date:** 27 June 2026  
-**Author:** M.R. (Marcos Verrell Moss Ross), Author of Verrell’s Law.  
-**Maintainer:** Inappropriate Media Limited (t/a Collapse Aware AI).  
-**Repository role:** Canonical clarification of how Verrell’s Law treats information propagation, retained state, electromagnetic fields, substrate boundaries, and post-agency influence.
+**Author / originator:** Marcos Verrell Moss Ross (M.R.)  
+**Status:** Public research clarification  
+**Updated:** 14 September 2026
 
 ---
 
-## 1. Purpose
+## Purpose
 
-This document sets down a clearer public position on the mechanism behind Verrell’s Law.
+Earlier public wording explored electromagnetic field dynamics, field memory, observation, collapse and consciousness. Those ideas remain part of the research history, but they are not required by the current framework.
 
-Earlier public wording explored electromagnetic field dynamics, field memory, observation, collapse, consciousness, and biological memory. Those ideas remain part of the research history, but the current position is more disciplined:
+The current boundary is simpler:
 
-> **Information does not need to exist as a separate substance or free-floating field. Information becomes active when a prior interaction leaves a persistent state-change, and that changed state constrains or biases future outcomes.**
+> **Information becomes relevant to later selection when prior interaction leaves a persistent, measurable state change that later conditions encounter.**
 
-This is the core mechanism Verrell’s Law now treats as primary.
-
-Electromagnetic fields may participate in some systems, especially biological, photonic, computational, and measurement systems, but Verrell’s Law does not require memory to be stored as a non-local electromagnetic field.
+No free-floating information substance or universal field-memory carrier is required.
 
 ---
 
-## 2. Core Statement
-
-Verrell’s Law proposes that prior state can bias future selection.
-
-The practical chain is:
+## Core process
 
 ```text
-Observation / Interaction
-        ↓
+Interaction
+↓
 State change
-        ↓
-Retained information
-        ↓
-Weighting / bias
-        ↓
-Altered future selection
-        ↓
+↓
+Retained information / structure
+↓
+Candidate-relative influence
+↓
+Later selection
+↓
 Path-dependent outcome
 ```
 
-In this framework, **bias** means directional weighting produced by retained history. It does not automatically mean error, distortion, or irrationality.
-
-A system does not return to a perfectly neutral state after every interaction if that interaction leaves a measurable trace.
-
-The law therefore focuses on retained state, not mystical transmission.
+In this framework, **bias** means directional weighting. It does not automatically mean error or irrationality.
 
 ---
 
-## 3. Information Is Not Treated as a Floating Substance
+## Information and substrate
 
-Verrell’s Law does not require information to travel as a ghost-like medium.
+Retained information may be physically or operationally instantiated in many ways, including:
 
-Information can be understood as an organised difference in physical, biological, computational, or environmental state.
+- neural or biological state;
+- software state;
+- material configuration;
+- environmental traces;
+- institutional records;
+- social or behavioural history;
+- measurable field or correlation state where independently demonstrated.
 
-A previous event affects the future when it leaves behind a difference that future events encounter.
-
-Examples include:
-
-- strengthened or weakened synaptic pathways
-- altered cellular thresholds
-- protein-state or receptor-state changes
-- gene-expression or epigenetic changes
-- changed network configuration
-- stored computational memory
-- altered model/session state
-- written records
-- environmental modification
-- social memory
-- legal or institutional records
-- physical residue or structural alteration
-
-The common principle is not the material type.
-
-The common principle is:
-
-> **The future system is no longer operating from the same state.**
+The common research question is not the material type. It is whether the retained difference predicts later selection beyond the matched present-state baseline.
 
 ---
 
-## 4. Electromagnetic Fields: Participant, Not Dependency
+## Electromagnetic / field boundary
 
-Electromagnetic activity is real and relevant in many systems.
+Electromagnetic fields may participate in some biological or physical systems. That possibility is experimentally legitimate where a source, coupling path, spatial/spectral signature and detector response are specified.
 
-In biological systems, ion flows, membrane potentials, synaptic firing, oscillatory coupling, and neural signalling all involve electrochemical and electromagnetic activity.
+The framework does **not** infer from that possibility that:
 
-In physical test systems, electromagnetic, acoustic, optical, and phononic traces may provide measurable local substrates for history-conditioned bias.
+- memory is stored in a universal electromagnetic field;
+- personal memory exists non-locally;
+- a field mechanism has been established merely because ordinary electromagnetic activity exists;
+- measurement sensitivity limitations are evidence of an undetected field effect.
 
-However, the public position is now:
-
-> **Electromagnetic fields may participate in Verrell-type effects, but Verrell’s Law does not depend on a claim that memory is stored as a free-floating electromagnetic field.**
-
-This matters because the law is broader than any one carrier.
-
-If a retained state can be measured, weighted, decayed, erased, reinforced, or shown to alter later selection probabilities, it falls within the Verrell’s Law test domain.
-
-The substrate may be biological, computational, material, environmental, social, or field-mediated.
+The current physics-facing route treats conventional open-system dynamics, hysteresis, thermodynamics and instrument memory as baselines to beat.
 
 ---
 
-## 5. The Minimal Mechanism
+## Minimal mechanism
 
-The minimal mechanism is:
+A minimal retained-state mechanism requires:
 
-1. A system undergoes an interaction.
-2. The interaction leaves a trace.
-3. The trace persists for some duration.
-4. A later event encounters the altered state.
-5. The altered state changes the probability, pathway, interpretation, or selection of the later event.
-6. If the trace decays, is erased, or is suppressed, the effect should weaken or return toward baseline.
+1. an interaction;
+2. a trace or state change;
+3. persistence across a declared interval or boundary;
+4. a later selection event;
+5. a measurable effect of the retained difference on that selection;
+6. reduction, reversal or disappearance of the predicted effect under appropriate erasure, ablation, scrambling or supersession.
 
-This can be expressed in broad form as:
+If intervention on the retained state does not alter the predicted effect, the stronger causal interpretation is weakened.
 
-```text
-Future outcome = present condition + retained-state influence
+---
+
+## Mathematical context
+
+An illustrative selection form is:
+
+```math
+P(y_i\mid S_t,O_t,M_t)
+=\frac{\exp(U(y_i;S_t,O_t)+\lambda B(y_i;M_t))}
+{\sum_j\exp(U(y_j;S_t,O_t)+\lambda B(y_j;M_t))}
 ```
 
-In the formal Verrell’s Law notation, this is represented through a memory-derived bias term affecting selection probability.
-
-The current canonical selection form remains:
-
-\[
-P(y_i \mid S_t, O_t, M_t) =
-\frac{
-\exp\left(U(y_i; S_t, O_t) + \lambda B(y_i; M_t)\right)
-}{
-\sum_j \exp\left(U(y_j; S_t, O_t) + \lambda B(y_j; M_t)\right)
-}
-\]
-
-Where:
-
-- \(S_t\) is the system state at time \(t\)
-- \(O_t\) is the observation, input, interaction, or measurement condition
-- \(M_t\) is retained memory/history/state
-- \(B(y_i; M_t)\) is the memory-derived bias term
-- \(\lambda\) controls the strength of retained-state influence
-- \(U(y_i; S_t, O_t)\) is the present-state utility or baseline selection pressure
-
-At \(\lambda = 0\), the retained-state term should vanish and the system should reduce toward the memoryless baseline.
-
-That reduction condition is essential.
+The current canonical empirical specification is stronger than this illustration: it requires the retained-state variable, scoring convention, baseline and confirmatory analysis to be frozen appropriately before testing.
 
 ---
 
-## 6. Biological Memory and Retained State
+## Biological boundary
 
-Verrell’s Law accepts established biological memory science.
+The framework is compatible with established biological memory mechanisms including synaptic plasticity, distributed neural ensembles, cellular/molecular changes, network reconstruction and cue-dependent recall.
 
-Biological memory can involve:
+It does not require biological memory to be external to the brain or body.
 
-- synaptic plasticity
-- distributed neural ensembles
-- engram activation
-- cellular and molecular changes
-- protein-state dynamics
-- gene-expression changes
-- network-level reconstruction
-- bodily and environmental cue loops
-
-The law does not need to claim that memory is only stored in an electromagnetic field.
-
-The stronger position is:
-
-> **Biological memory is retained state distributed across living structure. Recall is not always exact retrieval; it can be reconstruction under bias.**
-
-This aligns naturally with the Verrell’s Law view that future behaviour is influenced by retained history rather than by present input alone.
+A biological extension of Verrell’s Law would require a separately defensible retained-state variable and controlled intervention; analogy alone is not evidence.
 
 ---
 
-## 7. Post-Agency Influence: How the Dead Still Affect the Future
+## Relationship to Collapse Aware AI™
 
-A living person is an active self-updating biological control loop.
+Collapse Aware AI™ is a separate engineering programme for governed retained-state selection.
 
-When that person dies, the active person-level control loop stops.
-
-However, the influence of that person does not vanish, because the world has already been changed by their existence.
-
-Their retained influence can continue through:
-
-- biological traces
-- decomposition chemistry
-- DNA and descendants
-- written records
-- speech, video, code, art, and documents
-- memories held by other people
-- social consequences
-- legal effects
-- property, debts, organisations, inventions, and institutions
-- environmental changes
-- technological systems they built or influenced
-
-This is not a claim that a dead brain continues thinking.
-
-It is a claim that prior state-change remains active wherever it has modified later conditions.
-
-A system does not need to remain alive for its history to keep affecting future outcomes.
-
-Once a state has altered another state, that alteration becomes part of the future selection environment.
+A software system can deliberately preserve and use retained state. That demonstrates engineering behaviour when tested; it does not establish that an equivalent natural mechanism operates in physics or biology.
 
 ---
 
-## 8. CAAI Engineering Bridge
+## Falsifiability
 
-Collapse Aware AI is the engineering track connected to this principle.
+A retained-state claim is not supported in a tested regime when, under adequate controls:
 
-In CAAI, the retained-state mechanism is implemented in software rather than assumed as physics.
+- no repeatable divergence appears where the hypothesis predicts one;
+- present-state or measurement confounds explain the result;
+- held-out prediction fails;
+- retained-state intervention does not change the effect as predicted;
+- a simpler conventional model accounts for the observations equally well or better.
 
-The simplified runtime chain is:
-
-```text
-Input
-  ↓
-Candidate behaviours
-  ↓
-Retained-state scoring
-  ↓
-Governor constraints
-  ↓
-Selected behaviour
-  ↓
-Diagnostic trace
-  ↓
-Memory/state update
-```
-
-CAAI therefore tests the practical engineering claim:
-
-> **Can retained weighted state influence future behavioural selection in a governed, measurable, inspectable runtime without retraining the underlying model?**
-
-This is the software analogue of the broader Verrell’s Law selection principle.
-
-CAAI does not require Verrell’s Law to be proven as physics in order to be evaluated as engineering.
+A failed test must not be rescued by assuming that the relevant mechanism exists below current detector sensitivity.
 
 ---
 
-## 9. Simulation Boundary
+## Current short form
 
-State-dependence may look simulation-like because each present state is shaped by prior states.
-
-However, Verrell’s Law does not require simulation theory.
-
-The law can be evaluated under ordinary causality, biology, computation, and physical state-change.
-
-The disciplined position is:
-
-> **Simulation theory is one possible interpretation of state-dependent reality, but it is not required for Verrell’s Law.**
-
-The observable claim remains retained-state influence.
+> **The past remains active only where it leaves a state difference that can be shown to matter to what happens next.**
 
 ---
 
-## 10. Falsifiability
-
-The framework remains falsifiable.
-
-A Verrell-type claim fails in a given test regime if:
-
-- no repeatable divergence appears between systems with different retained histories
-- the retained-state term cannot be separated from noise, drift, or uncontrolled variables
-- erasure or decay of the trace does not reduce the predicted effect
-- the system behaves identically to the memoryless baseline when retained-state influence should be active
-- the observed effect is fully explained by ordinary confounds without any need for a retained-state bias term
-
-The law should not be protected from failed tests.
-
-It should be sharpened by them.
-
----
-
-## 11. Current Public Position
-
-The current position of Verrell’s Law is:
-
-1. The past affects the future when it leaves retained state.
-2. Retained state can bias future selection.
-3. The bias can be biological, computational, physical, social, environmental, or field-mediated.
-4. Electromagnetic fields may participate, but they are not the only possible substrate.
-5. The law does not require mystical transmission or non-local personal memory.
-6. The engineering proof path is Collapse Aware AI.
-7. The research proof path is controlled testing of retained-state divergence.
-
-This document should be treated as the current cornerstone boundary between:
-
-- memory as storage
-- memory as retained state
-- fields as possible participants
-- retained-state influence as the primary mechanism
-- CAAI as engineered proof-of-principle
-
----
-
-## 12. Final Plain-Language Summary
-
-The past affects the future because the past changes the state of the world.
-
-That changed state can persist.
-
-When the future arrives, it does not arrive into a neutral universe.
-
-It arrives into a world already weighted by what happened before.
-
-That is the central claim of Verrell’s Law.
-
-Not that memory floats loose in space.
-
-Not that electromagnetic fields alone carry every trace.
-
-But that retained state becomes active bias, and active bias alters selection.
-
-That is the flag.
-
----
-
-© Inappropriate Media Limited (t/a Collapse Aware AI). All rights reserved.  
-Protected under Verrell-Solace Sovereignty Protocol. Intellectual and emergent rights reserved. — VMR-Core
+Copyright © 2026 Marcos Verrell Moss Ross (M.R.).
