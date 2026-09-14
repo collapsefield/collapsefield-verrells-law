@@ -1,25 +1,23 @@
 {
-  "title": "Verrell’s Law — Official GitHub Archive",
-  "version": "v1.1",
+  "title": "Verrell’s Law — Public Research Archive",
+  "version": "2026-09-research-refresh",
   "author": "Marcos Verrell Moss Ross (M.R.)",
-  "maintainer": "Inappropriate Media Limited (t/a Collapse Aware AI)",
   "contact": "collapseawareai@gmail.com",
-  "last_updated": "2026-04-25",
-  "description": "Public theory archive, research index, and authorship/provenance record for Verrell’s Law, a testable framework proposing that retained information from prior states can bias future state selection.",
-  "repository_visibility": "public documentation and archive",
-  "status": "testable hypothesis under active investigation; not independently experimentally proven",
+  "last_updated": "2026-09-14",
+  "description": "Public research archive, mathematical specification, falsification programme and authorship/provenance record for Verrell’s Law as a proposed retained-state selection framework.",
+  "repository_visibility": "public research documentation and historical archive",
+  "status": "proposed falsifiable research framework; not established physics and not independently experimentally confirmed as a natural law",
   "canonical_files": {
     "start_here": "PUBLIC_READER_START_HERE.md",
     "readme": "README.md",
-    "canonical_definition": "VERRELLS_LAW_CANONICAL.md",
-    "memory_storage_position": "VERRELLS_LAW_POSITION_ON_MEMORY_STORAGE.md",
-    "memory_tuning": "MEMORY_TUNING_AND_DISTRIBUTED_RETRIEVAL.md",
-    "formal_note": "Verrells_Law_Conference_Clean_Formal_Note_v2.md",
-    "formal_clarification": "VERRELLS_LAW_FORMAL_CLARIFICATION_V1.md",
-    "white_paper": "Verrells_Law_White_Paper_v1.0_2025-08-29.md",
-    "optics_experiment": "VL-Optics-Experiment-Note_v1.1.md",
-    "symbolic_test_framework": "worlds_first_symbolic_collapse_test_framework.md",
-    "not_morphic_resonance": "NOT_MORPHIC_RESONANCE.md",
+    "current_research_position": "00_CURRENT_RESEARCH_POSITION_2026-09-11.md",
+    "retained_state_framework": "RETAINED_STATE_SELECTION_FRAMEWORK.md",
+    "mathematical_specification": "VERRELLS_LAW_MATHEMATICAL_FOUNDATIONS_AND_FALSIFICATION_PROTOCOL_v1.0.md",
+    "empirical_identification": "VERRELLS_LAW_EMPIRICAL_IDENTIFICATION_CLARIFICATION_v1.0.md",
+    "mathematical_reference": "VERRELLS_LAW_MATHEMATICAL_REFERENCE_v1.3.md",
+    "benchmark": "RETAINED_STATE_SELECTION_BENCHMARK_v0.1.md",
+    "physics_facing_technical_edition": "VERRELLS_LAW_NON_MARKOVIAN_INFORMATION_PATHS_TECHNICAL_EDITION_2026-09.md",
+    "archive_status": "ARCHIVED_DOCUMENT_STATUS.md",
     "license": "LICENSE"
   },
   "links": {
@@ -28,7 +26,7 @@
     "caai_public_proof_pack": "https://github.com/collapsefield/collapse-aware-ai-public-proof-pack",
     "project_contact": "mailto:collapseawareai@gmail.com"
   },
-  "public_claim_boundary": "This repository documents Verrell’s Law as a public theory archive and testable hypothesis. It does not claim completed experimental proof, does not deny biological memory, and does not disclose proprietary Collapse Aware AI Crown implementation materials.",
-  "rights_note": "All materials are proprietary unless explicitly stated otherwise. No permission is granted to reproduce, modify, distribute, publish, sublicense, create derivative works from, or commercially exploit repository contents without prior written permission from the rights holder.",
-  "copyright": "© 2023–2026 Marcos Verrell Moss Ross (M.R.) / Inappropriate Media Limited (t/a Collapse Aware AI). All rights reserved."
+  "public_claim_boundary": "Verrell’s Law is a proposed falsifiable retained-state selection research framework. Historical physical, field and consciousness extensions do not override the current canonical claim. Collapse Aware AI™ is a separate engineering programme and its software behaviour is not independent proof of a universal physical law.",
+  "rights_note": "Where a file carries an explicit licence, that file-level licence governs. Otherwise all rights are reserved by the author. Public access does not place the work in the public domain.",
+  "copyright": "© 2023–2026 Marcos Verrell Moss Ross (M.R.)."
 }
