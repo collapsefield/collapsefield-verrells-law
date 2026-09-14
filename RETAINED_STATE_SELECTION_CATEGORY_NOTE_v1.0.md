@@ -2,57 +2,43 @@
 
 **Status:** Public positioning / terminology note  
 **Date:** 30 August 2026  
-**Author:** Marcos Verrell Moss Ross (M.R.) / Inappropriate Media Limited  
+**Author / originator:** Marcos Verrell Moss Ross (M.R.)  
+**Attribution refresh:** 14 September 2026  
 **Canonical status:** Non-canonical companion note. This file does **not** replace or modify the canonical Verrell’s Law mathematical specification.
 
 ---
 
 ## Purpose
 
-This note defines a stable public vocabulary around **retained-state selection** without claiming invention of memory, state, path dependence, softmax, reinforcement learning, policy engines, hysteresis, retrieval, or other established mechanisms.
+This note defines stable public vocabulary around **retained-state selection** without claiming invention of memory, state, path dependence, softmax, reinforcement learning, policy engines, hysteresis, retrieval or other established mechanisms.
 
-The aim is to make one narrower problem explicit:
+The narrower problem is:
 
 > **How can information preserved from prior states be allowed to influence selection among presently available outcomes in a way that is measurable, bounded, testable and — in engineered systems — governable?**
 
-That is the territory described here as **retained-state selection**.
-
 ---
 
-## Working Definition
+## Working definition
 
 > **Retained-State Selection is the controlled study or process by which information preserved from prior states is permitted to influence selection among presently available candidate outcomes.**
 
 The definition is intentionally substrate-neutral.
 
-A retained state may be implemented through:
-
-- software state;
-- persistent records;
-- learned parameters;
-- neural or biological state;
-- institutional precedent;
-- physical configuration;
-- environmental traces;
-- another measurable persistence mechanism.
+A retained state may be implemented through software state, persistent records, learned parameters, neural or biological state, institutional precedent, physical configuration, environmental traces or another measurable persistence mechanism.
 
 The existence of retained state alone is not the claim. The measurable question is what that retained state is allowed to **change at selection time**.
 
 ---
 
-## Terminology Hierarchy
-
-The following hierarchy should be used consistently across public Verrell’s Law and Collapse Aware AI material.
+## Terminology hierarchy
 
 ### Retained state
 
 A broad pre-existing concept: information or state that persists across a meaningful boundary and can later be available to a system.
 
-No originality claim is made over the general concept of retained state.
-
 ### Retained-State Selection
 
-The category-level term used here for the explicit relationship:
+The category-level term for the explicit relationship:
 
 ```text
 prior state
@@ -62,38 +48,30 @@ prior state
 → path-dependent consequence
 ```
 
-The distinctive research emphasis is not storage by itself but **measurable influence over later selection**.
-
 ### Verrell’s Law
 
-A proposed falsifiable research framework that asks whether retained-state compatibility predicts structured, directional changes in later selection under controlled conditions.
-
-The canonical mathematical and falsification claims remain defined by the separate canonical specification.
+A proposed falsifiable research framework asking whether retained-state compatibility predicts structured, directional changes in later selection under controlled conditions.
 
 ### Governed Retained-State Selection
 
-An engineering class in which retained-state influence is not automatic authority.
+An engineering class in which retained-state influence is not automatic authority. A declared candidate/action boundary remains in force while retained history is permitted to influence selection under explicit governance.
 
-The system keeps a declared candidate or action boundary, applies retained-state influence under explicit rules, and preserves an independent selection/governance boundary.
+### Collapse Aware AI™ / CAAI
 
-### Collapse Aware AI (CAAI)
+A separate proprietary engineering programme for governed retained-state selection.
 
-The proprietary engineering programme developed by Inappropriate Media Limited.
-
-CAAI is one implementation track for **governed retained-state behavioural selection**. Its commercial value does not depend on Verrell’s Law being established as a law of nature.
+CAAI can be evaluated as software independently of whether Verrell’s Law is accepted as a scientific framework.
 
 ---
 
-## What Is Not Being Claimed
+## What is not being claimed
 
 This note does not claim that Verrell’s Law or CAAI invented:
 
 - stateful computation;
 - memory systems;
 - context windows;
-- RAG;
-- vector databases;
-- long-term agent memory;
+- RAG or vector databases;
 - Markov or semi-Markov state;
 - hysteresis;
 - Bayesian updating;
@@ -104,73 +82,23 @@ This note does not claim that Verrell’s Law or CAAI invented:
 - deterministic execution controls;
 - provenance or audit logs.
 
-Those are established or independently developing areas.
-
 The narrower contribution is the explicit framing of **retained history as a candidate-relative influence that can be isolated, ablated, measured and governed at selection time**.
 
 ---
 
-## Independent Convergence — Adjacent, Not Validation
+## Independent convergence — adjacent, not validation
 
-Several independent research directions now occupy neighbouring parts of this problem space.
+Independent work increasingly addresses neighbouring problems such as history-aware candidate verification, runtime path governance, external action authority, bounded action vocabularies and selective long-horizon memory.
 
-These examples are useful because they show that history-conditioned selection, runtime authority and selective memory are becoming concrete engineering concerns. They do **not** prove Verrell’s Law and they do not establish that CAAI is the only implementation of related ideas.
+Those directions demonstrate that the problem space is active. They do **not** prove Verrell’s Law, validate a universal mechanism, or establish global uniqueness for CAAI.
 
-### HAVE — History-Aware VErifier, CoRL 2025
-
-Li et al. separate action generation from a history-aware verifier: a generator proposes multiple candidate robot actions and a verifier reasons over previous interactions to select the most promising candidate.
-
-Reference: https://proceedings.mlr.press/v305/li25e.html
-
-**Convergence:** multiple candidates + historical interaction context + downstream selection.
-
-**Difference in scope:** robotics/action-quality verification rather than a general governed retained-state middleware architecture.
-
-### Runtime Governance for AI Agents: Policies on Paths, 2026
-
-Kaptein, Khan and Podstavnychy formalise runtime policy as a deterministic function of agent identity, partial execution path, proposed next action and organisational state.
-
-Reference: https://arxiv.org/abs/2603.16586
-
-**Convergence:** history/path matters at runtime and governance should evaluate proposed actions before execution.
-
-**Difference in scope:** policy/compliance evaluation rather than an explicit retained-state candidate-selection framework.
-
-### Aegis — Runtime Governance for Agentic AI, 2026
-
-Aegis treats model outputs as action proposals and places final authority in a trusted runtime decision layer with provenance and fail-closed execution.
-
-Reference: https://arxiv.org/abs/2608.16891
-
-**Convergence:** model proposes; external runtime decides.
-
-**Difference in scope:** action-boundary security/governance rather than retained-state weighting over a candidate set.
-
-### Five Primitives for Governing Autonomous AI Agents at Runtime, 2026
-
-Oswal and Cadeddu describe runtime mediation, per-tenant action vocabularies and evidence/attestation for agent actions.
-
-Reference: https://arxiv.org/abs/2608.26696
-
-**Convergence:** bounded action vocabulary + runtime mediation + durable evidence.
-
-**Difference in scope:** runtime governance primitives rather than history-conditioned candidate-relative retained-state selection.
-
-### Weighted Memory Tree, 2026
-
-Dao, Kathalkar and Eaton introduce dynamic retention scores, folding and suppression for long-horizon agent memory. Their reported experiments show higher accuracy and lower prompt-token usage than linear history on their tested benchmarks.
-
-Reference: https://arxiv.org/abs/2608.20631
-
-**Convergence:** not all retained history should remain equally active; retention itself can be weighted and lifecycle-controlled.
-
-**Difference in scope:** active-memory management and prompt construction rather than final governed action selection.
+Examples previously reviewed in this programme include HAVE (history-aware action verification), runtime path-governance work, trusted runtime authority approaches, bounded-action governance primitives and weighted-memory systems.
 
 ---
 
-## Why the Category Is Useful
+## Why the category is useful
 
-Modern systems increasingly separate three questions that are often collapsed together:
+Modern systems increasingly separate three questions:
 
 1. **What can be remembered?**
 2. **What should be retrieved or remain active?**
@@ -178,26 +106,11 @@ Modern systems increasingly separate three questions that are often collapsed to
 
 Retained-State Selection is primarily about the third question.
 
-That makes the category relevant to:
-
-- long-running AI agents;
-- customer-service and voice systems;
-- game/NPC behaviour;
-- adaptive training and simulation;
-- fraud / AML / risk intervention selection;
-- regulated workflow automation;
-- robotics;
-- human-in-the-loop systems;
-- institutional and legal path-dependence as an analytical model;
-- biological or physical systems only where measurable variables and independent tests can be defined.
+That makes the category relevant to long-running agents, customer-service and voice systems, game/NPC behaviour, adaptive training and simulation, fraud/AML/risk intervention selection, regulated workflows, robotics, human-in-the-loop systems and other domains where a defensible retained-state variable can be defined.
 
 ---
 
-## Minimum Empirical Question
-
-For a candidate outcome `y_i`, present conditions should be declared and held sufficiently matched while retained history is deliberately varied, ablated, randomised or otherwise controlled.
-
-The minimum question is:
+## Minimum empirical question
 
 > **Does the declared retained-state difference predict a repeatable, directional change in candidate-relative selection beyond the matched present-state baseline?**
 
@@ -205,65 +118,36 @@ The canonical Verrell’s Law specification defines the stronger quantitative ve
 
 ---
 
-## Evidence Labels
+## Evidence labels
 
-Public discussion should distinguish at least four evidence classes.
+Public discussion should distinguish:
 
-### 1. Conceptual / mathematical framing
-
-A coherent formal model or worked example.
-
-This establishes testability, not truth.
-
-### 2. Engineering conformance
-
-A deliberately built selector behaves according to its declared retained-state mechanism.
-
-This establishes implementation behaviour, not an independent law of nature.
-
-### 3. Independent empirical support
-
-A retained-state variable or preregistered proxy predicts later selection without being mechanically defined by the same selector that produces the outcome.
-
-### 4. Cross-domain generalisation
-
-Independent replication across materially different systems using separately defensible measurements.
+1. **Conceptual / mathematical framing** — establishes a testable model, not truth.
+2. **Engineering conformance** — a deliberately built selector behaves as designed.
+3. **Independent empirical support** — a separately identified retained-state variable predicts later selection beyond the matched present baseline.
+4. **Intervention / causal support** — manipulating retained state changes selection as preregistered.
+5. **Cross-domain generalisation** — independent replication across materially different systems with separately defensible measurements.
 
 No lower evidence class should be described as if it automatically establishes a higher one.
 
 ---
 
-## Search / Naming Position
+## Naming position
 
-As of 30 August 2026, targeted public-web searches for the exact phrase **“retained-state selection”** return Verrell’s Law / CAAI material prominently and do not reveal an already-established external technical category using the exact phrase in the same sense.
-
-That observation is a **search-position finding, not a novelty or exclusivity proof**.
-
-Prior art may exist under different terminology, in patents, private systems, non-indexed literature or adjacent fields.
-
-The sensible public position is therefore:
-
-> **Use and define the category clearly; do not claim ownership of all stateful or history-conditioned computation.**
-
----
-
-## Category Boundary in One Sentence
+The phrase **Retained-State Selection** is used here as a clear technical category label. Its use does not imply ownership of all stateful, history-conditioned or path-dependent computation.
 
 > **Memory answers what can persist; retained-state selection asks what that persistence is allowed to change when a later choice is made.**
 
 ---
 
-## Canonical References
+## Current references
 
 - [Verrell’s Law — Mathematical Foundations and Falsification Protocol v1.0](VERRELLS_LAW_MATHEMATICAL_FOUNDATIONS_AND_FALSIFICATION_PROTOCOL_v1.0.md)
 - [Empirical Identification Clarification v1.0](VERRELLS_LAW_EMPIRICAL_IDENTIFICATION_CLARIFICATION_v1.0.md)
 - [Retained-State Selection Framework](RETAINED_STATE_SELECTION_FRAMEWORK.md)
 - [CAAI Engineering and Verrell’s Law Research Boundary](CAAI_ENGINEERING_AND_VERRELLS_LAW_RESEARCH_BOUNDARY.md)
-- [Memory-Weighted Selection engineering paper](https://github.com/collapsefield/memory-weighted-selection)
 - [CAAI Public Proof Pack](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack)
 
 ---
 
-**Version:** v1.0  
-**Date:** 30 August 2026  
-**Role:** terminology/category hardening and cross-field positioning; non-canonical companion note.
+Copyright © 2026 Marcos Verrell Moss Ross (M.R.).
