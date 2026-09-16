@@ -1,7 +1,7 @@
 # Verrell’s Law
 
 **Author / originator:** Marcos Verrell Moss Ross (M.R.)  
-**Status:** Proposed falsifiable research framework. Not established physics.
+**Status:** Proposed falsifiable research framework. 
 
 Verrell’s Law is a retained-state selection framework concerned with a simple question:
 
