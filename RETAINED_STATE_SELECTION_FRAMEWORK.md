@@ -135,7 +135,7 @@ If the preregistered relationship fails under adequate controls, the framework i
 
 ---
 
-## Relationship to Collapse Aware AI™
+## Relationship to Collapse Aware AI
 
 Verrell's Law and Collapse Aware AI™ are connected historically but separate evidence tracks.
 
