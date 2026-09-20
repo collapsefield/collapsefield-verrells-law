@@ -140,7 +140,7 @@ If the preregistered relationship fails under adequate controls, the framework i
 Verrell's Law and Collapse Aware AI™ are connected historically but separate evidence tracks.
 
 - **Verrell's Law** = proposed falsifiable retained-state selection research framework.
-- **Collapse Aware AI™** = separate engineering programme for governed retained-state selection.
+- **Collapse Aware AI** = separate engineering programme for governed retained-state selection.
 
 Software intentionally designed to use retained-state influence can demonstrate engineering conformance, replay and inspectability. It does not independently prove that an equivalent mechanism occurs in nature.
 
