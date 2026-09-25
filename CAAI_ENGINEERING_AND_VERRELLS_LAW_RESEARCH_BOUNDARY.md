@@ -1,4 +1,4 @@
-# Collapse Aware AI™ and Verrell's Law — Research / Engineering Boundary
+# Collapse Aware AI and Verrell's Law — Research / Engineering Boundary
 
 **Author / originator:** Marcos Verrell Moss Ross (M.R.)  
 **Status:** Public clarification note  
