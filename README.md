@@ -147,7 +147,7 @@ Use [Archived Document Status](ARCHIVED_DOCUMENT_STATUS.md) when reading histori
 
 ---
 
-## Suggested citation for the September 2026 technical edition
+## September 2026 technical edition
 
 > Ross, M. V. M. (2026). *Verrell’s Law: A Framework for Non-Markovian Information Paths*. Information Physics and Open Quantum Systems Edition, September 2026.
 
