@@ -28,5 +28,3 @@ This edition uses information thermodynamics and non-Markovian open-system langu
 - [Mathematical Foundations and Falsification Protocol v1.0](VERRELLS_LAW_MATHEMATICAL_FOUNDATIONS_AND_FALSIFICATION_PROTOCOL_v1.0.md)
 - [Empirical Identification Clarification v1.0](VERRELLS_LAW_EMPIRICAL_IDENTIFICATION_CLARIFICATION_v1.0.md)
 - [Archived Document Status](ARCHIVED_DOCUMENT_STATUS.md)
-
-Older field, consciousness and physical-speculation material remains in the repository as part of the public development record. It should be read in historical context and does not override the current claim boundaries.
