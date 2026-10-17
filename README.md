@@ -166,4 +166,4 @@ Use [Archived Document Status](ARCHIVED_DOCUMENT_STATUS.md) when reading histori
 
 ---
 
-**Last refreshed:** 14 September 2026
+**Last refreshed:** 17.10.2026
