@@ -1,5 +1,7 @@
 # Public Reader Start Here
 
+**Reading update (17 October 2026):** See [Mathematical Clarification Supplement v1.0](VERRELLS_LAW_MATHEMATICAL_CLARIFICATION_SUPPLEMENT_v1.0.md) for statistical, normalization and inference clarifications. Verrell’s Law remains a proposed framework and is not established physics.
+
 **Author / originator:** Marcos Verrell Moss Ross (M.R.)  
 **Status:** Proposed falsifiable research framework under active investigation  
 **Repository role:** Orientation note for the current research position
