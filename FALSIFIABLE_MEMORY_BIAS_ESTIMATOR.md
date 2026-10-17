@@ -1,5 +1,7 @@
 # A Falsifiable Estimator for Memory-Biased Selection
 
+**Estimator clarification (17 October 2026):** [Mathematical Clarification Supplement v1.0](VERRELLS_LAW_MATHEMATICAL_CLARIFICATION_SUPPLEMENT_v1.0.md) §4 specifies an intercept-bearing empirical model where appropriate, likelihood-based analysis of sampled choices and through-origin OLS as secondary when justified; §5 addresses valid residual checks.
+
 **Verrell's Law — Measurement Note**
 
 > This note is the compact measurement-protocol version of the λ estimator introduced in `MEASURING_MEMORY_BIAS_LAMBDA.md`.
