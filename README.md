@@ -47,11 +47,11 @@ A dated literature-alignment note covering recent process-tensor, multitime-memo
 3. [Mathematical Foundations and Falsification Protocol v1.0](VERRELLS_LAW_MATHEMATICAL_FOUNDATIONS_AND_FALSIFICATION_PROTOCOL_v1.0.md) — canonical retained-state selection specification.
 4. [Mathematical Clarification Supplement v1.0](VERRELLS_LAW_MATHEMATICAL_CLARIFICATION_SUPPLEMENT_v1.0.md) — statistical estimation, score normalization, and evidential-verdict clarifications.
 5. [Empirical Identification Clarification v1.0](VERRELLS_LAW_EMPIRICAL_IDENTIFICATION_CLARIFICATION_v1.0.md) — separates independent empirical evidence from engineering conformance and proxy inference.
-5. [Retained-State Selection Framework](RETAINED_STATE_SELECTION_FRAMEWORK.md) — broader conceptual spine.
-6. [Mathematical Reference v1.3](VERRELLS_LAW_MATHEMATICAL_REFERENCE_v1.3.md) — supporting notation and operational boundaries.
-7. [Falsification Conditions](FALSIFICATION_CONDITIONS.md) — supporting failure conditions and null-verdict language.
-8. [Speculative Extensions](SPECULATIVE_EXTENSIONS.md) — quarantined physical, field and consciousness extensions.
-9. [Archived Document Status](ARCHIVED_DOCUMENT_STATUS.md) — guidance for interpreting older material.
+6. [Retained-State Selection Framework](RETAINED_STATE_SELECTION_FRAMEWORK.md) — broader conceptual spine.
+7. [Mathematical Reference v1.3](VERRELLS_LAW_MATHEMATICAL_REFERENCE_v1.3.md) — supporting notation and operational boundaries.
+8. [Falsification Conditions](FALSIFICATION_CONDITIONS.md) — supporting failure conditions and null-verdict language.
+9. [Speculative Extensions](SPECULATIVE_EXTENSIONS.md) — quarantined physical, field and consciousness extensions.
+10. [Archived Document Status](ARCHIVED_DOCUMENT_STATUS.md) — guidance for interpreting older material.
 
 ---
 
