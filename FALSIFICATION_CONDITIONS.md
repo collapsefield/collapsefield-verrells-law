@@ -1,5 +1,7 @@
 # Falsification Conditions
 
+**Verdict clarification (17 October 2026):** [Mathematical Clarification Supplement v1.0](VERRELLS_LAW_MATHEMATICAL_CLARIFICATION_SUPPLEMENT_v1.0.md) §6 distinguishes indeterminate null-compatible results from adequately powered absence/equivalence findings and requires a prespecified meaningful-effect threshold.
+
 ## Status
 
 This document defines failure conditions for the retained-state form of Verrell's Law.

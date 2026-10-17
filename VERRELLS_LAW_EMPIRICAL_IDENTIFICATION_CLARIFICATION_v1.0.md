@@ -1,6 +1,8 @@
 # Verrell’s Law — Empirical Identification Clarification
 ## Canonical Clarification Supplement v1.0
 
+**Clarification (17 October 2026):** [Mathematical Clarification Supplement v1.0](VERRELLS_LAW_MATHEMATICAL_CLARIFICATION_SUPPLEMENT_v1.0.md) adds post-treatment score cautions and distinguishes measured score influence, observed winner changes and selection-probability changes. Routes A/B/C remain authoritative.
+
 **Status:** Canonical clarification supplement to the Mathematical Foundations and Falsification Protocol v1.0  
 **Date:** 27 July 2026  
 **Author / originator:** Marcos Verrell Moss Ross (M.R.)  

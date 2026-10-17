@@ -1,5 +1,7 @@
 # Verrell's Law Mathematical Reference v1.3
 
+**Mathematical clarification (17 October 2026):** [Mathematical Clarification Supplement v1.0](VERRELLS_LAW_MATHEMATICAL_CLARIFICATION_SUPPLEMENT_v1.0.md) resolves default weight signs, empty-memory and dilution conventions, exact-under-model versus empirical wording, and estimator diagnostics without replacing this historical reference.
+
 ## Version Note
 
 This version aligns the mathematical reference with the retained-state selection framing.
