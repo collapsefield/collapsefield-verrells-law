@@ -3,7 +3,9 @@
 ### Canonical Specification v1.0
 
 **Author / originator:** Marcos Verrell Moss Ross (M.R.)  
-**Status:** Canonical public mathematical specification  
+**Status:** Canonical public mathematical specification
+
+**Clarification notice (17 October 2026):** See [Mathematical Clarification Supplement v1.0](VERRELLS_LAW_MATHEMATICAL_CLARIFICATION_SUPPLEMENT_v1.0.md). Seven adjacent annotations identify superseded sign, diagnostic, normalization and verdict guidance; original historical text remains visible.  
 **Date:** 2026-07-17  
 **Research attribution refresh:** 2026-09-14
 
@@ -69,6 +71,8 @@ Unless a different convention is preregistered and justified, use:
 s_j,d_j,q_j,r_{ij}\in[-1,1].
 ```
 
+*[Clarification: [Mathematical Clarification Supplement v1.0](VERRELLS_LAW_MATHEMATICAL_CLARIFICATION_SUPPLEMENT_v1.0.md) §2 updates default sign domains; only compatibility is signed by default.]*
+
 Dividing by \(n\) bounds the scale of \(R_i\) against arbitrary growth with the number of retained items. An alternative valid convention is to standardize \(\Delta R\) to unit variance within the preregistered trial set.
 
 The normalization convention must be fixed before data collection. This is necessary because the predictions are unchanged under the joint rescaling
@@ -106,6 +110,8 @@ where:
 A **regime** is a fixed system, model version, configuration, candidate construction procedure, scoring convention, normalization rule and test environment. \(\lambda\) is not asserted to transfer unchanged across regimes.
 
 The hypothesis is rejected for a tested system when, under the preregistered protocol, the best-supported \(\lambda\) is statistically compatible with zero, unstable across repetitions, directionally inconsistent, non-predictive out of sample, or when the falsification conditions in Section 12 are met.
+
+*[Clarification: [Mathematical Clarification Supplement v1.0](VERRELLS_LAW_MATHEMATICAL_CLARIFICATION_SUPPLEMENT_v1.0.md) §6 requires adequate power and an indeterminate verdict where meaningful effects cannot be ruled out.]*
 
 This hypothesis is substantially narrower than the general statement that memory affects behaviour. Generic context effects predict only that outcomes may vary when history varies. Verrell's Law predicts a specific quantitative structure linking retained-state compatibility to changes in selection log-odds.
 
@@ -229,6 +235,8 @@ The resulting \(\tilde p_i(T)\) is a measurement mapping for analysis. It does n
 
 Sensitivity analysis should report whether conclusions persist across a small preregistered range of plausible temperatures.
 
+*[Clarification: [Mathematical Clarification Supplement v1.0](VERRELLS_LAW_MATHEMATICAL_CLARIFICATION_SUPPLEMENT_v1.0.md) §4.3 explains why temperature rescaling alone is not a substantive robustness test.]*
+
 ### 7.3 Deterministic systems without candidate scores
 
 Where only the selected label is observable, estimate selection frequencies over repeated matched trials with controlled perturbations or seeds. A single deterministic output cannot identify \(\lambda\).
@@ -285,6 +293,8 @@ Required diagnostics include:
 - whether \(\lambda\) is positive and distinguishable from zero;
 - whether residuals show systematic structure;
 - whether residuals are correlated with \(\Delta R\);
+
+*[Clarification: [Mathematical Clarification Supplement v1.0](VERRELLS_LAW_MATHEMATICAL_CLARIFICATION_SUPPLEMENT_v1.0.md) §5 replaces vacuous in-sample residual orthogonality with held-out, calibration and nonlinear checks.]*
 - whether the estimate is stable across repetitions;
 - whether the fitted model predicts held-out trials.
 
@@ -352,6 +362,8 @@ Exploratory analyses may be reported, but they must be clearly separated from co
 The hypothesis is weakened or rejected for the tested regime when one or more of the following holds:
 
 1. The best-supported \(\lambda\) is statistically compatible with zero.
+
+*[Clarification: [Mathematical Clarification Supplement v1.0](VERRELLS_LAW_MATHEMATICAL_CLARIFICATION_SUPPLEMENT_v1.0.md) §6 distinguishes adequately powered absence or equivalence findings from indeterminate null-compatible results.]*
 2. The fitted \(\lambda\) is reliably negative under the declared compatibility sign convention.
 3. The measured relationship disappears under preregistered replication.
 4. The estimate is unstable across equivalent repetitions within the declared regime.
@@ -359,6 +371,8 @@ The hypothesis is weakened or rejected for the tested regime when one or more of
 6. The apparent effect is explained by prompt leakage, candidate leakage, ordinary context injection, truncation, hidden state or another uncontrolled variable.
 7. A materially non-zero intercept indicates systematic mismatch between conditions.
 8. Residuals remain systematically correlated with \(\Delta R\) or show strong preregistered model violation.
+
+*[Clarification: [Mathematical Clarification Supplement v1.0](VERRELLS_LAW_MATHEMATICAL_CLARIFICATION_SUPPLEMENT_v1.0.md) §5 replaces estimator-imposed residual orthogonality tests with valid specification diagnostics.]*
 9. The result depends on post-hoc changes to scoring weights, exclusions, normalization or stopping rules.
 10. A simpler baseline model explains the observations equally well or better.
 11. The fitted relationship fails to predict held-out trials.
@@ -467,6 +481,8 @@ In first-order form:
 ```
 
 The claim is rejected for a tested regime when \(\lambda\) is zero, negative under the declared sign convention, unstable, non-predictive, attributable to uncontrolled variables, or otherwise fails the preregistered falsification conditions.
+
+*[Clarification: [Mathematical Clarification Supplement v1.0](VERRELLS_LAW_MATHEMATICAL_CLARIFICATION_SUPPLEMENT_v1.0.md) §6 requires adequate power, preregistered meaningful effects and a three-way verdict.]*
 
 ---
 
