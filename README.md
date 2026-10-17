@@ -45,7 +45,8 @@ A dated literature-alignment note covering recent process-tensor, multitime-memo
 1. [Public Reader Start Here](PUBLIC_READER_START_HERE.md) — short orientation and claim boundary.
 2. [Retained-State Selection Research Index](00_RETAINED_STATE_SELECTION_INDEX.md) — map of the current research programme.
 3. [Mathematical Foundations and Falsification Protocol v1.0](VERRELLS_LAW_MATHEMATICAL_FOUNDATIONS_AND_FALSIFICATION_PROTOCOL_v1.0.md) — canonical retained-state selection specification.
-4. [Empirical Identification Clarification v1.0](VERRELLS_LAW_EMPIRICAL_IDENTIFICATION_CLARIFICATION_v1.0.md) — separates independent empirical evidence from engineering conformance and proxy inference.
+4. [Mathematical Clarification Supplement v1.0](VERRELLS_LAW_MATHEMATICAL_CLARIFICATION_SUPPLEMENT_v1.0.md) — statistical estimation, score normalization, and evidential-verdict clarifications.
+5. [Empirical Identification Clarification v1.0](VERRELLS_LAW_EMPIRICAL_IDENTIFICATION_CLARIFICATION_v1.0.md) — separates independent empirical evidence from engineering conformance and proxy inference.
 5. [Retained-State Selection Framework](RETAINED_STATE_SELECTION_FRAMEWORK.md) — broader conceptual spine.
 6. [Mathematical Reference v1.3](VERRELLS_LAW_MATHEMATICAL_REFERENCE_v1.3.md) — supporting notation and operational boundaries.
 7. [Falsification Conditions](FALSIFICATION_CONDITIONS.md) — supporting failure conditions and null-verdict language.
@@ -56,7 +57,7 @@ A dated literature-alignment note covering recent process-tensor, multitime-memo
 
 ## Minimal retained-state selection spine
 
-A current canonical first-order relationship is:
+The canonical exponential-tilt relation (exact under its specified selection model, an empirical hypothesis when applied to independent observations) is:
 
 ```math
 \Delta L = \lambda\Delta R
