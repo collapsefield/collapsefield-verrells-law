@@ -55,6 +55,18 @@ A dated literature-alignment note covering recent process-tensor, multitime-memo
 
 ---
 
+## Analysis-validation research tool — v0.1.5 (17 October 2026)
+
+**[Download the Python analysis-validation package v0.1.5](VERRELLS_LAW_ANALYSIS_VALIDATION_v0.1.5_APPROVED_FOR_PUBLICATION_20261017.zip)**
+
+This standalone, reproducible **Route B synthetic analysis-validation tool** tests whether a declared analysis pipeline can recover a known retained-state coefficient, handle null and wrong-direction cases, screen nonlinear misspecification, and avoid certain spurious-history conclusions. The archive includes Python source, instructions, example output and automated tests; extract the ZIP and follow its bundled README.
+
+The release-review suite passed **24/24 tests**, including a 2,000-replication null and confidence-interval coverage gate. A programmed synthetic relation is **not** independent empirical evidence for Verrell's Law or a physical mechanism.
+
+**Scope limits:** synthetic data with oracle-known baseline offsets; declared linearity-equivalence tolerance and fail-closed near-separation screens. It does not establish independent domain-specific retained-state compatibility, analyse human observations, estimate real-world baselines, prove distinctiveness over conventional models, or provide an experimental power calculation. See the package README for full limits and reproduction commands.
+
+---
+
 ## Minimal retained-state selection spine
 
 The canonical exponential-tilt relation (exact under its specified selection model, an empirical hypothesis when applied to independent observations) is:
