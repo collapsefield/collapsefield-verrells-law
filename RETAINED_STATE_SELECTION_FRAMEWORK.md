@@ -2,7 +2,6 @@
 
 **Author / originator:** Marcos Verrell Moss Ross (M.R.)  
 **Status:** Current public conceptual framework  
-**Updated:** 14 September 2026
 
 ---
 
