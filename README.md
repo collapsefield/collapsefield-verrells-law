@@ -1,7 +1,7 @@
 # Verrell’s Law — Public Research Archive
 
 **Author / originator:** Marcos Verrell Moss Ross (M.R.)  
-**Status:** Proposed falsifiable research framework. Not established physics.  
+**Status:** Proposed falsifiable research framework.  
 **Repository role:** Current research index, mathematical specification, experimental notes, authorship record and historical archive.
 
 ---
@@ -28,7 +28,7 @@ This physics-facing edition develops a separate, stricter formulation using info
 
 Its status is explicit:
 
-> **Proposed theoretical model. Not established physics and not experimentally confirmed.**
+> **Proposed theoretical model. Not experimentally confirmed.**
 
 The distinctive physical question is not whether non-Markovian memory exists. It is whether a **predeclared weighting variable** identifies an additional, reproducible history-dependent contribution beyond the best conventional model.
 
