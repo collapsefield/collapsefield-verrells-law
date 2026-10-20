@@ -140,6 +140,12 @@ Physical, biological, cognitive and engineered systems may share abstract retain
 
 ---
 
+## Associated engineering working paper
+
+**[Memory-Weighted Selection: Middleware for Continuity and Governed Behaviour in LLM Systems](https://github.com/collapsefield/memory-weighted-selection)** develops a public reference formulation for host-supplied candidate selection under retained-state influence and explicit governance. It is a separate software-engineering programme; its worked examples are not independent experimental evidence for Verrell’s Law. The existing paper and its source are maintained in their dedicated repository.
+
+---
+
 ## Engineering boundary
 
 Software can be used to demonstrate and test deliberately constructed retained-state selection behaviour. Such behaviour is useful engineering evidence about that system.
