@@ -6,6 +6,12 @@
 **Status:** Proposed falsifiable research framework under active investigation  
 **Repository role:** Orientation note for the current research position
 
+## Working framework status
+
+Verrell’s Law is a working retained-state selection research framework, developed publicly and under active investigation. Its formulation is revised through scrutiny, examination of assumptions and correction of earlier wording. Claims may be tightened, narrowed or withdrawn when analysis warrants. This revision process does not itself establish the framework’s validity. Earlier versions are preserved as a provenance record. The documents listed below state the current position; explicit corrections and current specifications take precedence over conflicting historical material within their stated scope.
+
+Electromagnetic (EM) and other field-based mechanisms remain open, unconfirmed research hypotheses. They require separate operational definitions, controls and evidence and are not assumed by the retained-state formulation. Narrowing the core claim does not, by itself, rule them out.
+
 ---
 
 ## 1. The shortest explanation
@@ -36,8 +42,10 @@ The primary general mathematical references remain:
 
 - [Mathematical Foundations and Falsification Protocol v1.0](VERRELLS_LAW_MATHEMATICAL_FOUNDATIONS_AND_FALSIFICATION_PROTOCOL_v1.0.md)
 - [Empirical Identification Clarification v1.0](VERRELLS_LAW_EMPIRICAL_IDENTIFICATION_CLARIFICATION_v1.0.md)
+- [Mathematical Clarification Supplement v1.0](VERRELLS_LAW_MATHEMATICAL_CLARIFICATION_SUPPLEMENT_v1.0.md)
+- [Mathematical Clarifications and Open Problems v1.0](MATHEMATICAL_CLARIFICATIONS_AND_OPEN_PROBLEMS_v1.0.md)
 
-The first-order relationship is expressed as:
+The canonical exponential-tilt relationship is exact within its specified selection family and is an empirical hypothesis when applied to independent observations:
 
 ```math
 \Delta L = \lambda\Delta R
@@ -139,4 +147,4 @@ Current public materials should be judged by their stated claim boundaries, test
 
 ---
 
-**Last refreshed:** 11 September 2026
+**Last refreshed:** 31 October 2026

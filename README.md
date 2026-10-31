@@ -4,6 +4,12 @@
 **Status:** Proposed falsifiable research framework.  
 **Repository role:** Current research index, mathematical specification, experimental notes, authorship record and historical archive.
 
+## Working framework status
+
+Verrell’s Law is a working retained-state selection research framework, developed publicly and under active investigation. Its formulation is revised through scrutiny, examination of assumptions and correction of earlier wording. Claims may be tightened, narrowed or withdrawn when analysis warrants. This revision process does not itself establish the framework’s validity. Earlier versions are preserved as a provenance record. The documents listed below state the current position; explicit corrections and current specifications take precedence over conflicting historical material within their stated scope.
+
+Electromagnetic (EM) and other field-based mechanisms remain open, unconfirmed research hypotheses. They require separate operational definitions, controls and evidence and are not assumed by the retained-state formulation. Narrowing the core claim does not, by itself, rule them out.
+
 ---
 
 ## Current research position
