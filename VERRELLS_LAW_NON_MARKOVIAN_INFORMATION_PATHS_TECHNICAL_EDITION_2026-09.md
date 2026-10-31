@@ -112,7 +112,7 @@ The current scientific position is deliberately narrow: the formulation is falsi
 
 The complete 14-page technical edition is stored alongside this note:
 
-**`VERRELLS_LAW_NON_MARKOVIAN_INFORMATION_PATHS_TECHNICAL_EDITION_2026-09.pdf`**
+**[Full technical paper (PDF)](Verrells_Law_Non_Markovian_Information_Paths_2026.pdf)**
 
 Suggested citation:
 
