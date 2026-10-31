@@ -31,14 +31,14 @@ Then ΔL = λr is exact within this specified family. Its applicability to indep
 For a genuinely binary choice, let Y=1 mean a and Y=0 mean b. If the baseline log-odds are independently known as b_k, the corresponding observation model is
 
 ```math
-Y_k\sim\operatorname{Bernoulli}(p_k),\qquad
-\operatorname{logit}(p_k)=b_k+\alpha+\lambda r_k.
+Y_k\sim\mathrm{Bernoulli}(p_k),\qquad
+\log\frac{p_k}{1-p_k}=b_k+\alpha+\lambda r_k.
 ```
 
 Here b_k is an offset; α is an identifiable baseline-mismatch term when the design permits one. Alternatively, a jointly estimated baseline may be specified as
 
 ```math
-\operatorname{logit}(p_k)=\beta_0+\beta^\top S_k+\lambda r_k.
+\log\frac{p_k}{1-p_k}=\beta_0+\beta^\top S_k+\lambda r_k.
 ```
 
 This alternative adds an assumption: the declared present-condition covariates adequately specify baseline log-odds. The coefficients β are nuisance parameters, not separately measured physical constants. A fitted intercept in this joint model is part of the baseline, not automatically evidence of mismatch. Baseline uncertainty must enter inference and held-out evaluation. An unrestricted history-dependent baseline can absorb λr and destroy identification.

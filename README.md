@@ -86,8 +86,8 @@ where `ΔL` is the candidate-relative change in selection log-odds and `ΔR` is 
 For observed binary choices, with independently known baseline log-odds `b_k`, the confirmatory observation model is:
 
 ```math
-Y_k\sim\operatorname{Bernoulli}(p_k),\qquad
-\operatorname{logit}(p_k)=b_k+\alpha+\lambda r_k,\qquad r_k=\Delta R_k.
+Y_k\sim\mathrm{Bernoulli}(p_k),\qquad
+\log\frac{p_k}{1-p_k}=b_k+\alpha+\lambda r_k,\qquad r_k=\Delta R_k.
 ```
 
 Here `Y_k=1` denotes candidate `a`, `Y_k=0` denotes candidate `b`, and `α` allows identifiable baseline mismatch. Repeated choices require design-appropriate dependence treatment. Regression on independently measured `ΔL` remains a separate analysis route; its residual `ε_k` is not an extra noise term silently inserted into the logit. If the baseline is estimated rather than known, its model and uncertainty must be specified. See [Mathematical Clarifications and Open Problems v1.0, §2](MATHEMATICAL_CLARIFICATIONS_AND_OPEN_PROBLEMS_v1.0.md#2-exact-selection-identity-and-binary-evaluation-model).
