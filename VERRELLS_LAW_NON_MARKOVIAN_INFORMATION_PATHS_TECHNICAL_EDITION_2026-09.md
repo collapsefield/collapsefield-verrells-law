@@ -51,9 +51,12 @@ g(w(\tau),H(\tau);\theta)K_V(t,\tau)
 
 where:
 
+- `C` denotes measured controls; `w(τ)` is the time-resolved physical weight and `W` its history; `H` denotes the prepared retained-history condition, with `H(τ)` its time-resolved representation;
 - `K0` is the best supported conventional memory model under measured controls;
 - `KV` is a declared candidate history-weighted structure;
 - `g` specifies how prepared history and the physical weighting variable modulate that candidate structure.
+
+Fix the candidate kernel's basis, scale and sign convention, together with the parameterization of `g`, before confirmatory fitting. Otherwise `g` and `KV` can be rescaled without changing their product, and components overlapping `K0` may remain non-identifiable. See [Mathematical Clarifications and Open Problems v1.0, §5](MATHEMATICAL_CLARIFICATIONS_AND_OPEN_PROBLEMS_v1.0.md#5-memory-kernel-decomposition-is-not-unique-without-restrictions).
 
 A non-zero fitted memory kernel alone is **not** evidence for the proposed contribution. The additional term must improve held-out prediction, follow the preregistered weighting relation, and change appropriately under intervention on the retained history or weighting variable.
 

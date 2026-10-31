@@ -77,11 +77,14 @@ The canonical exponential-tilt relation (exact under its specified selection mod
 
 where `ΔL` is the candidate-relative change in selection log-odds and `ΔR` is a preregistered, normalized retained-state compatibility difference.
 
-A confirmatory analysis can be written as:
+For observed binary choices, with independently known baseline log-odds `b_k`, the confirmatory observation model is:
 
 ```math
-\Delta L_k = \alpha + \lambda\Delta R_k + \varepsilon_k
+Y_k\sim\operatorname{Bernoulli}(p_k),\qquad
+\operatorname{logit}(p_k)=b_k+\alpha+\lambda r_k,\qquad r_k=\Delta R_k.
 ```
+
+Here `Y_k=1` denotes candidate `a`, `Y_k=0` denotes candidate `b`, and `α` allows identifiable baseline mismatch. Repeated choices require design-appropriate dependence treatment. Regression on independently measured `ΔL` remains a separate analysis route; its residual `ε_k` is not an extra noise term silently inserted into the logit. If the baseline is estimated rather than known, its model and uncertainty must be specified. See [Mathematical Clarifications and Open Problems v1.0, §2](MATHEMATICAL_CLARIFICATIONS_AND_OPEN_PROBLEMS_v1.0.md#2-exact-selection-identity-and-binary-evaluation-model).
 
 The score definition, scale, sign convention, baseline, inclusion rules and analysis plan must be fixed appropriately before confirmatory testing.
 
@@ -104,6 +107,8 @@ K_0(t,\tau \mid C)
 +
 g(w(\tau),H(\tau);\theta)K_V(t,\tau)
 ```
+
+Here `C` denotes measured controls; `w(τ)` is the time-resolved physical weight and `W` its history; `H` denotes the prepared retained-history condition, with `H(τ)` its time-resolved representation. Kernel scale, sign and identifiability restrictions are set out in [Mathematical Clarifications and Open Problems v1.0, §5](MATHEMATICAL_CLARIFICATIONS_AND_OPEN_PROBLEMS_v1.0.md#5-memory-kernel-decomposition-is-not-unique-without-restrictions).
 
 A non-zero memory kernel alone does not support the proposed extension. The additional term must improve held-out prediction, follow the predeclared weighting relation and respond correctly to intervention on retained history or weight.
 
@@ -166,10 +171,10 @@ Use [Archived Document Status](ARCHIVED_DOCUMENT_STATUS.md) when reading histori
 
 ---
 
-## September 2026 technical edition
+## Citation — September 2026 technical edition
 
 > Ross, M. V. M. (2026). *Verrell’s Law: A Framework for Non-Markovian Information Paths*. Information Physics and Open Quantum Systems Edition, September 2026.
 
 ---
 
-**Last refreshed:** 17.10.2026
+**Last refreshed:** 31.10.2026
