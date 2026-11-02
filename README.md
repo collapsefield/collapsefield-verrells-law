@@ -46,6 +46,12 @@ A dated literature-alignment note covering recent process-tensor, multitime-memo
 
 ---
 
+## November 2026 research-status update
+
+[Research Status and Testing Note — 2 November 2026](VERRELLS_LAW_RESEARCH_STATUS_AND_TESTING_2026-11.md) — private mathematical audits summarised with explicit simulation, prior-art and empirical-evidence boundaries. The original retained-state proposition and canonical equations are unchanged.
+
+---
+
 ## Core research documents
 
 1. [Public Reader Start Here](PUBLIC_READER_START_HERE.md) — short orientation and claim boundary.
@@ -183,4 +189,4 @@ Use [Archived Document Status](ARCHIVED_DOCUMENT_STATUS.md) when reading histori
 
 ---
 
-**Last refreshed:** 31.10.2026
+**Last refreshed:** 02.11.2026
