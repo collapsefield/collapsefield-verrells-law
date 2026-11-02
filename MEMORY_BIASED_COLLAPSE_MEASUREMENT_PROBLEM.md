@@ -1,5 +1,8 @@
 A Memory-Biased Collapse Model for the Quantum Measurement Problem
 
+**Historical research correction — 2 November 2026:** This essay is an exploratory candidate physical extension, not the canonical retained-state selection framework. Its statements that no-signalling *holds* merely when β·B is small are incorrect for the examined nonlinear outcome-tilt construction: an arbitrarily small nonzero tilt can still permit signalling. Small bias alone does not establish exact physical consistency. In §5, the candidate-independent term −λ_τΔt cancels in the outcome normalisation if Δt is common to all candidates, so it does not implement decay. The bias components and any physically consistent replacement remain unresolved; no empirical quantum modification is demonstrated. See [November research status](VERRELLS_LAW_RESEARCH_STATUS_AND_TESTING_2026-11.md). The original essay is preserved below for historical provenance.
+
+
 A Verrell's Law Candidate Interpretation of Observer-Weighted Collapse
 
 
