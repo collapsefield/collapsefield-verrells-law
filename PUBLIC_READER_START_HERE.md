@@ -1,6 +1,6 @@
 # Public Reader Start Here
 
-**Reading update (17 October 2026):** See [Mathematical Clarification Supplement v1.0](VERRELLS_LAW_MATHEMATICAL_CLARIFICATION_SUPPLEMENT_v1.0.md) for statistical, normalization and inference clarifications. Verrell’s Law remains a proposed framework and is not established physics.
+**Research update:** See the [2 November Research Status and Testing Note](VERRELLS_LAW_RESEARCH_STATUS_AND_TESTING_2026-11.md) for mathematical progress, model comparisons and next tests; the [October clarification supplement](VERRELLS_LAW_MATHEMATICAL_CLARIFICATION_SUPPLEMENT_v1.0.md) provides statistical and inference details.
 
 **Author / originator:** Marcos Verrell Moss Ross (M.R.)  
 **Status:** Proposed falsifiable research framework under active investigation  
@@ -8,9 +8,9 @@
 
 ## Working framework status
 
-Verrell’s Law is a working retained-state selection research framework, developed publicly and under active investigation. Its formulation is revised through scrutiny, examination of assumptions and correction of earlier wording. Claims may be tightened, narrowed or withdrawn when analysis warrants. This revision process does not itself establish the framework’s validity. Earlier versions are preserved as a provenance record. The documents listed below state the current position; explicit corrections and current specifications take precedence over conflicting historical material within their stated scope.
+Verrell’s Law is a working retained-state selection framework developed through mathematical modelling, comparative review and an expanding experimental programme. Recent work has clarified its selection equations, parameter-identification requirements and falsifiable predictions. Earlier versions remain preserved in the research archive; current specifications and dated corrections guide ongoing work.
 
-Electromagnetic (EM) and other field-based mechanisms remain open, unconfirmed research hypotheses. They require separate operational definitions, controls and evidence and are not assumed by the retained-state formulation. Narrowing the core claim does not, by itself, rule them out.
+Electromagnetic (EM) and other field-based mechanisms form a separate exploratory research branch, with their own operational definitions, controls and evidence requirements.
 
 ---
 
@@ -59,9 +59,7 @@ The September 2026 paper adds a separate open-system formulation:
 
 - [Verrell’s Law — A Framework for Non-Markovian Information Paths](VERRELLS_LAW_NON_MARKOVIAN_INFORMATION_PATHS_TECHNICAL_EDITION_2026-09.md)
 
-Its status is explicitly:
-
-> **Proposed theoretical model. Not established physics and not experimentally confirmed.**
+**Research status:** Theoretical model and proposed experimental programme.
 
 It asks whether a predeclared measure of physical transition weight identifies a reproducible history-dependent contribution beyond the best conventional open-system memory model.
 
@@ -81,7 +79,7 @@ The current research position does not require or establish:
 - one identical mechanism across software, cognition, biology and physics;
 - software behaviour as proof of a natural law.
 
-Older speculative material is preserved for provenance but does not override these boundaries.
+Earlier exploratory material remains archived for provenance; current specifications and corrections govern its interpretation.
 
 ---
 
@@ -134,7 +132,7 @@ It is not, by construction, independent confirmation of a physical, biological o
 5. [Verrell’s Law — A Framework for Non-Markovian Information Paths](VERRELLS_LAW_NON_MARKOVIAN_INFORMATION_PATHS_TECHNICAL_EDITION_2026-09.md)
 6. [Retained-State Selection Framework](RETAINED_STATE_SELECTION_FRAMEWORK.md)
 7. [Falsification Conditions](FALSIFICATION_CONDITIONS.md)
-8. [Speculative Extensions](SPECULATIVE_EXTENSIONS.md)
+8. [Exploratory Extensions](SPECULATIVE_EXTENSIONS.md)
 9. [Archived Document Status](ARCHIVED_DOCUMENT_STATUS.md)
 
 ---
