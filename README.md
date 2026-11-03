@@ -6,9 +6,7 @@
 
 ## Working framework status
 
-Verrell’s Law is a working retained-state selection framework developed through mathematical modelling, comparative review and an expanding experimental programme. Recent work has clarified its selection equations, parameter-identification requirements and falsifiable predictions. Earlier versions remain preserved in the research archive; the current specifications and dated corrections guide ongoing work.
-
-Electromagnetic (EM) and other field-based mechanisms form a separate exploratory research branch, with their own operational definitions, controls and evidence requirements.
+Verrell’s Law develops a testable mathematical framework for how retained history may influence subsequent selection. The archive documents its evolving formulation, research results, experimental programme and original development record.
 
 ---
 
@@ -58,7 +56,7 @@ A dated literature-alignment note covering recent process-tensor, multitime-memo
 6. [Retained-State Selection Framework](RETAINED_STATE_SELECTION_FRAMEWORK.md) — broader conceptual spine.
 7. [Mathematical Reference v1.3](VERRELLS_LAW_MATHEMATICAL_REFERENCE_v1.3.md) — supporting notation and operational boundaries.
 8. [Falsification Conditions](FALSIFICATION_CONDITIONS.md) — supporting failure conditions and null-verdict language.
-9. [Speculative Extensions](SPECULATIVE_EXTENSIONS.md) — quarantined physical, field and consciousness extensions.
+9. [Exploratory Extensions](SPECULATIVE_EXTENSIONS.md) — further research into field, physical and consciousness-related mechanisms.
 10. [Archived Document Status](ARCHIVED_DOCUMENT_STATUS.md) — guidance for interpreting older material.
 
 ---
@@ -101,6 +99,8 @@ For independent evidence, the rule producing `ΔR` must be frozen independently 
 ---
 
 ## Physics-facing extension
+
+The research also investigates **field-mediated and physical memory effects**, including possible electromagnetic, biological, environmental and quantum-system contributions. These pathways remain open to measurement and comparison; see [Retained-State Mechanism and Field Boundary](RETAINED_STATE_MECHANISM_AND_FIELD_BOUNDARY.md).
 
 The September 2026 technical edition asks a different but related laboratory question:
 
