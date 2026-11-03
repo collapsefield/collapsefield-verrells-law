@@ -6,9 +6,9 @@
 
 ## Working framework status
 
-Verrell’s Law is a working retained-state selection research framework, developed publicly and under active investigation. Its formulation is revised through scrutiny, examination of assumptions and correction of earlier wording. Claims may be tightened, narrowed or withdrawn when analysis warrants. This revision process does not itself establish the framework’s validity. Earlier versions are preserved as a provenance record. The documents listed below state the current position; explicit corrections and current specifications take precedence over conflicting historical material within their stated scope.
+Verrell’s Law is a working retained-state selection framework developed through mathematical modelling, comparative review and an expanding experimental programme. Recent work has clarified its selection equations, parameter-identification requirements and falsifiable predictions. Earlier versions remain preserved in the research archive; the current specifications and dated corrections guide ongoing work.
 
-Electromagnetic (EM) and other field-based mechanisms remain open, unconfirmed research hypotheses. They require separate operational definitions, controls and evidence and are not assumed by the retained-state formulation. Narrowing the core claim does not, by itself, rule them out.
+Electromagnetic (EM) and other field-based mechanisms form a separate exploratory research branch, with their own operational definitions, controls and evidence requirements.
 
 ---
 
@@ -18,9 +18,7 @@ Verrell’s Law is presently framed around **retained-state selection**:
 
 > **When present conditions are held equivalent, can different retained histories produce a measurable, directional and intervention-sensitive difference in what is selected next?**
 
-The framework does not claim that memory, hysteresis, non-Markovian dynamics, Bayesian updating, reinforcement learning or path dependence are new discoveries.
-
-Its narrower research contribution is to make retained history an explicit variable that can be declared before testing, measured against a present-state reference, challenged through intervention / ablation, and rejected in a tested regime when the predicted relationship does not survive controls.
+The research contribution is a specific, testable formulation: retained history enters selection through a declared variable, measured against matched present-state conditions and examined through intervention, ablation and comparison with established history-sensitive models.
 
 A null result is evidence about the tested regime. Measurement limits may matter to experimental design, but lack of detection is not evidence that an undetected mechanism exists.
 
@@ -32,9 +30,7 @@ A null result is evidence about the tested regime. Measurement limits may matter
 
 This physics-facing edition develops a separate, stricter formulation using information thermodynamics, generalized open-system memory kernels and intervention-sensitive history tests.
 
-Its status is explicit:
-
-> **Proposed theoretical model. Not experimentally confirmed.**
+**Research status:** Theoretical model and proposed experimental programme.
 
 The distinctive physical question is not whether non-Markovian memory exists. It is whether a **predeclared weighting variable** identifies an additional, reproducible history-dependent contribution beyond the best conventional model.
 
@@ -42,13 +38,13 @@ Established non-Markovianity is therefore the baseline to beat, not evidence to 
 
 ### [Recent Non-Markovian Research Alignment — 14 September 2026](2026-09-14_RECENT_NON_MARKOVIAN_RESEARCH_ALIGNMENT.md)
 
-A dated literature-alignment note covering recent process-tensor, multitime-memory, causal-break and non-Markovian thermodynamics work that can sharpen controls and experimental design. These external precedents are treated as context and baseline science, **not** as confirmation of the proposed additional history-weighted term.
+A dated literature-alignment note covering recent process-tensor, multitime-memory, causal-break and non-Markovian thermodynamics work that can sharpen controls and experimental design. These external studies provide comparison models and design guidance for testing the proposed additional history-weighted term.
 
 ---
 
 ## November 2026 research-status update
 
-[Research Status and Testing Note — 2 November 2026](VERRELLS_LAW_RESEARCH_STATUS_AND_TESTING_2026-11.md) — private mathematical audits summarised with explicit simulation, prior-art and empirical-evidence boundaries. The original retained-state proposition and canonical equations are unchanged.
+[Research Status and Testing Note — 2 November 2026](VERRELLS_LAW_RESEARCH_STATUS_AND_TESTING_2026-11.md) — mathematical advances, model comparisons, experimental priorities and scoped corrections to exploratory extensions. The core retained-state proposition and canonical equations are unchanged.
 
 ---
 
@@ -73,9 +69,9 @@ A dated literature-alignment note covering recent process-tensor, multitime-memo
 
 This standalone, reproducible **Route B synthetic analysis-validation tool** tests whether a declared analysis pipeline can recover a known retained-state coefficient, handle null and wrong-direction cases, screen nonlinear misspecification, and avoid certain spurious-history conclusions. The archive includes Python source, instructions, example output and automated tests; extract the ZIP and follow its bundled README.
 
-The release-review suite passed **24/24 tests**, including a 2,000-replication null and confidence-interval coverage gate. A programmed synthetic relation is **not** independent empirical evidence for Verrell's Law or a physical mechanism.
+The release-review suite passed **24/24 tests**, including a 2,000-replication null and confidence-interval coverage gate.
 
-**Scope limits:** synthetic data with oracle-known baseline offsets; declared linearity-equivalence tolerance and fail-closed near-separation screens. It does not establish independent domain-specific retained-state compatibility, analyse human observations, estimate real-world baselines, prove distinctiveness over conventional models, or provide an experimental power calculation. See the package README for full limits and reproduction commands.
+**Test scope:** synthetic data with oracle-known baseline offsets, declared linearity-equivalence tolerance and fail-closed near-separation screens. Domain-specific observations, independently estimated baselines, power planning and conventional-model comparisons form the subsequent empirical programme. See the package README for reproduction commands and detailed conditions.
 
 ---
 
@@ -175,7 +171,7 @@ The associated engineering programme is maintained separately from this research
 
 ## Archive status
 
-This repository intentionally preserves earlier wording, speculative notes and superseded mathematical attempts as part of the public development and provenance record.
+This repository preserves earlier wording, exploratory notes and superseded mathematical attempts as part of its public development and provenance record.
 
 Older material should not be treated as the current strongest position where later documents have narrowed, corrected or superseded it.
 
