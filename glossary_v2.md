@@ -1,5 +1,8 @@
 # 📚 Glossary of Core Concepts (Verrell's Law v2.0)
 
+> **Historical terminology notice — 4 November 2026.** This v2 glossary records an earlier exploratory field-memory/consciousness vocabulary, not the canonical definitions of Verrell's Law. Assertions below concerning non-local memory fields, unique EM consciousness signatures or influence on physical collapse are unverified hypotheses, not observed findings. The current framework is retained-state selection without any required EM carrier; consult [About](ABOUT_VERRELLS_LAW.md), [November research status](VERRELLS_LAW_RESEARCH_STATUS_AND_TESTING_2026-11.md), and [Archived Document Status](ARCHIVED_DOCUMENT_STATUS.md). The historical glossary remains intact below.
+
+
 This glossary defines foundational terminology used throughout the Verrell’s Law research framework, including experimental design, memetic seeding (Echo Protocol), and theoretical interpretation.
 
 ---
