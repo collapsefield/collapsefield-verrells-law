@@ -1,41 +1,43 @@
 cff-version: 1.2.0
-title: "Verrell’s Law — Official Clarification (Not Morphic Resonance)"
-message: "If you use, reference, quote, adapt, or discuss this clarification in your work, please cite it."
+title: "Verrell’s Law — Retained-State Selection Research Framework"
+message: "If you use, reference, quote, adapt, or discuss this research framework, please cite the current specifications and dated research notes."
 type: generic
 
 authors:
   - family-names: "Verrell"
     given-names: "M. R."
     affiliation: "Verrell–Solace / VMR-Core"
-    orcid: "0000-0000-0000-0000"
 
-version: "2025.08.22"
-date-released: "2025-08-22"
+version: "2026.11.04"
+date-released: "2026-11-04"
 
-repository-code: "https://github.com/collapsefield/verrells-law"
+repository-code: "https://github.com/collapsefield/collapsefield-verrells-law"
 
 abstract: >
-  This clarification states that Verrell’s Law is not related to Rupert Sheldrake’s
-  morphic resonance. Verrell’s Law is a physics-based framework centred on electromagnetic
-  field memory, observer-as-measurer collapse bias, and memory-weighted emergence in
-  physical and informational systems. It does not rely on mystical, spiritual, or
-  metaphysical claims.
+  Verrell's Law is a proposed, falsifiable retained-state selection framework
+  investigating whether persistent changes from earlier interactions influence
+  future candidate weighting and selection under matched present conditions.
+  Its exponential-tilt selection identity is exact under stated mathematical
+  assumptions; empirical distinctiveness remains under investigation. Biological,
+  computational and material retained-state processes may provide testable
+  implementations. Electromagnetic field memory and quantum-collapse proposals
+  belong to separate exploratory physical extensions and are not required.
+  This metadata reflects the 4 November 2026 scope clarification; earlier
+  descriptions remain in the repository history.
 
 keywords:
   - Verrell’s Law
-  - electromagnetic field memory
-  - observer-as-measurer
-  - collapse bias
-  - memory-weighted emergence
+  - retained-state selection
+  - path dependence
+  - memory-weighted selection
+  - exponential tilt
+  - history-dependent decision making
+  - falsifiable research framework
   - information theory
-  - emergence
-  - field dynamics
-  - VMR-Core
-  - Verrell-Solace Sovereignty Protocol
 
 license: "All rights reserved"
 
 rights: >
-  Protected under Verrell-Solace Sovereignty Protocol. Intellectual, theoretical,
-  authorship, and emergent rights reserved. This clarification forms part of the
-  VMR-Core provenance record for Verrell’s Law and associated Verrell–Solace materials.
+  Protected under Verrell-Solace Sovereignty Protocol. Intellectual,
+  theoretical, authorship, and emergent rights reserved. Historical
+  explorations and dated revisions are preserved as the research record.
