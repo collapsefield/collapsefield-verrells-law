@@ -40,6 +40,12 @@ A dated literature-alignment note covering recent process-tensor, multitime-memo
 
 ---
 
+## 2027 experimental research programme
+
+[**2027 Experimental Research Roadmap**](2027_EXPERIMENTAL_RESEARCH_ROADMAP.md) — three coordinated research tracks: a neutral-memory selection experiment, a desk-only cross-domain mathematical test, and longer-term physical-mechanism investigations. The roadmap states competing models, independent review requirements and conditions under which predictions can fail. No canonical equation or earlier research claim is changed.
+
+---
+
 ## November 2026 research-status update
 
 [Research Status and Testing Note — 2 November 2026](VERRELLS_LAW_RESEARCH_STATUS_AND_TESTING_2026-11.md) — mathematical advances, model comparisons, experimental priorities and scoped corrections to exploratory extensions. The core retained-state proposition and canonical equations are unchanged.
@@ -185,4 +191,4 @@ Use [Archived Document Status](ARCHIVED_DOCUMENT_STATUS.md) when reading histori
 
 ---
 
-**Last refreshed:** 02.11.2026
+**Last refreshed:** 06.11.2026
