@@ -2,7 +2,7 @@
 
 **Author / originator:** Marcos Verrell Moss Ross (M.R.)  
 **Status:** Working, falsifiable retained-state selection research framework  
-**Updated:** 4 November 2026 — current scope clarification; foundational proposition retained
+**Updated:** 6 November 2026 — dated clarification of live thought formation versus previously retained history; foundational proposition retained
 
 ## Central proposition
 
@@ -13,6 +13,14 @@ Past interactions can leave persistent state changes. Retained information can s
 Interaction → state change → retained information → weighting/bias → selection → path-dependent outcome.
 
 **Retained state is primary; no particular field, biological or quantum mechanism is required.** Storage and influence may be instantiated through measurable biological, computational, material or environmental state. Electromagnetic and other fields can participate where specifically measured; universal EM memory, non-local personal memory and consciousness-induced quantum collapse are neither required nor established.
+
+## Live thought formation, retrieval and retained state (6 November 2026 clarification)
+
+In this framework, **retained state is not synonymous with a consciously recalled, already-formed memory**. Selection can occur during a live process of interpretation, recognition, evaluation or decision formation. Such present-time processing may draw on prior retained history, may cue retrieval of an explicit memory, and may itself produce a lasting state update that influences later selections.
+
+Operationally distinguish **(1) present input and active thought formation**, **(2) any previously retained state or retrieved episode that influences current weighting**, **(3) the current selection**, and **(4) any subsequent persistent update**. A live thought is not automatically classified as a pre-existing retained memory; its later retention and causal influence must be established separately. A retrieved episode is also not automatically influential merely because it was recalled.
+
+This clarification preserves the existing mathematical specification: the present-time process belongs in the declared present state/input and selection dynamics, while `M_t` refers to history retained before the selection under study. The boundary between `S_t` and `M_t` must be fixed operationally before a confirmatory experiment. Whether live significance formation has a distinct predictive signature beyond established attention, appraisal, decision and memory-updating models is an open empirical question. This clarification introduces **no new physical mechanism, experimental result or change to the canonical equations**.
 
 ## Mathematics and evidential progress
 
