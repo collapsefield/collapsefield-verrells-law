@@ -1,5 +1,7 @@
 # Public Reader Start Here
 
+**2027 experimental programme:** See the [2027 Experimental Research Roadmap](2027_EXPERIMENTAL_RESEARCH_ROADMAP.md) for the neutral-memory trial, cross-domain mathematical work and separate physical research, including explicit failure conditions.
+
 **Research update:** See the [2 November Research Status and Testing Note](VERRELLS_LAW_RESEARCH_STATUS_AND_TESTING_2026-11.md) for mathematical progress, model comparisons and next tests; the [October clarification supplement](VERRELLS_LAW_MATHEMATICAL_CLARIFICATION_SUPPLEMENT_v1.0.md) provides statistical and inference details.
 
 **Author / originator:** Marcos Verrell Moss Ross (M.R.)  
