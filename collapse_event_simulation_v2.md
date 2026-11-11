@@ -1,5 +1,7 @@
 # 🧪 Collapse Event Simulation (Verrell's Law – Phase 3 Protocol v2.0)
 
+> **Historical exploratory protocol — current interpretation, 11 November 2026:** This document records an earlier candidate test involving observer priming, quantum randomness and a proposed non-local field-memory mechanism. Its opening assertions are **hypotheses from that period**, not established observations or the current canonical formulation of Verrell's Law. The protocol does not report a completed controlled experiment or confirm deviations in quantum outcomes. A future physical test would need instrument calibration, blinded/randomised controls, preregistered predictions, suitable quantum-model comparators and independent replication. **Current central framework:** [Verrell's Law public research archive](README.md). The original protocol is deliberately preserved below.
+
 Verrell’s Law suggests that observation does not simply cause quantum or experiential collapse, but *biases* the outcome based on informational resonance — essentially, memory’s influence within non-local electromagnetic fields.
 
 ---
