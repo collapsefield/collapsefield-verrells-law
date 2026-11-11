@@ -30,6 +30,22 @@ No such general field-coupling measurement is currently claimed here.
 
 ---
 
+## Exploratory physical mechanisms — research map (11 November 2026)
+
+Possible physical test systems are **research candidates**, not required elements of the central retained-state selection framework:
+
+| Candidate setting | Established starting point | Verrell-specific question |
+| --- | --- | --- |
+| **Electromagnetic materials** | Polarisation, hysteresis and material response can depend on preparation history. | Does a predeclared retained-state variable improve held-out predictions beyond standard constitutive and hysteretic models? |
+| **Open quantum systems** | Non-Markovian dynamics and process tensors can represent measurable multitime correlations. | Can a fixed history-conditioned term distinguish new observations from a fully specified conventional open-system baseline, while respecting physical constraints? |
+| **Strong interactions / quantum chromodynamics** | Quark–gluon dynamics and their energy account for most proton mass; quantum states carry correlations. | No distinct retained-history effect or measurable Verrell-specific QCD prediction is presently defined. This remains a distant theoretical question, **not** an explanation for 'missing' proton mass. |
+
+For any branch, define the **carrier or operational state variable**, units, manipulation, controls and noise floor before fitting outcomes. An unidentified carrier is an open measurement problem, not evidence of carrier-free memory. Do not present demonstrations of conventional physical history dependence as confirmation of a new law.
+
+**Research priority:** Low-cost, discriminating computational models and independently specified benchmarks precede hardware or modified quantum-probability proposals. Mathematical formulas and physical-law claims require separate technical review.
+
+---
+
 ## Physical Extension Boundary
 
 Verrell's Law is not currently presented as established physics.
