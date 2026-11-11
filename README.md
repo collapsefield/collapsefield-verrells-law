@@ -1,8 +1,32 @@
-# Verrell’s Law — Public Research Archive
+<div align="center">
 
-**Author / originator:** Marcos Verrell Moss Ross (M.R.)  
-**Status:** Proposed falsifiable research framework.  
-**Repository role:** Current research index, mathematical specification, experimental notes, authorship record and historical archive.
+# Verrell’s Law
+
+### A Retained-State Selection Framework
+
+**Memory shapes weighting. Weighting shapes selection. Selection shapes what follows.**
+
+[**Read the foundations**](VERRELLS_LAW_MATHEMATICAL_FOUNDATIONS_AND_FALSIFICATION_PROTOCOL_v1.0.md) · [**2027 research roadmap**](2027_EXPERIMENTAL_RESEARCH_ROADMAP.md) · [**Historical document status**](ARCHIVED_DOCUMENT_STATUS.md)
+
+</div>
+
+---
+
+**Research proposition:** Prior interactions may leave persistent state changes. Under matched present inputs, those retained differences may influence later weighting and selection. The aim is to make that influence measurable, falsifiable and distinguishable from established models.
+
+**Formal starting point:** For fixed candidate sets, finite scores and common positive support, the exponential-tilt model gives an exact pairwise log-odds identity:
+
+`Δ log-odds(a,b) = λ [R(a) − R(b)]`
+
+This is an identity *within the model*, not by itself an empirical discovery. The next test is to fix retained-history scores independently, then evaluate predictions on unseen data against strong alternatives.
+
+**Research route:** [Public reader guide](PUBLIC_READER_START_HERE.md) · [Current research status](VERRELLS_LAW_RESEARCH_STATUS_AND_TESTING_2026-11.md) · [Website](https://www.verrellslaw.org/)
+
+**Scientific correspondence:** [hello@verrellslaw.org](mailto:hello@verrellslaw.org)
+
+**Separate engineering track:** [Collapse Aware AI public proof pack](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack). Commercial software behaviour is assessed independently of this research.
+
+---
 
 ## Working framework status
 
@@ -191,4 +215,4 @@ Use [Archived Document Status](ARCHIVED_DOCUMENT_STATUS.md) when reading histori
 
 ---
 
-**Last refreshed:** 06.11.2026
+**README navigation refreshed:** 11 November 2026 · Underlying research documents retained.
