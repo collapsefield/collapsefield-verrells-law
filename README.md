@@ -78,6 +78,8 @@ A dated literature-alignment note covering recent process-tensor, multitime-memo
 
 ## Core research documents
 
+**[Mathematical Status and Structural Results — 11 November 2026](MATHEMATICAL_STATUS_AND_STRUCTURAL_RESULTS_2026-11-11.md)** — independently rerun structural checks, minimum-relative-entropy characterisation, monotonicity, distribution-shift bound, tilt composition and falsifiable model commitments. No canonical equations or physical claims are changed.
+
 1. [Public Reader Start Here](PUBLIC_READER_START_HERE.md) — short orientation and claim boundary.
 2. [Retained-State Selection Research Index](00_RETAINED_STATE_SELECTION_INDEX.md) — map of the current research programme.
 3. [Mathematical Foundations and Falsification Protocol v1.0](VERRELLS_LAW_MATHEMATICAL_FOUNDATIONS_AND_FALSIFICATION_PROTOCOL_v1.0.md) — canonical retained-state selection specification.
