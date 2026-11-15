@@ -1,0 +1,22 @@
+PASS 1: swapped-order states and contrast
+PASS 2: recurrence equals closed-form convolution
+PASS 3: simulated delay decay
+PASS 4: common-input invariance (D1)
+PASS 5: D1 probe response independent of history
+PASS 6: probability increments differ by saturation only
+PASS 7: negative-scale reparameterisation (sign unidentified)
+PASS 8: recency boundary cases and pulse identification
+PASS 9: order/delay predicted from pulses only
+PASS 10: superposition: A-D = (E-D)-(C-D)
+PASS 11: hidden-state elimination with initial term
+PASS 12: fixed nonlinear D2 also breaks common-input invariance
+PASS 13: D3-w probe response scales with recorded W; D1 invariant
+PASS 14: bounded-input inequality
+PASS 15: paired recurrence at fixed exogenous W gives proportional response
+PASS 16: probe-dependent W requires extra state/readout term
+PASS 17: illustrative identity: fixed context-conditioned readout equals D3-w when W=C
+PASS 18: conditional regression constraints and direction depend on declared coupling
+PASS 19: pre-recorded W does not remove state-scale ambiguity
+PASS 20: conventional exponential material response matches state recurrence
+PASS 21: readout weighting keeps history/probe ratio invariant; storage and retention comparators do not
+PASS 22: joint storage and retention changes mimic readout gain at one delay

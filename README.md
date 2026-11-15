@@ -76,6 +76,12 @@ A dated literature-alignment note covering recent process-tensor, multitime-memo
 
 ---
 
+## Retained-state dynamics and live weighting — 15 November 2026
+
+- [Retained-State Dynamics and Live Weighting: Models, Identification and Tests](RETAINED_STATE_DYNAMICS_AND_MAXWELL_COMPATIBLE_RESPONSE.md) — methods note (v0.5.1, 15 Nov 2026). A fixed leaky-accumulator comparator; identification limits; a candidate live-weighting model; a restricted comparison of decision-time, storage and retention mechanisms; and a constitutive-memory route within unchanged Maxwell electrodynamics. Mathematical checks: [`verify_retained_state_dynamics.py`](verify_retained_state_dynamics.py). No empirical results reported.
+
+---
+
 ## Core research documents
 
 **[Mathematical Status and Structural Results — 11 November 2026](MATHEMATICAL_STATUS_AND_STRUCTURAL_RESULTS_2026-11-11.md)** — independently rerun structural checks, minimum-relative-entropy characterisation, monotonicity, distribution-shift bound, tilt composition and falsifiable model commitments. No canonical equations or physical claims are changed.
